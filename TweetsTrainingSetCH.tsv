@@ -64,7 +64,7 @@
 64	LOC/Northern Mexico;	_ _Mention_ : Northern Mexico 's State of Anarchy _URL_
 65	ORG/Tea Party;PER/Boehner;ORG/Tea Party;	_ _Mention_ : Hats Off to the Tea Party Boehner _ _ s Home State Tea Party Slams His Secret Plot To Kill -LRB- cont -RRB- _URL_
 66	ORG/NSA;	"_ _ Active Distributed Traffic Capture Systems _ _ _URL_ 100 lines of 10GbE traffic , tech lagging technology , What does NSA use , G"
-67	LOC/Bangkok;	_ _ EAGLES Live In Bangkok 2011 : _URL_ _ _
+67  MISC/EAGLES;LOC/Bangkok;	_ _ EAGLES Live In Bangkok 2011 : _URL_ _ _
 68		_ mi place _URL_ - - Inside Of You
 69		=- _Mention_ : Mysteries of the deep sea _Mention_ _URL_
 70	ORG/Google;	=- What a Google\/Groupon deal means for newspapers !_URL_ via _Mention_
