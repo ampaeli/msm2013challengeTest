@@ -410,7 +410,7 @@
 410	MISC/Time Warner movies;	_Mention_ Do n't see any Time Warner movies
 411	PER/RICK JOYNER;LOC/JIM BAKKER BUILDING;	_Mention_ FALSE PROPHET RICK JOYNER IN TROUBLE FINANCIALLY AND WITH HIS JIM BAKKER BUILDING -LRB- cont -RRB- _URL_
 412	ORG/Fed Ex R;	"_Mention_ Fed Ex R arguably the best . I suppose with the countless no. of packages daily , 1 package had 2 make news . Glad it was found ."
-413	PER/Nadal;PER/Roger Federer;PER/Rafael Nadal;	_Mention_ Federer outlasts Nadal in finals of ATP World Tour : Roger Federer and Rafael Nadal submitted another entry ... _URL_
+413 PER/Federer;MISC/ATP World Tour;PER/Nadal;PER/Roger Federer;PER/Rafael Nadal;	_Mention_ Federer outlasts Nadal in finals of ATP World Tour : Roger Federer and Rafael Nadal submitted another entry ... _URL_
 414	PER/Federer;PER/Murray;MISC/ATP World Tour Finals;LOC/LONDON;ORG/AP;PER/Roger Federer;	"_Mention_ Federer routs Murray at ATP World Tour Finals : LONDON -LRB- AP -RRB- -- Playing like the Roger Federer of old , the 16 ... _URL_"
 415	PER/Francesca Schiavone;	"_Mention_ Francesca Schiavone is my SI Sportsman of the Year : In an era where power players rule women 's tennis , Ital ... _URL_"
 416	ORG/CNN;MISC/Americans;	"_Mention_ Give the figure CNN cited , that means approximately one in six Americans is food insecure . Figure sounds accurate ."
