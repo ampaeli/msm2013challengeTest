@@ -14,7 +14,7 @@
 14		"_Mention_ : No equal pay for women , no unemployment benefits , no repeal of DADT , No , No , No SS , no medicare #GOP '' "
 15	LOC/Beirut;	_Mention_ : The beautiful empty streets of Beirut \* sigh \* '' -LRB- = = panoramic view ; -RRB- #B-LOC/Beirut  #Lebanon 
 16	LOC/Iran;MISC/Americans;	_Mention_ : Iran sets February trial date for 3 Americans - AP _URL_ _Mention_  #iran  #iranelection  #no2ir  #freeiran 
-17	PER/Sarkozy;LOC/Iran;	_Mention_ : Sarkozy says #NATO shield intended to protect against Iran _URL_ _Mention_  _Mention_  #France  #B-LOC/Iran '' 
+17	PER/Sarkozy;LOC/Iran;LOC/France;	_Mention_ : Sarkozy says #NATO shield intended to protect against Iran _URL_ _Mention_  _Mention_  #France  #B-LOC/Iran '' 
 18	LOC/New Orleans;LOC/NEW ORLEANS;	"_Mention_ : RT _Mention_ : New Orleans residents warned to boil water : NEW ORLEANS , Nov. 20 -LRB- UPI -RRB- -- -LRB- cont -RRB- _URL_"
 19	ORG/Twitter;	_ _Mention_ : RT _Mention_ : Twanking -LRB- vb . -RRB- : The act of pleasuring oneself via the medium of Twitter #manford _ 
 20	ORG/Labour Party;	_ _Mention_ : Whilst 99 % of the Labour Party are to the left of me unless the membership is infinite you -LRB- cont -RRB- _URL_
@@ -31,17 +31,17 @@
 31	ORG/Republican Party;LOC/America;	_ _Mention_ : The Republican Party is the cancer to America 's Progress ! #p2  #tcot  #gop  #dems  #topprog  #du1  #teaparty _ 
 32	PER/Banksy;MISC/Oscar;	_ _Mention_ : Banksy in line for Oscar nomination _URL_
 33	ORG/NHS;	_ _Mention_ : Doctors warned to expect unrest over NHS reforms _URL_
-34	LOC/China;	_ _Mention_ : Capabilities and Implications of China ? s Jiaolong Submersible #military _URL_ 
+34	LOC/China; MISC/Jiaolong Submersible;	_ _Mention_ : Capabilities and Implications of China ? s Jiaolong Submersible #military _URL_ 
 35	ORG/Twitter;	_ _Mention_ : The #Censorship Daily is out - read this Twitter newspaper on _URL_ -LRB- 50 contributions today -RRB- _ _ 
 36		"_ _Mention_ : Ugh gym was hard this morning lol no pain no gain I guess _ _ you are better than me , i went from the bed to the couch this AM"
 37	LOC/GB;LOC/Chicago;	_ _Mention_ : Who 's winning the GB \/ Chicago game ? _ _ still tied at 0
-38		"_Mention_ : #B-LOC/Haiti - M��decins Sans Fronti��res has treated over 12,000 people for suspected #cholera _URL_ "
+38  ORG/M��decins Sans Fronti��res; MISC/cholera;	"_Mention_ : #B-LOC/Haiti - M��decins Sans Fronti��res has treated over 12,000 people for suspected #cholera _URL_ "
 39	PER/Aung Suu Kyi;LOC/Burma;	_ _Mention_ : Aung Suu Kyi calls for release of Burma 's ethnic leaders _URL_ _Mention_  _Mention_  #Burma 
-40	LOC/London;LOC/Afghan;	_ _Mention_ : Protesters in London march against Afghan war _URL_
+40	LOC/London;MISC/Afghan war;	_ _Mention_ : Protesters in London march against Afghan war _URL_
 41	LOC/Detroit;	_ _Mention_ : _Mention_ Old Detroit has a cancer . That cancer is crime . _ _
 42		_ _Mention_ : Busted knee at the gym F & _Mention_ % \* _ _ otra vez ? ? ?
 43	ORG/CNN;	_ _Mention_ : Three weeks until my new CNN show launches . And just booked two HUGE stars for first week ... _ _ \/ Fat Blokes ?
-44		_ _Mention_ : BREAKING : #MSNBC suspends #JoeScarborough for campaign donations : _URL_ 
+44	ORG/MSNBC; PER/JoeScarborough; 	_ _Mention_ : BREAKING : #MSNBC suspends #JoeScarborough for campaign donations : _URL_ 
 45	ORG/EDL;LOC/Wolverhampton;	_ _Mention_ : EDL presence in Wolverhampton apparently 50 + protestors shouting obscene remarks . No place for the kiddies or lone women . _ _
 46	LOC/Haiti;	_ _Mention_ : Analysis : Whodunnit ? Officials have sticky problem in Haiti _URL_
 47	LOC/North Korea;LOC/U.S.;	"_ _Mention_ : FLASH : North Korea told U.S. nuclear team it had 2,000 working centrifuges : source _ _"
