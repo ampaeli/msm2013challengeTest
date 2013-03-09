@@ -47,7 +47,7 @@
 47	LOC/North Korea;LOC/U.S.;	"_ _Mention_ : FLASH : North Korea told U.S. nuclear team it had 2,000 working centrifuges : source _ _"
 48	ORG/Groupon;ORG/Google;	_ _Mention_ : Groupon considers sale to Google : report _URL_
 49	ORG/Merck;	_ _Mention_ : Merck 's Vytorin cuts heart attack risk in kidney patients _URL_
-50	PER/Obama;PER/Medvedev;ORG/Senate;	"_ _Mention_ : Obama , Medvedev urge Senate to ratify START _URL_"
+50	PER/Obama;PER/Medvedev;ORG/Senate;MISC/START	"_ _Mention_ : Obama , Medvedev urge Senate to ratify START _URL_"
 51	ORG/GOP;MISC/American;	_ _Mention_ : The GOP #Pledge is a pledge to continue exporting American jobs _URL_ #p2  #newmajority _ 
 52	ORG/GOP;	_ _Mention_ : The GOP #Pledge is a pledge to deny equal constitutional rights to #LGBT people #p2  #newmajority _ 
 53	LOC/Russia;	_ _Mention_ : Greetings from Russia ! We love #TATW ! ! ! _ _ -LRB- = = = welcome from #Russia ! ! ! #TranceFamily  #TranceFanatic 
