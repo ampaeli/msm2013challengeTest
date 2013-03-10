@@ -179,7 +179,7 @@
 179	ORG/Army;	_Mention_ I wonder if computers will start taking over since 25 % of young people ca n't even pass the Army entrance exam .
 180	LOC/Los Angeles;	_Mention_ It was good . We 're probably going to be getting your rain down here in the Los Angeles area tomorrow .
 181	PER/Angie;ORG/Twitter;	_Mention_ Okay Angie . I hope the anxiety is deleted & complete relaxation comes on . Maybe staying away from Twitter can help .
-182	PER/Angie;	_Mention_ Our educational system is broke . And those that took the Army exam were the 25 % that passed the physical . Good night Angie !
+182  PER/Angie;ORG/Army;	_Mention_ Our educational system is broke . And those that took the Army exam were the 25 % that passed the physical . Good night Angie !
 183		_Mention_ Thanks for all ! #SixSigma Haha ! Nice quotes ! 
 184	LOC/Canada;	_Mention_ yea : -LRB- they need Yo make that txt service available for Canada : -LRB-
 185		"_Mention_ um well I sing and use to model when I was 12 . And I <NEWLINE> 14 ! Haha , wbu ?"
