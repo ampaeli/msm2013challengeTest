@@ -127,7 +127,7 @@
 127	LOC/Berlin;MISC/1st Berliner Frauenkrimifestival;MISC/Lesemarathon;	"_Mention_ Great ! This Sunday , in Berlin it will be the 1st Berliner Frauenkrimifestival + Lesemarathon . Will you be there ?"
 128		_Mention_ Have a creative time ! Good vibes from #Berlin ! 
 129	PER/Baba Iyabo;	_Mention_ . Long live Baba Iyabo .
-130	ORG/Bankole and co.;	"_Mention_ . Who exactly are protesting ? Bankole and co. or the cleaners , cooks and co ?"
+130  ORG/Bankole and co.; ORG/cooks and co;	"_Mention_ . Who exactly are protesting ? Bankole and co. or the cleaners , cooks and co ?"
 131		_Mention_ WE HAVE 79 SIGNATURES _URL_ GETTING THERE !
 132	LOC/Odaiba;	_Mention_ especially that the land under is reclaimed ... it will dissolve instantly if the big one hit Odaiba #Japan 
 133	PER/Albert Alletzhauser;	"_Mention_ I highly recommend you this book called '' `` Quake '' '' by Albert Alletzhauser '' , who wrote the House of Nomura , #kantoquake  #japan "
