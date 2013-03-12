@@ -2799,7 +2799,7 @@
 2799	LOC/DR Congo;	RT _Mention_ : Police ` killed DR Congo activist ' _URL_
 2800	ORG/Pontin;	RT _Mention_ : Pontin 's goes into administration _URL_
 2801		RT _Mention_ : Schools facing funding overhaul _URL_
-2802	MISC/French;	RT _Mention_ : Seven people die in French fire _URL_
+2802  	RT _Mention_ : Seven people die in French fire _URL_
 2803	ORG/SNCF;	RT _Mention_ : SNCF ` sorrow ' over Holocaust role _URL_
 2804	ORG/Manchester United;	"RT _Mention_ : The Glazer family , who own Manchester United say they are to use their own money to pay off # 220m of high interest loans ."
 2805		RT _Mention_ : Urban v rural _URL_
