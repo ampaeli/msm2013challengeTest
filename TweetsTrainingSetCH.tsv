@@ -2775,7 +2775,7 @@
 2775		RT _Mention_ : The thief in your pocket ? _URL_
 2776		RT _Mention_ : ` Ignored ' _URL_
 2777		RT _Mention_ : Activists win ` integrity ' award _URL_
-2778	PER/Adams;MISC/Irish;	RT _Mention_ : Adams ` to contest Irish election ' _URL_
+2778	PER/Adams;	RT _Mention_ : Adams ` to contest Irish election ' _URL_
 2779	ORG/Apec;	RT _Mention_ : Apec leaders call for trade area _URL_
 2780	ORG/British Gas;	RT _Mention_ : British Gas to raise bills by 7 % _URL_
 2781	ORG/MI5;LOC/Guantanamo;PER/Binyam;	RT _Mention_ : British MI5 officer will not be charged over claims he was linked to alleged torture of former Guantanamo detainee Binyam ...
