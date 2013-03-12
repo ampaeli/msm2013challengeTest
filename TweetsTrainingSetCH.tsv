@@ -2760,7 +2760,7 @@
 2760	ORG/SNCF;	RT _Mention_ : SNCF ` sorrow ' over Holocaust role _URL_
 2761		RT _Mention_ : Students plan non-violent tactics _URL_
 2762		RT _Mention_ : War dead remembered at services _URL_
-2763	PER/Pamela Anderson;MISC/Indian BB;PER/Pamela Anderson;MISC/Indian;MISC/Big Brother;	RT _Mention_ : Pamela Anderson to join Indian BB : Former Baywatch star Pamela Anderson is join the Indian version of Big Brother . _URL_ ...
+2763	PER/Pamela Anderson;MISC/Indian BB;MISC/Baywatch;PER/Pamela Anderson;MISC/Big Brother;	RT _Mention_ : Pamela Anderson to join Indian BB : Former Baywatch star Pamela Anderson is join the Indian version of Big Brother . _URL_ ...
 2764		RT _Mention_ : Businesses concerned by water use _URL_
 2765		RT _Mention_ : Butterflies on the brink _URL_
 2766		RT _Mention_ : Dino 's oldest embryos unearthed _URL_
