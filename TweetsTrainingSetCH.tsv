@@ -2336,10 +2336,10 @@
 2336	PER/Monica Bellucci;ORG/COED Magazine;	Monica Bellucci Drops Trou for New Photo Book -LRB- 50 Photos -RRB- : COED Magazine _URL_
 2337	PER/Morris Chestnut;	Morris Chestnut #fine 
 2338		Movie night with the clones ! _URL_
-2339	PER/Ted Sorensen;	msnbc tv : A tribute to Ted Sorensen _URL_
-2340	PER/Bush;	msnbc tv : Bush rewriting WMD history _URL_
-2341	PER/Bush;	msnbc tv : Bush warned to keep book tour domestic _URL_
-2342	PER/Karl Rove;	msnbc tv : Countering Karl Rove _URL_
+2339	ORG/msnbc tv;PER/Ted Sorensen;	msnbc tv : A tribute to Ted Sorensen _URL_
+2340	ORG/msnbc tv;PER/Bush;	msnbc tv : Bush rewriting WMD history _URL_
+2341	ORG/msnbc tv;PER/Bush;	msnbc tv : Bush warned to keep book tour domestic _URL_
+2342	ORG/msnbc tv;PER/Karl Rove;	msnbc tv : Countering Karl Rove _URL_
 2343	ORG/msnbc tv;PER/Elizabeth Edwards;	msnbc tv : Elizabeth Edwards dies from cancer _URL_
 2344	ORG/msnbc tv;PER/Leslie Nielsen;	msnbc tv : In memoriam : Leslie Nielsen _URL_
 2345	ORG/msnbc tv;PER/Rand Paul; msnbc tv : Video of Rand Paul 's anti-Obama comments found _URL_
