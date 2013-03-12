@@ -2756,7 +2756,7 @@
 2756	ORG/Pontin;	RT _Mention_ : Pontin 's goes into administration _URL_
 2757		RT _Mention_ : Scots revenue powers ` to expand ' _URL_
 2758		RT _Mention_ : Scots ski season gets under way _URL_
-2759	MISC/French;	RT _Mention_ : Seven people die in French fire _URL_
+2759    RT _Mention_ : Seven people die in French fire _URL_
 2760	ORG/SNCF;	RT _Mention_ : SNCF ` sorrow ' over Holocaust role _URL_
 2761		RT _Mention_ : Students plan non-violent tactics _URL_
 2762		RT _Mention_ : War dead remembered at services _URL_
