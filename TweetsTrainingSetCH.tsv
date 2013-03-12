@@ -2342,7 +2342,7 @@
 2342	PER/Karl Rove;	msnbc tv : Countering Karl Rove _URL_
 2343	PER/Elizabeth Edwards;	msnbc tv : Elizabeth Edwards dies from cancer _URL_
 2344	ORG/msnbc;PER/Leslie Nielsen;	msnbc tv : In memoriam : Leslie Nielsen _URL_
-2345	PER/Rand Paul;PER/Obama;	msnbc tv : Video of Rand Paul 's anti-Obama comments found _URL_
+2345	ORG/msnbc tv;PER/Rand Paul; msnbc tv : Video of Rand Paul 's anti-Obama comments found _URL_
 2346	MISC/NAMM;	Music News : Three Days Of The Coffin Case Condor At Winter NAMM 2011 ... _URL_
 2347	PER/Isaac Hayes;	Music opens up minds to dream great dreams about where you can go & what you can do . Isaac Hayes #quote '' RT _Mention_ 
 2348		My aunt put the money in the machine so she kudd get sum quarters <NEWLINE> - \* Ily \* R.i. p_Ebony
