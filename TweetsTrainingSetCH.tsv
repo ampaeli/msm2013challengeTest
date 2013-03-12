@@ -2687,7 +2687,7 @@
 2687	PER/Ryan;	"RT _Mention_ : #Matt Ryan has a 10-12 record on the road . He 's not off to his best start passing , 3 of7 for 35 yards . "
 2688	PER/Ryan;	RT _Mention_ : #Matt Ryan is not sharp . He 's had three near interceptions . 
 2689	ORG/Falcons;PER/Garrett Hartley;	"RT _Mention_ : #Saints 3 , Falcons 0 -- Garrett Hartley on a 52 yard field with 1:02 left in the first quarter . Drive : 8 plays , 37 yards ... "
-2690	PER/Ivan Allen;	"RT _Mention_ : Closures for Chick-Fil-A Bowl Parade begin at 10:30 a.m. along W. Ptree near Pine , and RDA\/Ivan Allen near Peachtree . ..."
+2690	MISC/Chick-Fil-A Bowl Parade;LOC/Pine;ORG/RDA;PER/Ivan Allen;LOC/Peachtree; "RT _Mention_ : Closures for Chick-Fil-A Bowl Parade begin at 10:30 a.m. along W. Ptree near Pine , and RDA\/Ivan Allen near Peachtree . ..."
 2691	PER/Julian Assange;ORG/Time magazine;	RT _Mention_ : HOLY FUCK ! Julian Assange removed from Time magazine 's man of the year award -LRB- he was at no. 1 -RRB- _URL_ #wi ... 
 2692	PER/Alicia Keys;	RT _Mention_ : Congrats to Alicia Keys on her baby boy - do n't know her but had a few sherries and feeling sentimental
 2693	PER/Elton John;	RT _Mention_ : Elton John is editting the independent tomorrow for Worlds AIDS day lets tweet him our support _Mention_ - go on - do it ! !
