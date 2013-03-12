@@ -2771,7 +2771,7 @@
 2771		RT _Mention_ : Turtles breathe in for buoyancy _URL_
 2772	PER/Hamilton;PER/Alonso;	RT _Mention_ : I want Hamilton on pole - Alonso _URL_
 2773	PER/Pacquiao;MISC/WBC title;	RT _Mention_ : Pacquiao wins WBC title on points _URL_
-2774	LOC/Tottenham;LOC/Blackburn;	RT _Mention_ : Tottenham 4-2 Blackburn _URL_
+2774	ORG/Tottenham;ORG/Blackburn;	RT _Mention_ : Tottenham 4-2 Blackburn _URL_
 2775		RT _Mention_ : The thief in your pocket ? _URL_
 2776		RT _Mention_ : ` Ignored ' _URL_
 2777		RT _Mention_ : Activists win ` integrity ' award _URL_
