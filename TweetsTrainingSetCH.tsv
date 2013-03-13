@@ -1712,28 +1712,28 @@
 1712		Got 5\/28 playing Mythical TV Musicians . Try to top that : _URL_ #sporcle 
 1713	PER/Caleb Haine;PER/Jay Cutler;	"got to give it to the kid Caleb Haine , he nearly pulled of the victory ... damn you Jay Cutler"
 1714	PER/Grant Bradley;	"Grant Bradley : Miners inhabit a deep , dark , dank world - National - NZ Herald News _URL_ via _Mention_"
-1715		Great week to be a longhorn ! 300 million dollar deal with . ESPN and we just beat the number 2 team in the country .
+1715	ORG/ESPN;	Great week to be a longhorn ! 300 million dollar deal with . ESPN and we just beat the number 2 team in the country .
 1716	LOC/Green bay;MISC/Superbowl;	Green bay to the Superbowl ... So I guess they 're dope ? Lol
-1717	MISC/Reading Festival;	Green Day - We Are The Champions - Live at Reading Festival 2004 : _URL_
+1717	ORG/Green Day;MISC/Reading Festival;	Green Day - We Are The Champions - Live at Reading Festival 2004 : _URL_
 1718		Grow ! : Secrets of the Real Law of Attraction _URL_
 1719		grr i need adobe to watch on my ipod and it wont let me download it : -LRB-
 1720		`` Gym Time ... '' `` Pain is my motivation . '' '' ''
 1721		HA _ legal : D -- The MixeR _URL_
 1722	PER/Kanye West;	"Ha RT _Mention_ : Listening to the new Kanye West album . I might be reading too much into it , but I think he likes pussy ."
 1723	PER/noel gallagher;	had a dream las nite i saw\/met mr noel gallagher at a train station that can not name cuz there was n't one with a name but anyway it was fun !
-1724	PER/Fergie;	had no idea Fergie from BEP peed herself at a concert becz she was too drunk to go to the bathroom
+1724	PER/Fergie;ORG/BEP;	had no idea Fergie from BEP peed herself at a concert becz she was too drunk to go to the bathroom
 1725	PER/Will Smith;MISC/the Matrix;MISC/Wild Wild West;	Had no idea Will Smith turned down the role of Neo for the Matrix trilogy becz he wanted to do Wild Wild West
-1726	ORG/Bears;MISC/NFC championship;	"Had the thought cross my mind about all the Bears NFC championship hats , shirts , etc now headed to 3rd world countries . < eye roll , sigh >"
+1726	ORG/the Bears;MISC/NFC championship;	"Had the thought cross my mind about all the Bears NFC championship hats , shirts , etc now headed to 3rd world countries . < eye roll , sigh >"
 1727		Haha im having a pretty good time down here with the other people from the hotel
 1728		Haha nobody got it I think
 1729	PER/Ginuwine;	Haha ohhh Ginuwine ...
 1730		haha tdr dek RT _Mention_ : Ciiee : p RT _Mention_ : ure welcome sist RT _Mention_ : _Mention_ thanks udah dateng ya ~ -LRB- ? ? ? ~ -RRB- ~
-1731	ORG/jets;	Haha the etrade baby is on the jets side woooo
+1731	ORG/the jets;	Haha the etrade baby is on the jets side woooo
 1732		"Haha ! _Mention_ , your an adorable one are n't ya . Hey _Mention_ , your a lucky one . She has a great smile & is bright . Take care of her ."
 1733		Haha ! #MichaelSteele looks so desperate . He ' rambling about social networking now ? #rncdebate 
 1734		"Haha ! I fell back to sleep and missed #blackfriday , after all that hype . Oh well , I 'm going grocery shoppping instead then . ; -RRB- "
 1735		Haha ! It looks so cool to see my archived tweets . I wish I 'd known about this sooner . _Mention_ is da bomb ! ; -RRB-
-1736	LOC/minnesota;MISC/american;	Haha ! Music is my life ! ! ! To bad I 'm stuck in minnesota though and 13 so I ca n't even try out for american idol on other person in the world
+1736	LOC/minnesota;MISC/american idol;	Haha ! Music is my life ! ! ! To bad I 'm stuck in minnesota though and 13 so I ca n't even try out for american idol on other person in the world
 1737		Haha ! RT _Mention_ : I 'm currently having a _Mention_ TL Birthday takeover . Might as well make her a #TT . #KrissybriBDAY 
 1738		Haha ! We wish that too !
 1739	PER/Mike Vick;	Hahahaha RT _Mention_ : God loves Mike Vick . His story might need to be added to the Bible .
@@ -1743,17 +1743,17 @@
 1743	PER/David Hasselhoff;	`` hands down is David Hasselhoff '' `` Hoff : '' '' he trips over his unwarranted EGO LO _Mention_ ''
 1744		Hangover headache @ tht ... SMH .
 1745	PER/Hanie;LOC/Chi Town;	Hanie gon get all that Chi Town ass he pull this one off
-1746	PER/Tom Brady;PER/Bledsoe;PER/Hanie;	`` Hanie starting to have that '' `` Tom Brady takes over for Bledsoe to be the Hero '' '' swag . ''
-1747	PER/Hanie;PER/Knox;LOC/Chester;	Hanie steps up in the pocket and delivers to Knox . Chester punches in the TD . This game is far from over
+1746	PER/Hanie;PER/Tom Brady;PER/Bledsoe;  `` Hanie starting to have that '' `` Tom Brady takes over for Bledsoe to be the Hero '' '' swag . ''
+1747	PER/Hanie;PER/Knox;PER/Chester;	Hanie steps up in the pocket and delivers to Knox . Chester punches in the TD . This game is far from over
 1748	PER/Dale Carnegie;	"Happiness does n't depend on any external conditions , it is governed by our mental attitude . ~ Dale Carnegie"
-1749	LOC/LIVEERPOOL;	HAPPY 16TH BIRTHDAY ELLIE FROM LIVEERPOOL xx <NEWLINE> _Mention_ live on _URL_ -RRB-
+1749	PER/ELLIE;LOC/LIVEERPOOL;	HAPPY 16TH BIRTHDAY ELLIE FROM LIVEERPOOL xx <NEWLINE> _Mention_ live on _URL_ -RRB-
 1750		HAPPY BIRTHDAY TO MEEE FOR NEXT MONTH ; D _Mention_ live on _URL_ -RRB-
-1751		"Harry Potter ' College Courses - Yes , You Can Earn Credit for Studying Voldemort : _URL_"
-1752	PER/matt;	harry why do n't you ring matt and ask him how much pussy he 's had since x factor ? _Mention_ live on _URL_ -RRB-
-1753		harry you have the best taste in music _Mention_ live on _URL_ -RRB-
+1751	PER/Harry Potter;PER/Voldemort;	"Harry Potter ' College Courses - Yes , You Can Earn Credit for Studying Voldemort : _URL_"
+1752	PER/harry;PER/matt;MISC/x factor;	harry why do n't you ring matt and ask him how much pussy he 's had since x factor ? _Mention_ live on _URL_ -RRB-
+1753	PER/harry;	harry you have the best taste in music _Mention_ live on _URL_ -RRB-
 1754		has anyone ever sexted you ? ? nope . thank god . _URL_
 1755	PER/Akon;	Has anyone seen Audio -LRB- old name B5 -RRB- new video feat . Akon ? can you say pinkys up ?
-1756	ORG/Welcome Secretariat;	`` Have you ever seen that '' `` what ? '' '' '' `` A colt stand up that fast '' '' ... awe in the room Welcome Secretariat ! ! ''
+1756		`` Have you ever seen that '' `` what ? '' '' '' `` A colt stand up that fast '' '' ... awe in the room Welcome Secretariat ! ! ''
 1757	PER/Juicy J;	`` He was n't on the one I downloaded RT _Mention_ : Juicy J went in too on '' `` make it rain '' '' ''
 1758	PER/Jeremy Irons;MISC/SVU;	He 's awesome RT _Mention_ : Working with Jeremy Irons right now on SVU . .
 1759		Health : Arthritis Pain Relief ? Natural Tips And Treatments That Work Fast : I got rid of my arthritis and arthri ... _URL_
