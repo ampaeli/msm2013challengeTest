@@ -902,8 +902,8 @@
 902	PER/Cathie Black;LOC/Notre Dame;LOC/NYC;	"_Mention_ If Cathie Black ca n't even inspire her own son NOT to drop out of Notre Dame , how is she going to inspire NYC school kids ?"
 903		_Mention_ In retail and services perhaps . In industry cant compete .
 904	LOC/India;	_Mention_ India telecoms minister resigns _URL_
-905	MISC/iraqi muslims;LOC/olklahoma;	_Mention_ iraqi muslims bombed olklahoma . . republican guard
-906	PER/Kristen Blackman;	_Mention_ Kristen Blackman : '' `` Palin is An Advocate For Conservative Christian Women . `` I Do n't Necessarily Want To See Her In Office '' She Said `` ''
+905	LOC/olklahoma;	_Mention_ iraqi muslims bombed olklahoma . . republican guard
+906	PER/Kristen Blackman;PER/Palin;	_Mention_ Kristen Blackman : '' `` Palin is An Advocate For Conservative Christian Women . `` I Do n't Necessarily Want To See Her In Office '' She Said `` ''
 907	PER/Edward Nigro;	_Mention_ Look for the latest blog on Monday from Edward Nigro is _Mention_ _URL_
 908	PER/George W. Bush;	_Mention_ Looks like the declaration of the '' `` Axis of Evil '' '' made by President George W. Bush is starting to become more visible . ''
 909	PER/Mary Kirkpatrick;	_Mention_ Mary Kirkpatrick : `` There 's No Need 2Rush Right Now Because She 's Doing Things Like This & Her Face Is Constantly On TV '' Over-Exposed
@@ -916,28 +916,28 @@
 916	PER/JESUS CHRIST;	"_Mention_ Teach : JESUS CHRIST IS LORD , only Savior , believe !"
 917	PER/George W. Bush;	_Mention_ The declaration of the '' `` axis of evil '' '' made by President George W. Bush starting to realize itself . ''
 918	ORG/nytimes;	"_Mention_ yup sounds like $ 160BN copy right law legal business focus on you nytimes ,99 % commercial efficient #subpoena "
-919		_Mention_ : Delicate Choices Ahead for Myanmar Democracy Leader : _URL_
+919	LOC/Myanmar;	_Mention_ : Delicate Choices Ahead for Myanmar Democracy Leader : _URL_
 920	LOC/US;	_Mention_ : Secret Papers Detail US Aid for Ex-Nazis : _URL_
-921		_Mention_ : Zagat Aims to Regain Its Online Balance _URL_
+921	ORG/Zagat;	_Mention_ : Zagat Aims to Regain Its Online Balance _URL_
 922	PER/Paul Strand;	_Mention_ Paul Strand is one of my favorite photographers . I was lucky enough to hear him comment on a slide show of his photographs .
-923		_Mention_ This coming Summer 2011Music Program _URL_ we will have a lot fun with '' `` The Sound of the Music '' '' West Side Story '' '' ''
-924	MISC/English;MISC/Dutch;	"_Mention_ I passed on the wrong web link before , , correct link is ! : _URL_ in English & Dutch"
-925	PER/Bryan;	"_Mention_ Mr Banker , did you really not know what figure Bryan wrote down before saying that would be the next offer ?"
+923	MISC/The Sound of the Music;MISC/West Side Story;	_Mention_ This coming Summer 2011Music Program _URL_ we will have a lot fun with '' `` The Sound of the Music '' '' West Side Story '' '' ''
+924		"_Mention_ I passed on the wrong web link before , , correct link is ! : _URL_ in English & Dutch"
+925	PER/Mr Banker;PER/Bryan;	"_Mention_ Mr Banker , did you really not know what figure Bryan wrote down before saying that would be the next offer ?"
 926	PER/Ben Button;	"_Mention_ Im no boy , I just have Ben Button disease ... not expecting you to look as so , sheesh"
-927	ORG/Youtube;	_Mention_ Destorm cheated on Youtube using Getsubbed.com
+927	PER/Destorm;ORG/Youtube;	_Mention_ Destorm cheated on Youtube using Getsubbed.com
 928	PER/Montaigne;PER/Jack Beatty;	"_Mention_ Monday : #TSA controversy over body scans w _Mention_ ; plus , wisdom of Montaigne , with _Mention_ and Jack Beatty "
 929		_Mention_ have u ever been in love with the enemy ? ? _URL_ -LRB- Watch & RT -RRB-
 930	PER/Lou Reed Live;	_Mention_ : '' `` Sunday Morning -- Lou Reed Live '' '' ? _URL_ ''
 931	PER/Heidi Montag;PER/Justin Bieber;	"_Mention_ Enough Heidi Montag & Justin Bieber , more humanity in the news"
 932		_Mention_ just wana say ur the best we all < 3 u so much nd keep it up the gud work : -RRB-
-933		_Mention_ <NEWLINE> Good to see you back in form robin . Keep doin ya thing ! ! : - -RRB-
+933	PER/robin;	_Mention_ <NEWLINE> Good to see you back in form robin . Keep doin ya thing ! ! : - -RRB-
 934	ORG/Netherlands;ORG/Feyenoord;ORG/Arsenal	"_Mention_ 19 for Netherlands , 15 Feyenoord and 78 Arsenal"
 935		_Mention_ : The view from my new office is kind of cool or whatever . _URL_ that 's hot
 936	PER/Kay Ganda;	_Mention_ Pilipinas Kay Ganda nlang !
 937		"_Mention_ whoa good lick with that ! I love food way too much to live off 2 bowls of cereal a day , is it really healthy for you ?"
 938		_Mention_ no its not thats like me tellin u didnt u were a qb wen u were really a linebacker not the same ! ! ! !
 939		_Mention_ Hello Princess !
-940	PER/Ali;ORG/bears;	_Mention_ in the words of dr Ali : I think it is safe to say . . It 's a rap 4 the bears
+940	PER/dr Ali;ORG/bears;	_Mention_ in the words of dr Ali : I think it is safe to say . . It 's a rap 4 the bears
 941	PER/Colbie;PER/Joss Stone;	_Mention_ LOVE Colbie ! ! ! I 've been listening to Joss Stone all day !
 942		_Mention_ Hooray ! #hotel Holibag it this year Take in _URL_ 
 943	ORG/Twitter;ORG/facebook;	_Mention_ Twitter all the way ... I 'm on facebook but never on there !
@@ -958,16 +958,16 @@
 958	ORG/Burger King;	_Mention_ : ROFL look what this guy found in his Burger King nuggets _URL_
 959		_Mention_ Are your paying too much on your auto insurance ? _URL_
 960	PER/Jean Auel;	_Mention_ Too bad the last name is not '' `` Pshoka '' '' it meant he wanted to see her ASAP . Nice to see he 's fan of Jean Auel novels : -RRB- ''
-961	MISC/Japanese;	_Mention_  #MediaHubDVE I 'd like view the Japanese Cherry Blossoms . 
-962	PER/Solomon;PER/Socrates;PER/Shakespeare	"_Mention_ We are what we think . ~ King Solomon - `` Know thyself '' ~ Socrates . `` To thy own self , '' be true '' '' ~ Shakespeare ''"
+961		_Mention_  #MediaHubDVE I 'd like view the Japanese Cherry Blossoms . 
+962	PER/King Solomon;PER/Socrates;PER/Shakespeare	"_Mention_ We are what we think . ~ King Solomon - `` Know thyself '' ~ Socrates . `` To thy own self , '' be true '' '' ~ Shakespeare ''"
 963	PER/Charles;	_Mention_ Prince Charles has been an environmentalist for circa 25 years & makes no secret whatever of talking\/playing music to his plants
 964		_Mention_ : P haha typical mother for you ! Ah dang I became engrossed in this fanfiction I am reading so I -LRB- cont -RRB- _URL_
 965	ORG/Hen Party;	_Mention_ how 's ya day been ? Are we going Venue after the Hen Party Saturday ?
 966	PER/michael jackson;	"_Mention_ 6 yr old , michael jackson , he was actually quite godd , he got through"
 967	MISC/Super Bowl;	_Mention_ So that means you 'll have to be quarantined for the Super Bowl then ?
 968	PER/Joel Osteen;	_Mention_ as dangerous as Joel Osteen in their spreading their word of hate and harm : - -LRB-
-969		_Mention_ Lets make the Nokia N8 smartphone an option in 2010 .
-970	PER/IMMA;	"_Mention_ u know what , do you ... do you boo boo , CAUSE IMMA DO ME ! #kevinhart "
+969	ORG/Nokia;	_Mention_ Lets make the Nokia N8 smartphone an option in 2010 .
+970		"_Mention_ u know what , do you ... do you boo boo , CAUSE IMMA DO ME ! #kevinhart "
 971	PER/Cris Collinsworth;	_Mention_  _Mention_ : Thanks to Fans for this awesome old school #Bengals pic of Cris Collinsworth .11 \/ 8\/1981 _URL_ 
 972	PER/Caleb Hanie;	_Mention_ True or False : Caleb Hanie was the best QB on the field today
 973	PER/Peter Onipe;	_Mention_ . Yes chick u could say that again . I am same Peter Onipe . The same guy .
@@ -978,7 +978,7 @@
 978		_Mention_ Haha right
 979		_Mention_ There is no scientific basis for claims that the planet will begin to cool in the near future _URL_
 980	LOC/Vietnam;	_Mention_ Good man . Now break down and get a gaming PC + BFBC2 + Vietnam and you 'll be good to go .
-981 PER/OJ;PER/Bush;PER/Clinton;	"_Mention_ man I was just about to say that . Pics of OJ , Bush , Clinton . Has me rollin"
+981 	PER/OJ;PER/Bush;PER/Clinton;	"_Mention_ man I was just about to say that . Pics of OJ , Bush , Clinton . Has me rollin"
 982	PER/Ed Lover;	_Mention_ read a tweet about it . Something about her joining the station where cthagod is . Ed Lover was fired apparently 4 her to take spot
 983	PER/Rih Rih;PER/Katy Perry;	_Mention_ the charts claim Rih Rih 's album wo n't even hit the top 3 this wk . Dah well . Love Katy Perry too !
 984	PER/Sam Malone;	"_Mention_ No sweetheart , thank you , and your welcome . Keepin it real . -LRB- Hah , I said sweetheart ? Who am I , Sam Malone from Cheers ? -RRB-"
