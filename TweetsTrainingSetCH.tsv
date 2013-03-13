@@ -8,7 +8,7 @@
 8	PER/Thomas Watson; 	"To be successful , you have to have your heart in your business , and your business in your heart . Thomas Watson , Sr."
 9	PER/Sanchez;PER/Eli Wallach;MISC/The Good, The Bad and the Ugly;	"Sanchez looks like Eli Wallach in The Good , The Bad and the Ugly with that facial scruff ."
 10		"_Mention_ the history of the mayor , the city ."
-11	MISC/Entertainment Tonight;MISC/Yahoo ! News; ` Entertainment Tonight ' creator dies at 80 - Yahoo ! News _URL_
+11	MISC/Entertainment Tonight;MISC/Yahoo ! News;	` Entertainment Tonight ' creator dies at 80 - Yahoo ! News _URL_
 12	PER/Julian Assange; ORG/wikileaks;	` The truth will always win ' - Julian Assange writes #wikileaks 
 13	MISC/The Day After;LOC/Broadway & 4th Street;	_Mention_ : The Day After in #Manhattan  #NYC -LRB- Broadway & 4th Street -RRB- _URL_ -LRB- via _Mention_ -RRB- '' 
 14		"_Mention_ : No equal pay for women , no unemployment benefits , no repeal of DADT , No , No , No SS , no medicare #GOP '' "
@@ -58,7 +58,7 @@
 58	LOC/Ireland;LOC/Emerald isle;	"_ _Mention_ : Ireland 's economic woes : Tiger , tiger , burning dull - Emerald isle in the red _URL_ #economist  #ireland "
 59	LOC/WELLINGTON;LOC/New Zealand;ORG/AP;LOC/New Zealand;	"_ _Mention_ : WELLINGTON , New Zealand -LRB- AP -RRB- -- Rescuers to drill hole at New Zealand coal mine _URL_"
 60	LOC/Damascus;MISC/Iraqi;	"_ _Mention_ : Damascus : Iraqi Refugee Urged to Trade Sex for Food , Cash <NEWLINE> _URL_ <NEWLINE> #iraq _ "
-61	ORG/Wired;  "_ _Mention_ : Just in time for Thanksgiving , Wired 's How-to for Roasting the Perfect Turkey - _URL_"
+61	ORG/Wired;	"_ _Mention_ : Just in time for Thanksgiving , Wired 's How-to for Roasting the Perfect Turkey - _URL_"
 62	LOC/East Coast;	"_ _Mention_ : Storm Wreaks Havoc on Travel : A potent winter storm barreled up the East Coast , snarling air traffic , '' slowin ... '' '' ''"
 63	ORG/China;	_ _Mention_ : China Tightens Bank-Credit Rule _URL_
 64	LOC/Northern Mexico;	_ _Mention_ : Northern Mexico 's State of Anarchy _URL_
@@ -67,7 +67,7 @@
 67	ORG/EAGLES;LOC/Bangkok;	_ _ EAGLES Live In Bangkok 2011 : _URL_ _ _
 68		_ mi place _URL_ - - Inside Of You
 69		=- _Mention_ : Mysteries of the deep sea _Mention_ _URL_
-70	ORG/Google;ORG/Groupon; =- What a Google\/Groupon deal means for newspapers !_URL_ via _Mention_
+70	ORG/Google;ORG/Groupon;	=- What a Google\/Groupon deal means for newspapers !_URL_ via _Mention_
 71	LOC/west coast;	-- dude is a 100 % product of the west coast .
 72	PER/Lady Gaga;LOC/Helsinki;	-- Lady Gaga - ` Speechless ' live @ Helsinki 10/13/2010 _URL_ _Mention_ also talks about her Grampa who died recently
 73	PER/Lady Gaga;LOC/Helsinki;	-- Lady Gaga - Speechless live @ Helsinki 10/13/2010 _URL_ _Mention_ talks about her Grampa who died recently
@@ -89,9 +89,9 @@
 89	LOC/Newark;PER/superman;	". _Mention_ is like superman over there in Newark . Plowing snow , moving cars , and helping peeps ."
 90	ORG/Circle K;	. _Mention_ is so happy to be getting coffee here -LRB- @ Circle K -RRB- _URL_
 91		'' . _Mention_ '' `` doubt is a wish turned inside out '' '' ''
-92  _Mention_ damn that socialist Muslim President ! ! ! ! ! !
+92		_Mention_ damn that socialist Muslim President ! ! ! ! ! !
 93	MISC/Rocky V;	. _Mention_ I 'm watching Rocky V. Classic _Mention_ movies
-94  MISC/THE WHOLE TRUTH; MISC/PSYCH;	". _Mention_ RT _Mention_ : PSYCH - Dec 8th -LRB- I 'm told -RRB- THE WHOLE TRUTH - no air date yet , when I hear I 'll announce ."
+94	MISC/THE WHOLE TRUTH; MISC/PSYCH;	". _Mention_ RT _Mention_ : PSYCH - Dec 8th -LRB- I 'm told -RRB- THE WHOLE TRUTH - no air date yet , when I hear I 'll announce ."
 95	PER/Scott Speedman;	. _Mention_ so a #Underwold sequel ? ! Yes ! Are _Mention_ & Scott Speedman in it ? 
 96	PER/Tony Russo;	. _Mention_ segment : Tony Russo\/eyewear company story & online shopping . Beware of his company !
 97	LOC/dallas;	... i was in minn for the world wheelchair basketball championships . . the coach of the texas team and drove all the way from dallas to minn
@@ -127,7 +127,7 @@
 127	LOC/Berlin;MISC/1st Berliner Frauenkrimifestival;MISC/Lesemarathon;	"_Mention_ Great ! This Sunday , in Berlin it will be the 1st Berliner Frauenkrimifestival + Lesemarathon . Will you be there ?"
 128		_Mention_ Have a creative time ! Good vibes from #Berlin ! 
 129	PER/Baba Iyabo;	_Mention_ . Long live Baba Iyabo .
-130  ORG/Bankole and co.; ORG/cooks and co;	"_Mention_ . Who exactly are protesting ? Bankole and co. or the cleaners , cooks and co ?"
+130	ORG/Bankole and co.; ORG/cooks and co;	"_Mention_ . Who exactly are protesting ? Bankole and co. or the cleaners , cooks and co ?"
 131		_Mention_ WE HAVE 79 SIGNATURES _URL_ GETTING THERE !
 132	LOC/Odaiba;	_Mention_ especially that the land under is reclaimed ... it will dissolve instantly if the big one hit Odaiba #Japan 
 133	PER/Albert Alletzhauser;	"_Mention_ I highly recommend you this book called '' `` Quake '' '' by Albert Alletzhauser '' , who wrote the House of Nomura , #kantoquake  #japan "
@@ -137,8 +137,8 @@
 137	PER/Rev Run;	_Mention_ cuz that 's the way it is \* Rev Run voice \*
 138	PER/Ms. Sherrie Murphey;	"_Mention_  _Mention_  _Mention_  _Mention_  _Mention_  #movielogs  #commercialindustry Ms. Sherrie Murphey , you 've answered by yourself to your questions to me confirmed . "
 139	PER/Ms. Sherrie Murphey;	"_Mention_  _Mention_  _Mention_  #movielogs  #marvelpublishing  #JoeQuesada  #DanBuckley # $ 160BN CopyRight Ms. Sherrie Murphey , include commercial industry "
-140  LOC/UK;PER/Lowcock;ORG/Aid Preachers; _Mention_  #haiti  #obama  _Mention_  #jeffdsachs Murderus HRcrimes of UK gov #DFID Lowcock #nickclegg Stigma on Aid Preachers _URL_ 
-141  PER/Palin;MISC/American Idol;ORG/AP;PER/Sarah Palin;	_Mention_ U destroyed #DWTS for this -- -RRB- Palin Rips American Idol : AP got an advance copy of Sarah Palin 's new book ... _URL_ 
+140	LOC/UK;PER/Lowcock;ORG/Aid Preachers;	_Mention_  #haiti  #obama  _Mention_  #jeffdsachs Murderus HRcrimes of UK gov #DFID Lowcock #nickclegg Stigma on Aid Preachers _URL_ 
+141	PER/Palin;MISC/American Idol;ORG/AP;PER/Sarah Palin;	_Mention_ U destroyed #DWTS for this -- -RRB- Palin Rips American Idol : AP got an advance copy of Sarah Palin 's new book ... _URL_ 
 142		_Mention_ Your #science of grocery #shopping link has errors please check & fix it then resend thanks 
 143	MISC/What Would You Do ?;	_Mention_ 's '' `` What Would You Do ? '' '' is the worst sort of psychological experiment . DO NOT manipulate and frighten people . DO NOT model bad behavior . ''
 144	PER/MURDOCH;PER/Romney;ORG/GOP;	_Mention_ MURDOCH not NEWS ! MUST END as such ! \/ \/ _Mention_ Help Romney in this FOX News GOP Poll _URL_ #Romney 
@@ -160,16 +160,16 @@
 160	LOC/Vermont;	"_Mention_ when I snap , I will totally be raising goats in Vermont ."
 161	MISC/Ali;	"_Mention_ . Aight Mal . Ali , I will find the film and watch it . See Darkness See Light . Lol"
 162	ORG/NATO;LOC/IRAQ;	_Mention_ NATO stayed out of IRAQ ! Please -----
-163 MISC:Toy Story 3;	_Mention_ Look into Googling '' `` MoviePoint '' '' for the movie Toy Story 3 . I just finished watching it . Absolutely loved it . ''
+163	MISC:Toy Story 3;	_Mention_ Look into Googling '' `` MoviePoint '' '' for the movie Toy Story 3 . I just finished watching it . Absolutely loved it . ''
 164	LOC/NYC;LOC/NBC Experience store;	_Mention_ : To my NYC folks - I _ _ ll be doing a signing\/reading of my new book at the NBC Experience store at 10:30 am . Come by and say hi !
-165  ORG/Amnesty;	_Mention_ Love the drive #PR Power ! many blessings to you and Amnesty ! 
+165	ORG/Amnesty;	_Mention_ Love the drive #PR Power ! many blessings to you and Amnesty ! 
 166		_Mention_ Awesome
 167	PER/Nicki Minaj;	_Mention_ when did Nicki Minaj become hip hop tho ? ! I think she 's more pop . Idk how ppl can say certain things
 168	ORG/EU;	"_Mention_ I am curious what 's the situation in other countries - EU , for instance ..."
 169		_Mention_ I think the answer regarding #Belarus is easy : this is NOT a democracy ! Talking about '' `` faking '' '' etc. is ` exercise de style ' '' 
 170		_Mention_ ANOTHER GREAT INTERVIEW PRIMOOOO - NOW IF WE CAN ONLY SEE THE ORIGINAL BIRTH CERTIFICATE LOL COULDNT RESIST
 171	PER/morgan freeman;	_Mention_  _Mention_ look at _Mention_ who started it all re : morgan freeman hoax
-172 ORG/CONGRESS; PER/OBAMA;	_Mention_ CONGRESS OUTLAWS USE OF AUTOTUNES AFTER PRES. OBAMA INSISTS ON USING IT WHEN GIVING ALL HIS SPEECHES #LOCOPREDICTIONS2011 
+172	ORG/CONGRESS;PER/OBAMA;	_Mention_ CONGRESS OUTLAWS USE OF AUTOTUNES AFTER PRES. OBAMA INSISTS ON USING IT WHEN GIVING ALL HIS SPEECHES #LOCOPREDICTIONS2011 
 173	ORG/Amazon;	_Mention_ there is no way one can explain this book that will sound reasonable and shame on Amazon !
 174	ORG/Senate;	_Mention_ : Update : Tax deal clears key Senate hurdle _URL_ _Mention_
 175	ORG/Reuters;	"_Mention_ : next #Wikileaks dump has potentially embarassing corruption tales about foreign govt 's , leaders , sources tell Reuters "
@@ -179,7 +179,7 @@
 179	ORG/Army;	_Mention_ I wonder if computers will start taking over since 25 % of young people ca n't even pass the Army entrance exam .
 180	LOC/Los Angeles;	_Mention_ It was good . We 're probably going to be getting your rain down here in the Los Angeles area tomorrow .
 181	PER/Angie;ORG/Twitter;	_Mention_ Okay Angie . I hope the anxiety is deleted & complete relaxation comes on . Maybe staying away from Twitter can help .
-182  PER/Angie;ORG/Army;	_Mention_ Our educational system is broke . And those that took the Army exam were the 25 % that passed the physical . Good night Angie !
+182	PER/Angie;ORG/Army;	_Mention_ Our educational system is broke . And those that took the Army exam were the 25 % that passed the physical . Good night Angie !
 183		_Mention_ Thanks for all ! #SixSigma Haha ! Nice quotes ! 
 184	LOC/Canada;	_Mention_ yea : -LRB- they need Yo make that txt service available for Canada : -LRB-
 185		"_Mention_ um well I sing and use to model when I was 12 . And I <NEWLINE> 14 ! Haha , wbu ?"
@@ -198,7 +198,7 @@
 198	ORG/Twitter;	_Mention_ You should not swear on Twitter and say that 4 letter word ! SNOW ! NO SNOW ! ! ! ! LOL Not ready yet ! : o -RRB-
 199	LOC/India;	_Mention_ <NEWLINE> What is #barkhagate trending in India <NEWLINE> lol 
 200	LOC/Chicago;	"_Mention_ is out of his fucking mind . He is not drunk , he is not high , and he is not in Chicago"
-201  ORG/Amazon.com;	_Mention_ The Torch is only $ 50.00 on Amazon.com .
+201	ORG/Amazon.com;		_Mention_ The Torch is only $ 50.00 on Amazon.com .
 202	PER/Andrea Yates;	"_Mention_ Girl Andrea Yates from #houston killed 5 of hers , and is only in mental institution smh . what channel ru watching ? "
 203		"_Mention_ insufficient postage , only some were returned not all , 60c for the same size of a christmas card should be enough shouldnt it ?"
 204	MISC/Kiss Goodbye;	_Mention_ new vid ` Kiss Goodbye ' Premiere 's tonight 12AM EST\/9PM PST on his website avantofficial.com
@@ -209,16 +209,16 @@
 209	PER/Harris;	_Mention_ Watch this ! Dr. Harris _Mention_ defines morality correctly ; asserts correctly that we can measure it . _URL_
 210	ORG/House of Representatives;	_Mention_ : '' `` I urge the House of Representatives to act quickly on this important matter . '' '' #taxcuts '' 
 211	LOC/Oxford;	_Mention_ '' `` fury '' '' ? Really ? '' `` wild or violent anger '' '' - per Oxford dictionary . Do you think so ? Or are they just a bit politically annoyed ? ''
-212  _Mention_ Indian electronic media r insane .
+212		_Mention_ Indian electronic media r insane .
 213  LOC/EU;	_Mention_ Irish ` in bailout talks with EU ' _URL_ -RRB- -RRB- It used to be individual banks now its become whole countries
-214  PER/manas-chaudhuri;	_Mention_ QIPS #Solar  #energy manas-chaudhuri . blogspot.com/?spref=tw 
+214	PER/manas-chaudhuri;	_Mention_ QIPS #Solar  #energy manas-chaudhuri . blogspot.com/?spref=tw 
 215		_Mention_ Solar #Energy  #QIPS energy Targets Published In Business Plan Page _URL_ 
-216  PER/manas-chaudhuri;	_Mention_ Solar Energy of QIPS energy also designing for Boa ... manas-chaudhuri . blogspot.com/2010/11/solar-_ÔøΩÔøΩ_ÔøΩÔøΩ___
-217  ORG/MS; ORG/Google;	PER/Ric; "_Mention_ : Joy ! MS Office now syncs with Google Docs -LRB- well , in beta anyway -RRB- . We are soon to be one big happy collaborative Click family . Ric"
+216	PER/manas-chaudhuri;	_Mention_ Solar Energy of QIPS energy also designing for Boa ... manas-chaudhuri . blogspot.com/2010/11/solar-_ÔøΩÔøΩ_ÔøΩÔøΩ___
+217	ORG/MS;ORG/Google;	PER/Ric; "_Mention_ : Joy ! MS Office now syncs with Google Docs -LRB- well , in beta anyway -RRB- . We are soon to be one big happy collaborative Click family . Ric"
 218		_Mention_ lol was just a joke ... The ` Other Channel ' does n't matter lol
 219	LOC/Korea;	_Mention_ also a big threat to human and animals in Korea .
 220	LOC/Korea;	_Mention_ It is also a big worry to human and animals in Korea
-221  LOC/Nazi Germany;	"_Mention_ being British seperated fathers are treated like Jews in Nazi Germany , I have n't seen my kids for 8 years . Compensate that ."
+221	LOC/Nazi Germany;	"_Mention_ being British seperated fathers are treated like Jews in Nazi Germany , I have n't seen my kids for 8 years . Compensate that ."
 222	PER/Blunt;	_Mention_ Is this anything to do with Mr Blunt making my dogs in to lesbians ?
 223	LOC/Ireland;	_Mention_ nice read on Ireland
 224	PER/Leslie Nielsen;	_Mention_ The world will be a sadder place without Leslie Nielsen . R.I.P.
@@ -229,7 +229,7 @@
 229	PER/Liam Fox;	_Mention_ Liam Fox is full of it .
 230		_Mention_  _Mention_  _Mention_  _Mention_  _Mention_  _Mention_  _Mention_ WHO WON YELLOw YEAH ? ! ! !
 231	PER/Palmer;	_Mention_ Would u like Mr Palmer if a rocket carrying this radioactive package blew up & spewed radioactive particulates in yr back yard ?
-232  PER/Gavin Henson;PER/Barry chuckle; PER/will ferrell	"_Mention_ marry , kiss , kill : Gavin Henson , Barry chuckle , will ferrell ?"
+232	PER/Gavin Henson;PER/Barry chuckle;	PER/will ferrell	"_Mention_ marry , kiss , kill : Gavin Henson , Barry chuckle , will ferrell ?"
 233	ORG/BBC;	_Mention_ so you dont work for the BBC ?
 234	PER/David Haye;PER/Audley;	_Mention_ what round will David Haye KO Audley ?
 235		"_Mention_ what would you rather do for a living , cheerleader or gardener ?"
@@ -237,23 +237,23 @@
 237	LOC/UK;	_Mention_ you are Tweeting for the biggest sport site in the UK and dont know about Rugby ... poor form . .
 238	ORG/Pirate Bay;	_Mention_ . Ooops . Thats the popular Pirate Bay .
 239		"_Mention_ , I really hope it does n't have to come to that . #Ireland  #EU "
-240  _Mention_ A Ghazal of Ghalib In English : A Ghazal of Ghalib Rendered ... _URL_
+240		_Mention_ A Ghazal of Ghalib In English : A Ghazal of Ghalib Rendered ... _URL_
 241	MISC/MMA;LOC/Glasgow;	_Mention_ Octagon Blog : MMA in Glasgow 2011 !
 242	LOC/UK;LOC/UK;PER/JESUS;	"_Mention_ the UK family law holocaust has seen millions of UK kids taken from seperated fathers , thanks to JESUS , he is to return them ."
 243	LOC/America;	_Mention_ ` DADT ' - America still has a long way to go to get on the humanitarian list !
 244	ORG/NATO;LOC/Afghanistan;	_Mention_ '' `` A man in police uniform kills 6 NATO troops during training session in eastern Afghanistan . '' '' . . Thats the thing about uniforms . ''
-245	PER/jerry yang; PER/david filo; _Mention_ '' `` valleylist '' '' v135 r. 1 - - electricity -LRB- jerry yang and david filo -RRB- <NEWLINE> _URL_ ''
+245	PER/jerry yang;PER/david filo;	_Mention_ '' `` valleylist '' '' v135 r. 1 - - electricity -LRB- jerry yang and david filo -RRB- <NEWLINE> _URL_ ''
 246 PER/Fiona;ORG/BBC;	_Mention_  _Mention_ Fiona looks a bit Frumpy Tonight Watch out the BBC might ship in some Chinese News Readers to save Money !
 247	PER/Breitbart;ORG/ADL;	_Mention_  _Mention_  _Mention_ Question : Why won _ _ t Breitbart report on ADL _ _ s sweeping condemnation of Beck ? _URL_ _Mention_
 248	LOC/US;	_Mention_ 350M US for a Trent 900 Each Naga ? surely thats 10 times too Much ! 1.4 Billion for for 4 ?
 249	LOC/Pakistan;	_Mention_ Action Plan for Econ Salvation of Pak : Security of Pakistan _ _ s future depends in its econom growth & d. . . _URL_
 250	LOC/North Korea;LOC/South Korea;MISC/Asian;	_Mention_ Alternatively could North Korea 's attack on South Korea have an influence on Asian shares ?
 251	LOC/Australia;LOC/Blackwater;LOC/Christmas Island;	_Mention_ Australia _ _ s Blackwater update : Christmas Island detainees sew lips together _URL_ _Mention_  _Mention_  #p2 
-252 LOC/Nazi Germany;	"_Mention_ British seperated fathers are treated like Jews in Nazi Germany , I have n't seen my kids for 8 years . Compensate that ."
-253 LOC/Pakistan;	_Mention_ By repeat annonucements these Americans will make $ 7.5 billion KLB aid look like $ 750 billions assistance to Pakistan .
-254 ORG/Pepsi;ORG/Coke;ORG/BRICA Group;	_Mention_ Coke vs. Pepsi in emerging markets - BRICA Group Weekly Episode 1 bricagroup.posterous.com/coke-vs-pepsi-_ÔøΩÔøΩ_ÔøΩÔøΩ___ via _Mention_
+252	LOC/Nazi Germany;	"_Mention_ British seperated fathers are treated like Jews in Nazi Germany , I have n't seen my kids for 8 years . Compensate that ."
+253	LOC/Pakistan;	_Mention_ By repeat annonucements these Americans will make $ 7.5 billion KLB aid look like $ 750 billions assistance to Pakistan .
+254	ORG/Pepsi;ORG/Coke;ORG/BRICA Group;	_Mention_ Coke vs. Pepsi in emerging markets - BRICA Group Weekly Episode 1 bricagroup.posterous.com/coke-vs-pepsi-_ÔøΩÔøΩ_ÔøΩÔøΩ___ via _Mention_
 255	MISC/English;LOC/UK;	_Mention_ English family law holocaust sees millions of UK kids snatched from separated fathers . Children suffering mental torture .
-256 MISC/English;LOC/UK;LOC/UK; _Mention_ English family law holocaust sees millions of UK kids snatched from separated fathers . UK children suffering mental torture .
+256	MISC/English;LOC/UK;LOC/UK;	_Mention_ English family law holocaust sees millions of UK kids snatched from separated fathers . UK children suffering mental torture .
 257	PER/RICK JOYNER;LOC/JIM BAKKER BUILDING;	_Mention_ FALSE PROPHET RICK JOYNER IN TROUBLE FINANCIALLY AND WITH HIS JIM BAKKER BUILDING -LRB- cont -RRB- _URL_
 258	LOC/Ariz.;	_Mention_ Final vote count : Ariz. ... voters OK ... measure legalizing medical marijuana -
 259	LOC/Russia;	_Mention_ Fur flying ... Look to disable Sat lines look to work with Russia
@@ -262,7 +262,7 @@
 262	ORG/fifa;	"_Mention_ Good what are they scared of more corruption oozing out of the fifa ` s mire , perhaps more investigations may come of it"
 263	ORG/Nato;LOC/Portugal;	_Mention_ _URL_ Nato Destroys Everything will be the slogan of blocked anti-nato protesters in Portugal !
 264	LOC/India;PER/Gandhi;	"_Mention_ I hope India will come to an end with the cast system , it s so strange for the nation of Gandhi to maintain this awful system"
-265	LOC/Ireland;LOC/Europe  _Mention_ In everyone 's -LRB- i.e BANKERS -RRB- '' `` better interests '' '' for Ireland to '' `` see this through '' '' says Europe Minister as pressure grows 4 bailout ''
+265	LOC/Ireland;LOC/Europe	_Mention_ In everyone 's -LRB- i.e BANKERS -RRB- '' `` better interests '' '' for Ireland to '' `` see this through '' '' says Europe Minister as pressure grows 4 bailout ''
 266	ORG/BBC Global;	_Mention_ Is that really BBC Global worthy news ?
 267	ORG/BBC;	_Mention_ Is that really BBC worthy news ?
 268	LOC/Nairobi Airport;	_Mention_ Is your chap really at Nairobi Airport _URL_ Bacjground ?
@@ -311,7 +311,7 @@
 311	PER/Barbara;PER/Jessica;	"_Mention_ - Thanks for the RT , Barbara ! ~ Peace ! - Jessica"
 312		_Mention_ This is a little message to everyone planning on roasting me tomorrow at #Aztecas ... ... _URL_ ... #FuckKobe 
 313	PER/Parker;PER/Richard Jefferson;	_Mention_ Damn ... A teammates wife though ? The only worse in Parker 's case would 've been if it were Richard Jefferson 's male lover ...
-314 LOC/GREAT BRITAIN;  _Mention_ YOOO CHULO YESTERDAY WAS BOXING DAY IN GREAT BRITAIN - BUT IT HAS NOTHING TO DO WITH FIGHTING LOL
+314	LOC/GREAT BRITAIN;	_Mention_ YOOO CHULO YESTERDAY WAS BOXING DAY IN GREAT BRITAIN - BUT IT HAS NOTHING TO DO WITH FIGHTING LOL
 315	LOC/Amherst;ORG/UMass;	"_Mention_ He meant alot to those of us who live in Amherst , MA as well -- and his longstanding affiliation with UMass . What a cool cat ."
 316	PER/Bob Harris;	_Mention_ Bob Harris is similarly puzzled .
 317	ORG/Packers;MISC/superbowl;	_Mention_  _Mention_ I 'm hoping the #Steelers go all the way and beat those Packers ! -LRB- still pissed that they are even in the superbowl -RRB- 
@@ -335,7 +335,7 @@
 335	PER/Brittany;	_Mention_ aww . . Brittany ! ! ! What did u done ! ? Haha . . Is ur school turning into a battlefield ! ? . . Stay Safe tho : - \/
 336	PER/Jay Cutler;	_Mention_ i 'd be cool with that cuz its not Jay Cutler . Plus you sent that at 14-7 .
 337	LOC/US;	_Mention_ please could you explain the effects of the QE2 on the US economy
-338	PER/teena marie;ORG/cnn;  _Mention_ RT _Mention_ : cnn has confirmed from teena marie 's manager that she has died .
+338	PER/teena marie;ORG/cnn;	_Mention_ RT _Mention_ : cnn has confirmed from teena marie 's manager that she has died .
 339	PER/roland martin;ORG/CNN;	_Mention_ roland martin of CNN has confirmed it
 340	LOC/canada;	_Mention_ yeah look at all that crap ! thats how it is here in canada waist deep snow and alll that ! and always cold . . i need to move ! !
 341		_Mention_ She is not dead ... someone started a rumor
@@ -401,7 +401,7 @@
 401	PER/bush jr;	_Mention_  _Mention_ history should show that bush jr should be in jail or at least never should have been president
 402		_Mention_  _Mention_  #CNN  #0/iPad  #CNNon0/iPad 
 403	LOC/California;	_Mention_  _Mention_ we live in California . We Def Know What a 6.9 quake feels like ! lol
-404 PER/PALIN;  _Mention_  _Mention_ -RRB- WHO DOES N'T PALIN TRASH-SHE THINKS SHE IS GREAT\/LOL '' `` OUTLOUD '' '' ''
+404	PER/PALIN;	_Mention_  _Mention_ -RRB- WHO DOES N'T PALIN TRASH-SHE THINKS SHE IS GREAT\/LOL '' `` OUTLOUD '' '' ''
 405		_Mention_  _Mention_  _Mention_ _URL_
 406		"_Mention_  #wef  #davos  #humanrights After almst a yr PM not taken action murderer KNath , Bhuria , SSP , Mutemwar #raja  #cwg _URL_ "
 407	PER/Edward Nigro;	_Mention_ Be sure to read the new blog every Monday at Edward Nigro is _Mention_ _URL_ #TheChinaInsider 
@@ -410,7 +410,7 @@
 410	MISC/Time Warner movies;	_Mention_ Do n't see any Time Warner movies
 411	PER/RICK JOYNER;LOC/JIM BAKKER BUILDING;	_Mention_ FALSE PROPHET RICK JOYNER IN TROUBLE FINANCIALLY AND WITH HIS JIM BAKKER BUILDING -LRB- cont -RRB- _URL_
 412	ORG/Fed Ex R;	"_Mention_ Fed Ex R arguably the best . I suppose with the countless no. of packages daily , 1 package had 2 make news . Glad it was found ."
-413 PER/Federer;MISC/ATP World Tour;PER/Nadal;PER/Roger Federer;PER/Rafael Nadal;	_Mention_ Federer outlasts Nadal in finals of ATP World Tour : Roger Federer and Rafael Nadal submitted another entry ... _URL_
+413	PER/Federer;MISC/ATP World Tour;PER/Nadal;PER/Roger Federer;PER/Rafael Nadal;	_Mention_ Federer outlasts Nadal in finals of ATP World Tour : Roger Federer and Rafael Nadal submitted another entry ... _URL_
 414	PER/Federer;PER/Murray;MISC/ATP World Tour Finals;LOC/LONDON;ORG/AP;PER/Roger Federer;	"_Mention_ Federer routs Murray at ATP World Tour Finals : LONDON -LRB- AP -RRB- -- Playing like the Roger Federer of old , the 16 ... _URL_"
 415	PER/Francesca Schiavone;	"_Mention_ Francesca Schiavone is my SI Sportsman of the Year : In an era where power players rule women 's tennis , Ital ... _URL_"
 416	ORG/CNN;MISC/Americans;	"_Mention_ Give the figure CNN cited , that means approximately one in six Americans is food insecure . Figure sounds accurate ."
@@ -421,7 +421,7 @@
 421	LOC/Michigan 's Lansing Community College;	_Mention_ Michigan 's Lansing Community College downtown campus gets bomb scare ... _URL_
 422	PER/Mike Bloomberg;PER/Cathie Black;	"_Mention_ Mike Bloomberg 's Approval Rating Lowest in 5 Yrs , Following Cathie Black Appt _URL_"
 423	PER/Monfils;PER/Federer;ORG/Paris Masters;	"_Mention_ Monfils beats top-seeded Federer to reach Paris Masters final : On the brink of defeat , courtesy of five mat ... _URL_"
-424 PER/Michelle; PER/Sasha; PER/Malia  "_Mention_ Mr. President : Would you send Michelle\/Sasha\/Malia through TSA screening ? Naked photos or invasive genital groping , you choose ."
+424	PER/Michelle;PER/Sasha;PER/Malia	"_Mention_ Mr. President : Would you send Michelle\/Sasha\/Malia through TSA screening ? Naked photos or invasive genital groping , you choose ."
 425	LOC/China;MISC/Koreas;	_Mention_ My latest blog on Monday is going to be a blockbuster . Be sure to read my analysis of China 's role in the tale of 2 Koreas .
 426	PER/Nadal;MISC/ATP tournament;LOC/LONDON;ORG/AP;	"_Mention_ Nadal displays rare fit of rage at ATP tournament : LONDON -LRB- AP -RRB- -- Incensed and even a little indignant , Raf ... _URL_"
 427	MISC/MMA;ORG/CNN;	_Mention_ Octagon Blog : MMA on CNN
@@ -498,7 +498,7 @@
 498	LOC/China;LOC/North Korea;	_Mention_ China proposes emergency talks : As both North Korea 's largest trading partner and a country ... _URL_ #topNews  #fb 
 499	LOC/Haiti;	_Mention_ Cholera outbreak ` extremely alarming ' : Doctors in Haiti say they are alarmed by the increas ... _URL_ #topNews  #fb 
 500	LOC/Haiti;	_Mention_ Cholera spreads to Haiti 's largest prison : The deadly cholera epidemic that has claimed mo. . . _URL_ #topNews  #fb 
-501 PER/Clinton;PER/Hillary Clinton;  _Mention_ Clinton : We ca n't afford to wait on arms control : Secretary of State Hillary Clinton is urg ... _URL_ #topNews  #fb 
+501	PER/Clinton;PER/Hillary Clinton;	_Mention_ Clinton : We ca n't afford to wait on arms control : Secretary of State Hillary Clinton is urg ... _URL_ #topNews  #fb 
 502	ORG/Pepsi;	_Mention_ Coke vs. Pepsi in emerging markets - BRICA Group Weekly Episode 1 bricagroup.posterous.com/coke-vs-pepsi-_��_��___ via _Mention_
 503		_Mention_ cool so everyone he ripped off will get 35 cents
 504	LOC/America;	_Mention_ cyber attack on America !
@@ -507,7 +507,7 @@
 507	MISC/Americans;	_Mention_ Does your airport have body-scanners ? : Many Americans planning holiday travel have expresse ... _URL_ #topNews  #fb 
 508	ORG/GOP;ORG/GOP;	_Mention_ Earmarks get ax from GOP senators : GOP senators face a tough vote Tuesday on whether to ban ... _URL_ #topNews  #fb 
 509	LOC/UK;MISC/English;	_Mention_ English family law holocaust sees millions of UK kids snatched from separated fathers . Children suffering mental torture .
-510 MISC/North Korean; LOC/North Korea; _Mention_ Envoys : North Korean nuclear revelations confirm deceit : North Korea 's latest revelations a. . . _URL_ #topNews  #fb 
+510	MISC/North Korean;LOC/North Korea;	_Mention_ Envoys : North Korean nuclear revelations confirm deceit : North Korea 's latest revelations a. . . _URL_ #topNews  #fb 
 511	ORG/Facebook;	_Mention_ Facebook overhauls messaging system : Would you like an e-mail address ending in '' _Mention_ ... _URL_ #topNews  #fb '' 
 512	LOC/Beverly Hills;PER/Ronni Chase;	_Mention_ Few clues in Hollywood publicist 's death : Beverly Hills detectives are scanning Ronni Chase ... _URL_ #topNews  #fb 
 513		_Mention_ Fight like a Girl challenges Pedophile Peddler Author to Match Fighting 4 every victim of child molestation _URL_
@@ -813,7 +813,7 @@
 813	MISC/super bowl;	_Mention_ do you think we will b seein yall in the super bowl
 814	ORG/Tayto;ORG/King;	"_Mention_  _Mention_ Carlow , yes that sounds familiar . TK lemonade and Perri crisps -LRB- or Tayto , King -RRB- ! As kids all thought King were best"
 815	MISC/NFL;	_Mention_ We engage in the game very much > > > go to _URL_ and get MADDEN NFL for 0 $ !
-816	MISC/Java;  "_Mention_ Yeah the syntax is a bit awkward , , , but I like to think of it as really what Java should 've been and that makes it a little easier ."
+816	MISC/Java;	"_Mention_ Yeah the syntax is a bit awkward , , , but I like to think of it as really what Java should 've been and that makes it a little easier ."
 817	PER/Roger;	_Mention_ . Sir Yes Sir . Roger that Boss .
 818	PER/Holly;PER/Colin Cowie;	"_Mention_ that has to be THE party , my friend Holly was also there , wish I was able to of attended Colin Cowie did it again , Fab"
 819		_Mention_ Professor Spicy Pickle ... I 'll bring the ruler . : p lol
@@ -867,7 +867,7 @@
 867	LOC/taiwan;	_Mention_ they 're all the same . made in taiwan .
 868	PER/Sudha Pillay;ORG/DFID;	_Mention_  _Mention_  #ndtv  #cnn Mr #Cameron Ample proof bucrat Sudha Pillay heading DFID 's Lowcock ploted HR crimes agenda4yrs #haiti 
 869	PER/Sudha Pillay;PER/Dr RS Khare;ORG/UKgov;ORG/DFID;	_Mention_  #williamhague  #foreignoffice Sudha Pillay & Kin Dr RS Khare used2 run UKgov DFID 9 yrs of HR crimes _URL_ #bb4 
-870 	MISC/Harry Potter;  "_Mention_ Wow , free tickets to the new Harry Potter movie ! _URL_"
+870	MISC/Harry Potter;	"_Mention_ Wow , free tickets to the new Harry Potter movie ! _URL_"
 871		_Mention_ A Ghazal of Ghalib In English : A Ghazal of Ghalib Rendered ... _URL_
 872	LOC/Pakistan;	_Mention_ By repeat annonucements these Americans will make $ 7.5 billion KLB aid look like $ 750 billions assistance to Pakistan .
 873		_Mention_ Deficiency becomes art f artist _ _ #Ancerg _URL_ #FB super heroes w sp needs . indicated by #TomCruise  #Kelsey_Grammer 
@@ -978,7 +978,7 @@
 978		_Mention_ Haha right
 979		_Mention_ There is no scientific basis for claims that the planet will begin to cool in the near future _URL_
 980	LOC/Vietnam;	_Mention_ Good man . Now break down and get a gaming PC + BFBC2 + Vietnam and you 'll be good to go .
-981 PER/OJ;PER/Bush;PER/Clinton;	"_Mention_ man I was just about to say that . Pics of OJ , Bush , Clinton . Has me rollin"
+981	PER/OJ;PER/Bush;PER/Clinton;	"_Mention_ man I was just about to say that . Pics of OJ , Bush , Clinton . Has me rollin"
 982	PER/Ed Lover;	_Mention_ read a tweet about it . Something about her joining the station where cthagod is . Ed Lover was fired apparently 4 her to take spot
 983	PER/Rih Rih;PER/Katy Perry;	_Mention_ the charts claim Rih Rih 's album wo n't even hit the top 3 this wk . Dah well . Love Katy Perry too !
 984	PER/Sam Malone;	"_Mention_ No sweetheart , thank you , and your welcome . Keepin it real . -LRB- Hah , I said sweetheart ? Who am I , Sam Malone from Cheers ? -RRB-"
@@ -1082,7 +1082,7 @@
 1082	ORG/Microsoft;	#HappyBirthday Microsoft #Windows on ur 25th birthday 
 1083		"#insanity RT _Mention_ Couple arrested , 2 year old playing with methadone bottle - _URL_"" "
 1084	PER/Lance Gross;PER/Boris Kodjoe;	#iprefer Lance Gross over Boris Kodjoe LOL 
-1085	ORG/Global Ind; "#italy - Global Automotive Chemicals Market to Reach US$ 3.9 Billion by 2015 , According to a New Report by Global Ind _URL_"" "
+1085	ORG/Global Ind;	"#italy - Global Automotive Chemicals Market to Reach US$ 3.9 Billion by 2015 , According to a New Report by Global Ind _URL_"" "
 1086	PER/Paul McCartney;LOC/appollo;	#jealous RT : _Mention_ : I 'm taking my son and my mother in law to see Paul McCartney at the appollo on Monday ! ! 
 1087	PER/Sheldon;PER/Jim Parsons;	#justsaying I love Sheldon -LRB- Jim Parsons -RRB- from _Mention_ . Sure way to give me the giggles 
 1088		#Kanye West Is Still A Whiny Little `` B '' ! _URL_ He 's always been one ! 
@@ -1397,7 +1397,7 @@
 1397	PER/Bing Crosby;	Bing Crosby - Silent Night _URL_
 1398	MISC/Black Swan;PER/Natalie Portman;ORG/Glamour.com;LOC/UK;	Black Swan poster Natalie Portman -LRB- Glamour.com UK -RRB- : _URL_ via _Mention_
 1399	ORG/BMW;	"BMW : -------- A must see 2004 325i bmw --------- -LRB- atlanta -RRB- $ 7000 : This car has been pampered , have ... _URL_ #carsatlanta "
-1400	PER/Bob Marley;ORG/MSN; Bob Marley chills baby MSN Video _URL_
+1400	PER/Bob Marley;ORG/MSN;	Bob Marley chills baby MSN Video _URL_
 1401	PER/Bobby Heenan;PER/Harley Race;	Bobby Heenan and Harley Race have been invited to Wrestlemania .
 1402		Bored ? Come video chat with me and 82 others at _URL_ -LRB- _URL_
 1403	LOC/u.s.a.;	born and rasied in da u.s.a. where my president iz b.l.a.c.k. Where my president iz b.l.a.c.k. #lilwayne 
@@ -1607,7 +1607,7 @@
 1607	LOC/UK;	Estate Planning : Pension particulars : what changes to legislation mean for UK expats _URL_
 1608	PER/George Vlosich III;	Etch A Sketch Art by George Vlosich III : Anyone who ever turned the knobs of an Etch A Sketch toy knows how hard ... _URL_
 1609	LOC/Nederland;	Europarlement wil Nederland straffen ' : _URL_ #nuiphone 
-1610	ORG/Jets;PER/Sanchez;PER/Brady;PER/Manning;PER/Big Ben; "Even If The Jets Do Win , Sanchez Will Not Be In Discussion With Brady , Manning , Or Big Ben Sorry ."
+1610	ORG/Jets;PER/Sanchez;PER/Brady;PER/Manning;PER/Big Ben;	"Even If The Jets Do Win , Sanchez Will Not Be In Discussion With Brady , Manning , Or Big Ben Sorry ."
 1611		"even if the sky is falling down \* qdm , nois minha linda : -RRB- _Mention_ _URL_"
 1612	PER/Napoleon Hill;	"Every adversity , every failure , every heartache carries with it the seed on an equa . . Napoleon Hill"
 1613	PER/Napoleon Hill;	"Every adversity , every failure , every heartache carries with it the seed on an equal or greater benefit ~ Napoleon Hill"
@@ -1672,7 +1672,7 @@
 1672	PER/Julia Durly;	"Future lady -LRB- Julia Durly -RRB- , if you ca n't get along with my fam , we wo n't last"
 1673	ORG/GA;ORG/NC;ORG/SC;ORG/CO;	"GA , NC , SC , and CO banks added to the Failed Bank Map , raising 2011 failure total to seven : _URL_"
 1674	PER/Garnet Mimms;	Garnet Mimms - Stop and Check Yourself -LRB- 1972 -RRB- _URL_ via _Mention_
-1675	ORG/Gas Station Angel;ORG/GSA;  "Gas Station Angel - Week One <NEWLINE> Dramaturg 's Blog <NEWLINE> <NEWLINE> After weeks , even months of preparation , the first rehearsal of GSA w ? _URL_"
+1675	ORG/Gas Station Angel;ORG/GSA;		"Gas Station Angel - Week One <NEWLINE> Dramaturg 's Blog <NEWLINE> <NEWLINE> After weeks , even months of preparation , the first rehearsal of GSA w ? _URL_"
 1676	PER/Thomas Edison;	Genius is one percent inspiration and ninety-nine percent perspiration . ~ Thomas Edison
 1677	PER/George Bush;	George Bush Book ` Decision Points ' Lifted From Advisers ' Books _URL_
 1678	PER/George Bush;	George Bush plagurized his memoirs : _URL_
@@ -1693,7 +1693,7 @@
 1693	PER/Aretha Franklin;	GOD Noooo Aretha Franklin ? ! ?
 1694	PER/Noah;PER/John Shimkus;	"`` God said to Noah -LRB- and House Republican John Shimkus , Ill -RRB- : ` Do n't fret about global warming ' _URL_ _Mention_  _Mention_ ''"
 1695		Goddamn ! RT : _Mention_ : Goddamn my friend is so goddamn clingy to his goddamn girlfriend . Its goddamn obsessive . #goddamn 
-1696	ORG/Godiva; Godiva Chocolate chilled sounds real good now
+1696	ORG/Godiva;	Godiva Chocolate chilled sounds real good now
 1697		Going in this social network is too #criucal for people 
 1698	PER/HARRY;	going now I LOVE YOU HARRY ! _Mention_ live on _URL_ -RRB-
 1699		going to see her in march ! ! _Mention_ live on _URL_ -RRB-
@@ -1705,7 +1705,7 @@
 1705	PER/Gratton;	"Good morning \* reaches for coffee \* RT _Mention_ : _Mention_ Good morning to you too , Dr Gratton . -LRB- sips tea -RRB-"
 1706	PER/Gratton;	"Good morning \* reaching for coffee \* RT _Mention_ : _Mention_ Good morning to you too , Dr Gratton . -LRB- sips tea -RRB-"
 1707	PER/Gratton;	"Good morning . . \* sipping beer \* RT _Mention_ : _Mention_ Good morning to you too , Dr Gratton . -LRB- sips tea -RRB-"
-1708	ORG/ManU;ORG/Bir;ORG/the gunners;ORG/liverpool; Good show by ManU against Bir . . btw good comeback by the gunners and liverpool ...
+1708	ORG/ManU;ORG/Bir;ORG/the gunners;ORG/liverpool;	Good show by ManU against Bir . . btw good comeback by the gunners and liverpool ...
 1709	LOC/Coney Island;	Good thing barbershop quartets do n't perform national anthems . There is always the constant threat of Coney Island Baby
 1710		"GOOOOO ! RT _Mention_ : come on #Bears , lets get this win ! "
 1711	ORG/GOP;PER/Obama;ORG/Republicans;	GOP lawmakers look for signs of new Obama approach - AP : MSNBCWASHINGTON - Republicans say they want to hear les ... _URL_
@@ -1743,7 +1743,7 @@
 1743	PER/David Hasselhoff;	`` hands down is David Hasselhoff '' `` Hoff : '' '' he trips over his unwarranted EGO LO _Mention_ ''
 1744		Hangover headache @ tht ... SMH .
 1745	PER/Hanie;LOC/Chi Town;	Hanie gon get all that Chi Town ass he pull this one off
-1746	PER/Hanie;PER/Tom Brady;PER/Bledsoe;  `` Hanie starting to have that '' `` Tom Brady takes over for Bledsoe to be the Hero '' '' swag . ''
+1746	PER/Hanie;PER/Tom Brady;PER/Bledsoe;	`` Hanie starting to have that '' `` Tom Brady takes over for Bledsoe to be the Hero '' '' swag . ''
 1747	PER/Hanie;PER/Knox;PER/Chester;	Hanie steps up in the pocket and delivers to Knox . Chester punches in the TD . This game is far from over
 1748	PER/Dale Carnegie;	"Happiness does n't depend on any external conditions , it is governed by our mental attitude . ~ Dale Carnegie"
 1749	PER/ELLIE;LOC/LIVEERPOOL;	HAPPY 16TH BIRTHDAY ELLIE FROM LIVEERPOOL xx <NEWLINE> _Mention_ live on _URL_ -RRB-
@@ -1772,7 +1772,7 @@
 1772		"Hey , I just reached Lvl 4 in #MobsterWorld Beat me in the game ! _URL_ "
 1773		Hey check out this vid chat room with 76 people in it - _URL_ -LRB- _URL_
 1774	PER/Mike Rankin;PER/Natalie Nicole Robles;	Hey Citadel Family ! Here is the link to the pictures from Mike Rankin and Natalie Nicole Robles 's wedding shower ... _URL_
-1775	ORG/Hotnas Brothers;ORG/Taylor Pork;  Hey Dudes do you think this is simply fantastic you must see yourself _URL_ -- > Hotnas Brothers Taylor Pork #yepthatsme 
+1775	ORG/Hotnas Brothers;ORG/Taylor Pork;	Hey Dudes do you think this is simply fantastic you must see yourself _URL_ -- > Hotnas Brothers Taylor Pork #yepthatsme 
 1776		Hey i love u of course i miss u didnt include u cause it hurts to think about it RT _Mention_ : _Mention_ and _Mention_ no ? #Effff you 
 1777		hey sean thats a sexyy pilllow you have ; D <NEWLINE> _Mention_ live on _URL_ -RRB-
 1778		"Hey sometimes I read things that are n't buttsex , part 1 : _URL_"
@@ -1781,7 +1781,7 @@
 1781	PER/Hiedi Jones;	Hiedi Jones ' career is OVER . Why would you lie about being raped ? Such a horrible thing to do .
 1782	ORG/Green Bay;	High Five Green Bay ! Aint been in the man bowl since the 80 's
 1783		HIGH FIVE ! _Mention_ live on _URL_ -RRB-
-1784  MISC/High Stakes Poker;ORG/GSN;ORG/Poker News Daily;  High Stakes Poker Season 7 Debuts February 26th on GSN : Poker News Daily can independently confirm that the seve ... _URL_
+1784	MISC/High Stakes Poker;ORG/GSN;ORG/Poker News Daily;	High Stakes Poker Season 7 Debuts February 26th on GSN : Poker News Daily can independently confirm that the seve ... _URL_
 1785		Highs and lows of property familiar ground _URL_
 1786	PER/Hilary Duff;LOC/England;	"Hilary Duff , Haters ! Have n't listened for 5 years but man I love this song ... An entire day listening to it during a school trip in England"
 1787	PER/Kareem Amer;	"History 's Longest Imprisoned Blogger , Kareem Amer , is Free : The man believed to have been imprisoned longer than ... _URL_"
@@ -1851,7 +1851,7 @@
 1851		"I am an atheist , yet I believe in grace , and am thankful for all these moments of grace with my family and friends . Happy Thanksgiving ."
 1852	PER/mustafa shakur;	i am delighted that a young man named mustafa shakur was just called up by the wizards today .
 1853	MISC/Java;	I am going to create a website that aggressively teaches the basics of the Java programming language .
-1854	ORG/Tumblr; I am off to eat supper then read PoA . - Seeya later Tumblr . I LOVE YOU FOLLOWERS . Even though you hate me . _URL_
+1854	ORG/Tumblr;	I am off to eat supper then read PoA . - Seeya later Tumblr . I LOVE YOU FOLLOWERS . Even though you hate me . _URL_
 1855		I am so fed up of crying .
 1856	PER/britney spears;	i am some britney spears ! #teamfollowback 
 1857	PER/Howard Jones;MISC/Music Choice channel;	I apparently know more trivia about Howard Jones than the Music Choice channel does . #nerdshame 
@@ -1869,16 +1869,16 @@
 1869	ORG/YouTube;	I commented on a YouTube video _URL_
 1870	ORG/YouTube;	I commented on a YouTube video _URL_
 1871	ORG/YouTube;	I commented on a YouTube video _URL_
-1872	ORG/YouTube;  I could listen to this song over and over again -LRB- YouTube _URL_ -RRB-
+1872	ORG/YouTube;	I could listen to this song over and over again -LRB- YouTube _URL_ -RRB-
 1873	PER/Schroder;	"I dig Ms. Schroder 's -LRB- sp ? -RRB- accent , like it a lot !"
 1874	PER/Nicki Minaj;PER/Santa;	"I do n't care for Nicki Minaj 's music , but I will do naughty things to her \* adjusts Santa hat \*"
 1875	LOC/Asylum;LOC/Asylum;	"I do n't want to live in Asylum , I 'll live a lie . Do n't think I live in Asylum , I am a lie ."
 1876		I dont recall tweetin that Rt _Mention_
-1877	ORG/YouTube;ORG/DJ Mitsu the Beats;PER/Jos;PER/James; `` I favorited a YouTube video -- DJ Mitsu the Beats '' `` Promise In Love feat . Jos _ James '' '' _URL_ ''
+1877	ORG/YouTube;ORG/DJ Mitsu the Beats;PER/Jos;PER/James;	`` I favorited a YouTube video -- DJ Mitsu the Beats '' `` Promise In Love feat . Jos _ James '' '' _URL_ ''
 1878	PER/Heidi Montag;	I feel so bad for Heidi Montag but she knew she overdid the plastic surgery in the first place
 1879	PER/Jacqueline Bisset;	"I finally realized who you remind me of , Jacqueline Bisset when she was way younger _Mention_"
 1880	PER/Jacqueline Bisset;	"I finally realized who you remind me of , Jacqueline Bisset . _Mention_"
-1881	ORG/YouTube;PER/Justin bieber;  I go on YouTube & all I see is hate comments for Justin bieber ; like why the fuck r u kids hating on him ? -LRB- cont -RRB- _URL_
+1881	ORG/YouTube;PER/Justin bieber;	I go on YouTube & all I see is hate comments for Justin bieber ; like why the fuck r u kids hating on him ? -LRB- cont -RRB- _URL_
 1882		I go to see my nail girl Moon & she tells me my sis _Mention_ stopped by today ! ! ! I love me some Moon ! Nails always fresh !
 1883		I had such a nice dream about this guy yesterday -LRB- more like this morning lmao -RRB- ... I blame the story that I 'm writin _URL_
 1884		I hate the internet police .
@@ -1930,7 +1930,7 @@
 1930	ORG/YouTube;	I liked a YouTube video -- Disturbed - Inside The Fire -LRB- video w \/ dead card -RRB- _URL_
 1931	ORG/YouTube;PER/Eminem;PER/Rihanna;	I liked a YouTube video -- Eminem - Love The Way You Lie ft. . Rihanna _URL_
 1932	ORG/YouTube;ORG/Metallica;	I liked a YouTube video -- Metallica - Whiskey in the Jar : Official Music Video -LRB- 1080p -RRB- _URL_
-1933	ORG/YouTube;  I liked a YouTube video -- This Bitch With Couponz _URL_
+1933	ORG/YouTube;	I liked a YouTube video -- This Bitch With Couponz _URL_
 1934	PER/Amber Rose;	I love Amber Rose ! she is too funny
 1935	PER/Blair;	I love Blair ! She has a great personality & she is so pretty ! < 3
 1936	LOC/Harbour Bridge;LOC/The Opera House;	I love cross the Harbour Bridge only to see The Opera House and the ocean . Beautiful ! ! !
@@ -1942,7 +1942,7 @@
 1942		I managed to sneak a pic of big dream whilst he wernt lookin lol _URL_
 1943	PER/JUELZ SANTANA;LOC/CLUB ROUGE;	I may make a surprise return 4 this one RT _Mention_ : OPENING FOR JUELZ SANTANA JAN 30TH INSIDE CLUB ROUGE ! _URL_
 1944	PER/Kim;PER/Kourtney;LOC/New York;	i meant Kim & Kourtney Take New York haha
-1945	LOC/Delux;LOC/Ossington;  I might be addicted to Delux on Ossington - ca n't stop going back wknd after wknd . Their Cuban breakfast is amazing _URL_
+1945	LOC/Delux;LOC/Ossington;	I might be addicted to Delux on Ossington - ca n't stop going back wknd after wknd . Their Cuban breakfast is amazing _URL_
 1946	PER/Melina Kanakaredes;LOC/NY;PER/Sela Ward;	I miss Melina Kanakaredes on #CSI - NY Sela Ward is too arrogant 4 a new guy as she is in every role #TheTalk 
 1947	PER/Norman Wisdom;	I miss Norman Wisdom ! .
 1948		"I named my iPhone ` Phoebo ' . For this of you that watch friends , you know what this means . : -RRB-"
@@ -1977,7 +1977,7 @@
 1977	PER/Susan Boyle;	I wanna shoot Susan Boyle with a shotgun ! .
 1978		`` I want some . . RT '' '' _Mention_ : I 'm printing some '' `` SHUT THE FUCK UP BITCH ! ! ! '' '' cards . '' '' ''
 1979	ORG/Twitter;PER/Jay Cutler;	I want to see the reaction on Twitter if Jay Cutler suddenly decides to come back in .
-1980	ORG/NFC;ORG/the Steelers;ORG/the Jets;PER/Sanchez;ORG/Pittsburgh; I was correct about the NFC Title Game . Now the Steelers will beat down the Jets . Sanchez wo n't know what hit him . Pittsburgh D is nasty !
+1980	ORG/NFC;ORG/the Steelers;ORG/the Jets;PER/Sanchez;ORG/Pittsburgh;	I was correct about the NFC Title Game . Now the Steelers will beat down the Jets . Sanchez wo n't know what hit him . Pittsburgh D is nasty !
 1981		I was thinking the same thing RT _Mention_  _Mention_  _Mention_ LoL ! ! Nice answer ma !
 1982		I was trying to be nice but if you are not even willin ? ? DONT YOU THINK I HAVE MADE AN EFFORT . IVE ASKED MY BES ? _URL_
 1983	PER/Mead;	"I went to get a yearly planner like I do every year and when did they go up to $ 9 ? Thanks , Mead ."
@@ -2021,7 +2021,7 @@
 2021		I 'm tryna get a chick like this RT _Mention_ : Legs in the air
 2022	LOC/Residence Inn-North;LOC/Stone Oak;	"I 'm very tired , and I have to change rooms because of a thermostat problem . -LRB- @ Residence Inn-North\/Stone Oak -RRB- _URL_"
 2023	PER/Bobby Flay;MISC/Thanksgiving Throwdown;	I 'm watching the thunderstorm roll in RT _Mention_ : Watching Bobby Flay 's Thanksgiving Throwdown ''
-2024	ORG/LG; I 've added a tip : LG DBRH198 Region Free Fix _URL_ _URL_ < - to my list
+2024	ORG/LG;	I 've added a tip : LG DBRH198 Region Free Fix _URL_ _URL_ < - to my list
 2025		I 've only had the strawberry shortcake one and it does n't taste too bad . _URL_
 2026	PER/Ian S.;PER/feerschneider;	Ian S. is the best ! : WHAT 'S THE MOST EMBARASSING THING THAT HAPPENED TO YOU AS A MODEL ? - feerschneider : _URL_
 2027		Ice Ice Baby has the WORST music video ever !
@@ -2034,7 +2034,7 @@
 2034	PER/Thomas Henry Huxley;	"If a little knowledge is dangerous , where is the man who has so much as to be out of danger ? - Thomas Henry Huxley"
 2035	PER/edward;	if edward punched you in the face what would you do ? ? Throw a fucking rock at his face _URL_
 2036	PER/Mel Brooks;	"If God wanted us to fly , He would have given us tickets . <NEWLINE> -- Mel Brooks"
-2037	  If I dont get married ima join the army and if I have kids then I dont : D
+2037		If I dont get married ima join the army and if I have kids then I dont : D
 2038	PER/Ted Turner;	"If I only had a little humility , I 'd be perfect . <NEWLINE> -- Ted Turner"
 2039	PER/Ted Turner;	"If I only had a little humility , I 'd be perfect . <NEWLINE> -- Ted Turner"
 2040		If I 'm on the phone and keep walking that means two or more things I see you not interested I see you I 'm not ... _URL_
@@ -2084,7 +2084,7 @@
 2084	PER/Tony McCarroll;	is this close to meeting Tony McCarroll ... _URL_
 2085	PER/Isaac Hayes;	Isaac Hayes - Breakthrough _URL_ via _Mention_
 2086	PER/Isaac Newton;	Isaac Newton and a Scientific Revolution _URL_
-2087	PER/Isabelle Huppert;PER/Claire Denis;  "Isabelle Huppert on Claire Denis , What Intimidates Her , and Dealing with the Press : French cinema siren Isabelle ... _URL_"
+2087	PER/Isabelle Huppert;PER/Claire Denis;	"Isabelle Huppert on Claire Denis , What Intimidates Her , and Dealing with the Press : French cinema siren Isabelle ... _URL_"
 2088	PER/Francis Bacon;	It always makes me smile at the knowledge that Sir Francis Bacon was a ` friar ' : - -RRB- LOL
 2089	ORG/FB;PER/Donny;PER/David Cassidy;PER/MJ;	"It appears that most of my FB friends are all at the Biebs concert w\/their kids . If only Donny , David Cassidy or MJ toured when I was a kid"
 2090	PER/Alicia Keys;	"It could 've been you Alicia Keys , but you had to go fuck around with Humpty Hump"
@@ -2095,7 +2095,7 @@
 2095		"It is too frequent that I stumble on a web site that is worthwhile telling my buddies about , this one is just like that ... _URL_"
 2096		It looks like it 's night night niggas ! ! ! For the bears ! ! ! Haha
 2097	PER/Caleb Hanie;	"It seems safe to say that this is Caleb Hanie 's five minutes of fame , judging from tweets , anyway ."
-2098	PER/Tony Blair;PER/Herman;ORG/twitter;  "It should 've been Tony Blair cc _Mention_ RT _Mention_ : Dear Herman _Mention_ , good you are on twitter . Now see what it ca ..."
+2098	PER/Tony Blair;PER/Herman;ORG/twitter;	"It should 've been Tony Blair cc _Mention_ RT _Mention_ : Dear Herman _Mention_ , good you are on twitter . Now see what it ca ..."
 2099	ORG/NFL;ORG/NFL;	It takes 5 yrs to get a pension in the NFL . This 3rd string QB is in his 3rd NFL year . He 's playing for his life salary rt now .
 2100	PER/Napoleon Hill;	It takes half your life before you discover life is a do-it-yourself project . ~ Napoleon Hill
 2101	PER/George Burns;	"`` It takes only one drink to get me drunk . The trouble is , I ca n't remember if it 's the thirteenth or the fourteenth . - George Burns #quote '' "
@@ -2119,7 +2119,7 @@
 2119	PER/Jake Cutler;	Jake Cutler ? The Tin Man phoned . Says you have something in common ...
 2120	PER/James Franco;	James Franco is returning to #GH _URL_ 
 2121	PER/jay cutler;	jay cutler get back in the game ! ! ! ! !
-2122	PER/Jay Cutler;LOC/chicago;PER/kanye; Jay Cutler . Worst thing related to chicago since kanye 's last two albums .
+2122	PER/Jay Cutler;LOC/chicago;PER/kanye;	Jay Cutler . Worst thing related to chicago since kanye 's last two albums .
 2123	PER/JAY JUDY;	JAY JUDY MAKES ME FEEL LIKE I 'M THE ONLY GIRL IN THE WORLD
 2124	PER/Jay Schafer;ORG/Tumbleweed Tiny Houses;ORG/Yahoo ! News;	"Jay Schafer , owner of Tumbleweed Tiny Houses - Yahoo ! News Photos _URL_"
 2125	PER/Jeff Dye;	Jeff Dye #cute 
@@ -2131,7 +2131,7 @@
 2131	PER/Jesus;	Jesus told us to love everybody . He never said it had to be consensual .
 2132	ORG/JETS;	JETS HAVE TO WIN . WORTHLESSBURGER IS A PIECE . AND I 'm SICK OF HEARING THAT DAMN BLACK AND YELLOW SONG . Let 's put em in their GRAVE .
 2133	ORG/jets;PER/LB calvin pace;	"jets LB calvin pace slipped on the turf , otherwise he would 've stopped ben short . ugh"
-2134	PER/Jim Bell;LOC/Mars;  Jim Bell : ` Postcards From Mars ' : 15 Amazing Pictures Of The Red Planet From New Book -LRB- PHOTOS #198680 _URL_ 
+2134	PER/Jim Bell;LOC/Mars;	Jim Bell : ` Postcards From Mars ' : 15 Amazing Pictures Of The Red Planet From New Book -LRB- PHOTOS #198680 _URL_ 
 2135	PER/Jimmy Clausen;	Jimmy Clausen is an IDIOT ! ! ! Lol . Thank yooooou ! ! ! !
 2136	PER/amelia;PER/Haleyy;	JK ! that wasnt me that was my amazing cousin amelia ! i love her . but i do love my sister Haleyy ! ! Shaking my booty playing just dance 2 ! bye
 2137	PER/Joanna Yeates;	Joanna Yeates ' Landlord Held Over Murder : _URL_
@@ -2145,7 +2145,7 @@
 2145	PER/Johnny Depp;	Johnny Depp is 47 and #fine ... age is nothing but a number ... I would hit it 
 2146	PER/Johnny Depp;	Johnny Depp is 47 and #fine ... I would hit it 
 2147		Joint bank account with your boyfriend at 17 ? ? #DumbHoe 
-2148	PER/Jordan;PER/D-wade;  Jordan had the flu and still scored 38 ... And D-wade ca n't play cause of a headache ? ? ... They do n't makem like they used to Smh ! !
+2148	PER/Jordan;PER/D-wade;	Jordan had the flu and still scored 38 ... And D-wade ca n't play cause of a headache ? ? ... They do n't makem like they used to Smh ! !
 2149	PER/Juan Silva Meza;ORG/SCJN	Juan Silva Meza nuevo presidente de la SCJN
 2150	PER/Judith Herman;	"`` Judith Herman '' `` Secrecy and silence are the perpetrator 's first line of defense . If secrecy fails '' , '' he attacks the credibility of his victim . '' '' ''"
 2151	PER/Julia Durly;	"Julia Durly , I want you to have my children ."
@@ -2159,7 +2159,7 @@
 2159	PER/Carlos;	just listened to Carlos ? The Silmarillia -LRB- radio edit -RRB- _URL_
 2160		Just made my reverb nation music profile . Give it a visit _URL_ beats and more music @ _URL_
 2161		just reached level 20 on Original Gangstaz on my iPhone ! Click the link to join my gang _URL_ #iphone  #0/ipod  #ipad  #OG 
-2162	ORG/Amazon;ORG/LG;ORG/LG; "Just saw this on Amazon : ` LG 32LE5400 32-Inch 1080p 120 Hz LED LCD HDTV , Black with Internet Applications ' by LG _URL_"
+2162	ORG/Amazon;ORG/LG;ORG/LG;	"Just saw this on Amazon : ` LG 32LE5400 32-Inch 1080p 120 Hz LED LCD HDTV , Black with Internet Applications ' by LG _URL_"
 2163	ORG/Amazon;ORG/Sony;	Just saw this on Amazon : ` Sports Champions ' by Sony Computer Entertainment ... for $ 39.75 _URL_
 2164	PER/Grover Washington Jr.;	JUST THE TWO OF US ? ? ? - Grover Washington Jr. . <NEWLINE> _URL_
 2165	PER/Scott;	`` Just took '' `` What is the name of the man you 'll marry ? '' '' and got : Scott ! Try it ? _URL_ ''
@@ -2179,7 +2179,7 @@
 2179	PER/Ted Thompson;	Kind of bummed they did n't interview Ted Thompson ! Go ! Pack ! Go !
 2180	ORG/Jets;ORG/the Giants;ORG/GreenBay;ORG/the Jets;	Kinda nervous about this Jets game . Felt the same way when the Giants played GreenBay that Superbowl year . Really hope the Jets win ...
 2181	PER/kirsten dunst;	kirsten dunst is amazing -LRB- 3
-2182	PER/Kitaro; Kitaro - The Silk Road _URL_ v_a _Mention_
+2182	PER/Kitaro;	Kitaro - The Silk Road _URL_ v_a _Mention_
 2183		Knowing The Difference Between A License And A Franchise Makes A Difference : : If you know the difference betwee ... _URL_
 2184	LOC/Asia;	Korean Wave ' of pop culture sweeps across Asia - _URL_ #cnn 
 2185	PER/Kourtney;PER/Kourtney;LOC/New York;PER/Kim;	Kourtney & Kourtney Take New York : : : I knew Kim was going to date her bodyguard #fine 
@@ -2203,7 +2203,7 @@
 2203	PER/Charles R. Swindoll;	Life is 10 % what happens to you and 90 % how you react to it . <NEWLINE> - Charles R. Swindoll
 2204	PER/Marcus Tullius Cicero;	Life is nothing without friendship . <NEWLINE> Marcus Tullius Cicero
 2205	PER/Paulo Coelho;	Life was always a matter of waiting for the right moment to act . ~ Paulo Coelho
-2206	  Like finding ways to ether ya \* Ice Cube mean mug \*
+2206		Like finding ways to ether ya \* Ice Cube mean mug \*
 2207		Like it ! Fan Fiction ebook Peeta 's Story - The Hunger Games #Wattpad _URL_ 
 2208	PER/Tim Mcgraw;	Likes _Mention_ RT _Mention_ : #np OVER AND OVER by _Mention_ ft. . Tim Mcgraw 
 2209	PER/Mia;	"`` Likes the quote '' `` Please Mia '' , '' he implores . Do n't make me write a song . '' '' _URL_ ''"
@@ -2256,7 +2256,7 @@
 2256	PER/Leanne Malcolm;LOC/Queenstown;MISC/tv3 news;	Long time didnt see Leanne Malcolm Tv3 report from Queenstown . she doing a great job ! Nice to see u today on tv3 news ! ! ! !
 2257		Look at this Guy . lol _URL_
 2258		Looking for Things to Do ? Bored & Broke ! _URL_
-2259	PER/Kathy Bates;MISC/Harry 's Law;  Looking forward to Harry 's Law with Kathy Bates on _Mention_
+2259	PER/Kathy Bates;MISC/Harry 's Law;	Looking forward to Harry 's Law with Kathy Bates on _Mention_
 2260		looks like bubba is going to the vet . i think presciption cream is the only answer . he 's not hurting and is soooo ... _URL_
 2261	PER/Real Andrews;MISC/THE BAY;	Lose Weight Easy THE BAY Series Interviews ? Real Andrews Part Three : It is with the world 's most appropriate ... _URL_
 2262	PER/christine lahti;	Love christine lahti on _Mention_ . She rocks ! _Mention_
@@ -2272,7 +2272,7 @@
 2272	PER/Ian Brown;	Loving the monkey in time for #mm music Monday ? My Star by Ian Brown 
 2273	ORG/Fishing Tackle Supplies;	Lucky Craft Real Fishing Tackle Supplies : Listen im sure most of you people would think that it would be nice ... _URL_
 2274	PER/Phil Taylor;PER/Gary Mawson;	lucky taylor ! . RT _Mention_ : RESULT : Phil Taylor 3-0 Gary Mawson #PDC  #DARTS 
-2275	LOC/Diamond Star of the East;LOC/Zanzibar;LOC/Luxury Diamonds Star of the East;LOC/Zanzibar;  "Luxury Hotels : Diamond Star of the East , Zanzibar - Luxury Diamonds Star of the East is a five star resort Zanzibar ... _URL_"
+2275	LOC/Diamond Star of the East;LOC/Zanzibar;LOC/Luxury Diamonds Star of the East;LOC/Zanzibar;	"Luxury Hotels : Diamond Star of the East , Zanzibar - Luxury Diamonds Star of the East is a five star resort Zanzibar ... _URL_"
 2276		Mad asFuk at tha Gas Prices SMH _URL_
 2277		Magic in me too \* dancing \* RT _Mention_ : ive got the MAGIC IN MEEEEEEEEEE
 2278		Majestic Ship and Boat Photographs CreativeFan : Ships are some of the most majestic vessels on the planet . _ Fr ... _URL_
@@ -2283,13 +2283,13 @@
 2283		Man Has Camera Implanted In His Head For Exhibit . _URL_
 2284	PER/Samuel Beckett;	Man my thoughts are garbled and fragmented at the minute . I 'm like Samuel Beckett if he had a lobotomy .
 2285	LOC/la;LOC/cali;	Man wrk was so slow but that 's part of life need that dough nah mean ca n't wait till I move to la in cali hometown baby
-2286	LOC/Manhattan;LOC/NYC Manhattan Apartment;LOC/Times Square;LOC/Theater District;MISC/Real Estate Rentals; Manhattan NYC Manhattan Apartment for Rent in the Heart of Times Square\/Theater District - ... _URL_ Real Estate Rentals
+2286	LOC/Manhattan;LOC/NYC Manhattan Apartment;LOC/Times Square;LOC/Theater District;MISC/Real Estate Rentals;	Manhattan NYC Manhattan Apartment for Rent in the Heart of Times Square\/Theater District - ... _URL_ Real Estate Rentals
 2287	PER/Drew Brees;	Mannnn Drew Brees . I 'm in awe that he was even able to release that ball . #respect 
 2288	PER/Marion Appel;	"Marion Appel , #Intomart GfK over effectiviteit relatiemedia . #5CMC "
 2289	PER/Mariska Hargitay;MISC/The Ellen Show;	Mariska Hargitay on The Ellen Show - _URL_
 2290	PER/Mark sanchez;PER/Joe mcknight;PER/clay Matthews;MISC/superbowl;	"Mark sanchez , Joe mcknight , and clay Matthews all bout to be in the superbowl thas crazy ! #usc "
-2291	PER/Mark Zuck;MISC/the Time Mag Person of the Year; Mark Zuck is the Time Mag Person of the Year . I will be the next .
-2292	PER/Martha Stewart; "Martha Stewart Thanksgiving Recipes : Turkey , Stuffing , Side Dishes"
+2291	PER/Mark Zuck;MISC/the Time Mag Person of the Year;	Mark Zuck is the Time Mag Person of the Year . I will be the next .
+2292	PER/Martha Stewart;	"Martha Stewart Thanksgiving Recipes : Turkey , Stuffing , Side Dishes"
 2293	PER/Marvin Austin;	"Marvin Austin , late of #UNC , scored a touchdown today in Shrine Game . Highlights at 11 _Mention_ "
 2294	PER/Marvin Gaye;	Marvin Gaye - Just like Music _URL_ via _Mention_
 2295	PER/Mary Landrieu;	"Mary Landrieu _Mention_ , '' the '' `` Obama-McConnell Plan '' '' is not '' `` morally corrupt '' '' - it 's the smartest thing he 's done . Most people agree . ''"
@@ -2311,12 +2311,12 @@
 2311	PER/Kanye West;PER/Kanye West;	"Men 's Style Icons : Kanye West : Editor Introduction We have featured Kanye West on site before , as he was picked ... _URL_"
 2312	PER/Annie Lennox;	Message From Annie Lennox - World AIDS Day 2010 _URL_
 2313		"metal detectors long range 2011 : To Long Range Twin antennas with a length of 16 centimeters , the company , is ... _URL_"
-2314	ORG/Metallica;PER/Ozzy Osbourne;  Metallica & Ozzy Osbourne Iron Man + Paranoid live in the Rock N Roll H. . . _URL_ via _Mention_
+2314	ORG/Metallica;PER/Ozzy Osbourne;	Metallica & Ozzy Osbourne Iron Man + Paranoid live in the Rock N Roll H. . . _URL_ via _Mention_
 2315		Methods To Keep Cash On Tires _URL_
 2316	PER/Michael Bolton;	Michael Bolton _Mention_ RT _Mention_ : #TriviaThursdays - this one 's for the fans ! What was the first concert you ever experienced ? 
 2317	PER/Michael Ealy;	Michael Ealy is very handsome to me
 2318	PER/Michael Jackson;LOC/Vegas;	Michael Jackson video from Labor Day Weekend in Vegas . _URL_
-2319  PER/Michael Jackson;  Michael Jackson 's album sales not a patch on This Is It ... _URL_
+2319	PER/Michael Jackson;	Michael Jackson 's album sales not a patch on This Is It ... _URL_
 2320	PER/Michael Vick;	Michael Vick says a new dog will help his rehabilitation : _URL_ via _Mention_ -LRB- ------- video
 2321	PER/Michele Bachmann;	Michele Bachmann 's Popularity Puts Republicans on the Spot - _URL_ \/ why do Americans like screaming mean lying bitches ?
 2322	PER/Michelle Obama;	Michelle Obama is NOT preggers ... stop the rumors !
@@ -2325,7 +2325,7 @@
 2325	PER/Miley Cyrus;LOC/Brazil;	Miley Cyrus going to Brazil soon . Help her choose the best succer t-shirt - Futebol #EuQueroSYM _URL_ via _Mention_ 
 2326	ORG/Journal of Public Health;PER/Amy Hagopian;	Military recruiters in public schools a threat to health of adolescents Journal of Public Health _URL_ _Mention_ <NEWLINE> Amy Hagopian
 2327		Mine is going to be a lot more biased . : -RRB- _URL_
-2328	ORG/Verizon;ORG/AT&T; Missed it ? ? Verizon ? s Off-Contract iPhone 4 Will Cost $ 50 More Than AT&T ? s ? _URL_
+2328	ORG/Verizon;ORG/AT&T;	Missed it ? ? Verizon ? s Off-Contract iPhone 4 Will Cost $ 50 More Than AT&T ? s ? _URL_
 2329		"mod pink save the date announcement : retro pink , save the date cards , A complete online wedding store We Offer : ... _URL_"
 2330		Mom and Daph attended the lovely affair ! _URL_
 2331		Moments that you wish can last forever can end within one second _URL_
@@ -2342,7 +2342,7 @@
 2342	ORG/msnbc tv;PER/Karl Rove;	msnbc tv : Countering Karl Rove _URL_
 2343	ORG/msnbc tv;PER/Elizabeth Edwards;	msnbc tv : Elizabeth Edwards dies from cancer _URL_
 2344	ORG/msnbc tv;PER/Leslie Nielsen;	msnbc tv : In memoriam : Leslie Nielsen _URL_
-2345	ORG/msnbc tv;PER/Rand Paul; msnbc tv : Video of Rand Paul 's anti-Obama comments found _URL_
+2345	ORG/msnbc tv;PER/Rand Paul;	msnbc tv : Video of Rand Paul 's anti-Obama comments found _URL_
 2346	MISC/NAMM;	Music News : Three Days Of The Coffin Case Condor At Winter NAMM 2011 ... _URL_
 2347	PER/Isaac Hayes;	Music opens up minds to dream great dreams about where you can go & what you can do . Isaac Hayes #quote '' RT _Mention_ 
 2348		My aunt put the money in the machine so she kudd get sum quarters <NEWLINE> - \* Ily \* R.i. p_Ebony
@@ -2378,20 +2378,20 @@
 2378	PER/Trisha Erskine;	Never stop believing in what you love . ~ Trisha Erskine #quote RT _Mention_  _Mention_ 
 2379	PER/Paul Henry;ORG/NZ Herald News;	New Breakfast host diplomatic after Paul Henry 's gaffe - National - NZ Herald News _URL_ via _Mention_
 2380	PER/Anne Hathaway;	New #snl Anne Hathaway and it better be good 
-2381	ORG/Scribblers; New at Scribblers this month for all fledgling artists It 's fun to draw #Dinosaurs _URL_ 
+2381	ORG/Scribblers;	New at Scribblers this month for all fledgling artists It 's fun to draw #Dinosaurs _URL_ 
 2382	PER/Snoop Dogg;PER/Cameron Diaz;PER/Snoop Dogg;	New Entry Snoop Dogg : : El Lay - Cameron Diaz 's admission that she bought marijuana from Snoop Dogg when they attend ... _URL_
 2383	ORG/Organix;	New Organix Brazilian Keratin Therapy & Moroccan Argan Oil collections _URL_
 2384		New question posted ! - Please anwser this ... I need more anwsers ! ? . Answer this now at _URL_
 2385	ORG/Windows;	New Rootkit Bypasses Windows Code-Signing Security _URL_
 2386	PER/Joe Cocker;	new song of the day -- -RRB- Joe Cocker Woman to Woman _URL_ via _Mention_
 2387	LOC/New york;	New york here 's to the
-2388	PER/Eneramo;ORG/The Nation Newspaper; News : Eneramo moves at cut-price - The Nation Newspaper _URL_
+2388	PER/Eneramo;ORG/The Nation Newspaper;	News : Eneramo moves at cut-price - The Nation Newspaper _URL_
 2389	PER/Harry;	News : Harry Wins At _Mention_ - all the details @ _URL_
 2390	ORG/NFL;ORG/NBA;	NFL refs ruin games when the stakes are higher . Only terrible officiating I can remember from NBA refs during the playoffs were 06 Finals .
 2391	MISC/NFL;ORG/The Peppers;	NFL 's a joke . The Peppers hit was legit .
 2392		nice hats : D x _Mention_ live on _URL_ -RRB-
 2393	PER/Nick Oliver;MISC/hunger strike;	"Nick Oliver , English fathers rights victim of '' family law holocaust '' is at day 51 of hunger strike . . _Mention_"
-2394	ORG/tumbler;  Nicked it : -RRB- Do it : -RRB- Ask me anything : -RRB- - Name : Age : Meaning behind tumblr url : Where you live : ... _URL_
+2394	ORG/tumbler;	Nicked it : -RRB- Do it : -RRB- Ask me anything : -RRB- - Name : Age : Meaning behind tumblr url : Where you live : ... _URL_
 2395	PER/Nicki Minaj;PER/Marshall Bill;	Nicki Minaj = Fire Marshall Bill #TBN 
 2396	PER/Nicki Minaj;	Nicki Minaj is cool ! I love da wigs gonna get one for sur-waaah x
 2397	PER/Nicki Minaj;	Nicki Minaj is on _Mention_ tonight !
@@ -2412,13 +2412,13 @@
 2412		No real surprise . . Honeymoon Murder Victim 's Husband Arrested : _URL_
 2413	PER/Eleanor Roosevelt;	Nobody can make you feel inferior without your permission . - Eleanor Roosevelt via _Mention_
 2414	PER/Noel Gallagher;PER/Anais;	Noel Gallagher 's daughter Anais is becoming a rock star like her dad and has started playing the guitar ...
-2415	  Noord-Korea schiet op Zuid-Korea ' _URL_
+2415		Noord-Korea schiet op Zuid-Korea ' _URL_
 2416		not even half of the books i have to tackle this semester : -LRB- _URL_
 2417	PER/Ralph Waldo Emerson;	Nothing great was ever achieved without enthusiasm . <NEWLINE> - Ralph Waldo Emerson
 2418	PER/Ellen Glasgow;	Nothing in life is so hard that you ca n't make it easier by the way you take it . ~ Ellen Glasgow RT _Mention_ RT _Mention_
 2419	ORG/TSA;ORG/TSA;	"Noticed i was filing stories on TSA patdowns under terrorism - It is , authorized by BigSis & TSA di-k head who wo n't fight against real enemy"
 2420		"Now , the grand distinction drawn between officer and man at sea , is this ? the first lives aft , the last forward"
-2421	MISC/Housewives of Atlanta; Now that the game is over I can catch up on episodes of Housewives of Atlanta ! ! !
+2421	MISC/Housewives of Atlanta;	Now that the game is over I can catch up on episodes of Housewives of Atlanta ! ! !
 2422	PER/Palin;	Now the gloves are off . I will be writing about Gov. Palin for the 1st time ever ; I 'll publish it on Monday more than likely . So #UnAmerican 
 2423	PER/Keith Olbermann;	now watching the second airing of Keith Olbermann
 2424		Now with pic : - s _URL_
@@ -2426,7 +2426,7 @@
 2426		Nth to do <NEWLINE> Bt actually not coz I 'm waiting for my sketch book coz I really want the glitter dry so that I cn draw the other page lol ! ! !
 2427	LOC/UK;	Number 1 one #Seahawks fan from the UK ! ! ! ! ! ! 
 2428	MISC/Keeping Up With The Kardashians;	NW : Keeping Up With The Kardashians
-2429	PER/Amber;  Nylon Blogs _ Blog Archive _ Song + Site of the Day : One Response to ? Song + Site of the Day ? . Amber Says : Janua ... _URL_
+2429	PER/Amber;	Nylon Blogs _ Blog Archive _ Song + Site of the Day : One Response to ? Song + Site of the Day ? . Amber Says : Janua ... _URL_
 2430	PER/Chris Hanson;	o_O \* texts Chris Hanson \*
 2431	ORG/oasis;PER/Neil young;	"oasis live forever for me ! . RT _Mention_ : One song I 'll always take to the grave with me , Neil young heart of gold"
 2432	PER/Obama;ORG/CNN International;	Obama says jobs will be ? main topic ? of Tuesday ? s State of the Union ? CNN International : Ne ... _URL_ America Latest News
@@ -2437,7 +2437,7 @@
 2437	MISC/muslims;	"off to bed now . eid mubarak to all muslims all over the world . happy eid al-adha , may His barakah and rahmah shine upon us all . goodnight : -RRB-"
 2438	ORG/Twitter;	"Officially started this essay . Thank god for full screen applications . Farewell , Twitter ."
 2439	PER/Roddy White;	"Oh , and damn you Roddy White for talkin all that trash to the media . I swear , stuff like that messes us up every time UGH"
-2440	  "Oh , so they have Internet on computers now ! - Homer Simpson"
+2440		"Oh , so they have Internet on computers now ! - Homer Simpson"
 2441	PER/Urban Meyer;	"Oh , Urban Meyer retired ? ! Yeah , I do n't care #Bulldog4life ! ! ! ! "
 2442	PER/Joe Johnson;	Oh and the mediocre player I was referring to was Joe Johnson . He 's trash !
 2443		Oh good ! ! I 'm glad you were aware of using turnout and applied it = D ? YEYA ! ! ! : D < 33 _URL_
@@ -2461,7 +2461,7 @@
 2461		OK I tried it out and it does work _URL_
 2462		Ok . . And Now = = -RRB- #NowPlaying  #TATW 346 official Podcast #TranceFamily  #TranceFanatic  #TranceTherapy . . 
 2463		OK kids-you MUST see this great Veterans Day tribute video done by _Mention_ : _URL_ Kudos ! Have tissue nearby .
-2464	  Ok onr more : if You listen close enough You can hear the Ocean : -RRB- _URL_
+2464		Ok onr more : if You listen close enough You can hear the Ocean : -RRB- _URL_
 2465	PER/George Harrison;PER/George;	"ok RT _Mention_ : Since tomorrow is the 9th anniversary of George Harrison 's death , my tweets will just be about George . Sound good ?"
 2466	PER/Kevin hart;	Ok ? ! Its too funny to not watch RT _Mention_ : _Mention_  _Mention_  _Mention_ I mean damn what did Kevin hart do to u ? ?
 2467	PER/Matt Ryan;PER/Manning;PER/Brady;	Okaaaay ? Smh LOL RT _Mention_ : Ok number one rule Matt Ryan never throw across the field . U ai n't Manning or Brady smh
@@ -2488,8 +2488,8 @@
 2488		Oooooh ! My iPod lists Superpop in such a way that once it 's over Hung Up starts . Aah .
 2489		Open Question : Does anybody recognize that song ? and more ... : ... _URL_
 2490	PER/Thomas Edison;	Opportunity is missed by most people because it is dressed in overalls and looks like work . - Thomas Edison
-2491	PER/Oprah;LOC/Sydney; Oprah 's Sydney Shows _URL_ via _Mention_ It was amazing ! check out . Awesome .
-2492	PER/Oprah;LOC/Sydney; Oprah 's Sydney Shows youtube.com/watch?v=exSvAY��_��__ via _Mention_ It was amazing ! check out . Awesome . <NEWLINE> jakson NZ
+2491	PER/Oprah;LOC/Sydney;	Oprah 's Sydney Shows _URL_ via _Mention_ It was amazing ! check out . Awesome .
+2492	PER/Oprah;LOC/Sydney;	Oprah 's Sydney Shows youtube.com/watch?v=exSvAY��_��__ via _Mention_ It was amazing ! check out . Awesome . <NEWLINE> jakson NZ
 2493	PER/Reagan;	Or worse ! ! ! Hear bout how great Reagan was ! ! ! \* shudders \*
 2494		Or would For WhomThe Bell Tolls be a better addition ?
 2495		Our bodies are at once the receiving and transmitting stations for life itself . It is the highest ... _URL_
@@ -2508,7 +2508,7 @@
 2508	PER/Paul Haggis;	Paul Haggis puts mad love into new crime thriller - CTV News _URL_
 2509	PER/Paul McCartney;	Paul McCartney laffing his arse off ... _URL_
 2510	PER/Paul Simon;	Paul Simon - Kodachrome _URL_
-2511	PER/Paul Simon;PER/Oprah;LOC/Urulu; Paul Simon told Oprah to see Uluru <NEWLINE> _URL_
+2511	PER/Paul Simon;PER/Oprah;LOC/Urulu;	Paul Simon told Oprah to see Uluru <NEWLINE> _URL_
 2512	PER/paul weller;	paul weller is at the _Mention_ tonight ! .
 2513	PER/Penelope Cruz;	Penelope Cruz looks so fine in this perfume commercial
 2514	MISC/Scarface;	People always tryin to take credit that rightfully belongs to me ... but it 's OK \* Scarface voice \*
@@ -2553,7 +2553,7 @@
 2553		"Photo : Using the portion of the stencil that I cut out for the first one , I came up with this . I really ... _URL_"
 2554		Photo : whatascandal : ? ? ? ? _URL_
 2555		Photo : Whoever made this is skilled . . It looks so good ? _URL_
-2556  MISC/PHP; PHP for Beginners : Part 2 _ Making Decisions and Loops : Over the past part I have shown you the basics of text i. . . _URL_
+2556	MISC/PHP;	PHP for Beginners : Part 2 _ Making Decisions and Loops : Over the past part I have shown you the basics of text i. . . _URL_
 2557		PILIPINAS win na win + Umagang KAY GANDA = PILIPINAS KAY GANDA !
 2558		Plan And Search For Wholesale Baby Gifts : The price of the wholesale baby gifts is a very important consideratio ... _URL_
 2559	LOC/Sri Lanka;LOC/Goa;	Planning last week of the trip - Sri Lanka or Goa ? ?
@@ -2561,21 +2561,21 @@
 2561	PER/Deborah Cox;	play count 754 ----- -RRB- Beautiful U R - Deborah Cox _URL_ via _Mention_
 2562	PER/W. Churchill;	Play the game for more than you can afford to lose ... only then will you learn the game . ~ W. Churchill
 2563	LOC/Lagavulin;	"Play this Thanksgiving out , Lagavulin ."
-2564  ORG/Playboy;PER/Hugh Hefner;ORG/CNN.com;  Playboy 's Hugh Hefner engaged to 24-year-old former playmate -- This Just In - CNN.com Blogs _URL_ via _Mention_
+2564	ORG/Playboy;PER/Hugh Hefner;ORG/CNN.com;	Playboy 's Hugh Hefner engaged to 24-year-old former playmate -- This Just In - CNN.com Blogs _URL_ via _Mention_
 2565		Playful teen tiff has a little fun fucking with the camera man ... _URL_
 2566		Playing Call of Duty : Black Ops . _URL_
 2567		"please RT , Tomorrow is World Aids Day !"
 2568		"please RT , Tomorrow is World Aids Day ! #HIV \/ AIDS #AIDS  #HIV"
 2569		"please RT , Tomorrow is World Aids Day ! #HIV \/ AIDS #AIDS  #HIV #worldAIDSday "
 2570		`` please vote _Mention_ for '' `` Musician of the Month '' '' _URL_ ''
-2571  	"Pleasure of love lasts but a moment , Pain of love lasts a lifetime ."
+2571		"Pleasure of love lasts but a moment , Pain of love lasts a lifetime ."
 2572		"Podcasts , blogs on life-limiting illness , how to avoid medical futility & embrace the life in your days _URL_"
 2573	PER/Paul Valery;	Politics is the art of preventing people from taking part in affairs which properly concern them . <NEWLINE> - Paul Valery
 2574	LOC/Texas;	"Pork chops , dirty rice , steamed vegetables , & Texas toast tonight ... A lady once told me that women love a man that can cook , fuck wit me !"
 2575	PER/Chris;PER/Tommy;	`` Posted a new blog entry '' `` Hello hello hello ... we 're the Chris and Tommy Folk Rock Good tim ... '' '' _URL_ ''
 2576		"Power-Walking does n't involve any power , only the simulation of you walking through a hurricane ... Interesting ."
 2577		Ppl I 'm high thinking a weed nap ... ohhhhhhhh yeah
-2578	PER/Tiger Woods;PER/Tiger;  "`` ppl r too scared . lol RT _Mention_ : Hey what happened to the '' '' I am Tiger Woods '' '' commercials '' , . . nobody wanna be Tiger these days ?"
+2578	PER/Tiger Woods;PER/Tiger;	"`` ppl r too scared . lol RT _Mention_ : Hey what happened to the '' '' I am Tiger Woods '' '' commercials '' , . . nobody wanna be Tiger these days ?"
 2579	MISC/Practical Magic;PER/Nicole Kidman;PER/Sandra Bullock;	Practical Magic with Nicole Kidman & Sandra Bullock . Love this movie !
 2580	LOC/Guantanamo;	President 's Guantanamo strategy in disarray : _URL_ via _Mention_
 2581	PER/Diana Ross;	Putting the Christmas tree up with the wiff _Mention_ -RRB- ; she 's a little tearful especially with Diana Ross playing in the background . .
@@ -2589,7 +2589,7 @@
 2589	PER/R. Kelly;	R. Kelly new album is going to be off the charts ! #goodmusic 
 2590	PER/Leslie Nielsen;	R.I.P Leslie Nielsen
 2591	PER/Ingrid Pitt;	R.I.P. Ingrid Pitt . : -LRB-
-2592	PER/Raj Patel;MISC/World Hunger Year Event; Raj Patel at World Hunger Year Event _URL_
+2592	PER/Raj Patel;MISC/World Hunger Year Event;	Raj Patel at World Hunger Year Event _URL_
 2593	PER/joe montana;	random thought : where 's joe montana when ya need em lol
 2594	PER/George Bush;	"ranked in order from most to least trusted by americans : <NEWLINE> Jewish , Bankers , Politicians , Muslims , George Bush , Athiests"
 2595		rawr ! this is y we get in 2 fights lol _URL_
@@ -2613,11 +2613,11 @@
 2613		Report : ` Cooler ' version of iPhone 4 coming soon _URL_
 2614		`` Reports and <NEWLINE> Articles : Reports and <NEWLINE> Articles _URL_ ''
 2615	PER/Reagan;	Republicans have been deliberately sabatoging the economy since Reagan . The entire world is living with the fallout now . _Mention_
-2616	MISC/Revenge Of The Bridesmaids;  Revenge Of The Bridesmaids - Stills _URL_
+2616	MISC/Revenge Of The Bridesmaids;	Revenge Of The Bridesmaids - Stills _URL_
 2617	PER/Ralph Fiennes Kipling;	Review : Ralph Fiennes Kipling -LRB- Audio CD -RRB- Fantasy Book Review : _URL_ via _Mention_
 2618	PER/Rex Grossman;	Rex Grossman is trash . What was the point of that rexy ? ! Smh
 2619	PER/Ricardo Lorenzetti;PER/N. Kirchner;	Ricardo Lorenzetti habla de la muerte de N. Kirchner . _URL_ via _Mention_
-2620	PER/Rich Franklin;  Rich Franklin might be the toughest math teacher who has ever lived .
+2620	PER/Rich Franklin;	Rich Franklin might be the toughest math teacher who has ever lived .
 2621	PER/Richard Branson;	Richard Branson on taking chances : _URL_
 2622	PER/Rick Ross;	Rick Ross ' album was how many tracks ? lol wth ?
 2623	PER/Ricky Martin;	Ricky Martin giving a voice to exploited children - _URL_ #cnn 
@@ -2630,39 +2630,39 @@
 2630	PER/Elizabeth Edwards;	RIP Elizabeth Edwards
 2631	PER/Freddie Mercury;	Rip Freddie Mercury . If you were alive today you would be impressed how things have changed .
 2632	PER/Leslie Nielsen;	RIP Leslie Nielsen
-2633	PER/Pete Postlethwaite;MISC/Inception;MISC/The Town;  "RIP Pete Postlethwaite , Actor , -LRB- Inception , The Town -RRB-"
+2633	PER/Pete Postlethwaite;MISC/Inception;MISC/The Town;	"RIP Pete Postlethwaite , Actor , -LRB- Inception , The Town -RRB-"
 2634	PER/Reuben Studdard;	RIP Reuben Studdard
 2635	PER/Ron Santo;	"RIP Ron Santo . When I saw he was trending this morning , I knew it was n't great news , but @ least his suffering is no more ."
 2636	PER/Teena Marie;	RIP Teena Marie
 2637	PER/Rob Thomas;	Rob Thomas fan ? RT _Mention_ : he 's mad . _URL_
 2638	PER/Robert De Niro;MISC/SNL;	Robert De Niro will host SNL Dec 4 <NEWLINE> _Mention_
-2639	PER/Robert Downey Jr; Robert Downey Jr totally rocks as Tony Stark ! _Mention_
+2639	PER/Robert Downey Jr;	Robert Downey Jr totally rocks as Tony Stark ! _Mention_
 2640	PER/Roe;ORG/Roe Nurseries Landscaping Inc.;	Roe is trending . Which is bull . I thought it was for Roe Nurseries Landscaping Inc. . Turns out it 's for some old obscure court case .
 2641	PER/Roman Polanski;MISC/European picture award;	Roman Polanski wins best European picture award _URL_
 2642	PER/Audrey;	Romance Wrapped in Soft Pink and Soft Yellow - A Lovely Artfire Collection Curated by Designed by Audrey _URL_
-2643	PER/Ron Marenelli;MISC/Return of the Jedi;  Ron Marenelli looks like that ogre that Luke Skywalker fights against in Return of the Jedi
+2643	PER/Ron Marenelli;MISC/Return of the Jedi;	Ron Marenelli looks like that ogre that Luke Skywalker fights against in Return of the Jedi
 2644	PER/Ron Mueck;	Ron Mueck 's Amazing Surrealistic Sculptures : _URL_
 2645	PER/Ron Paul;	Ron Paul is the man ! How he lost the Presidential race in ' 08 ' shows more proof that we need better #education in our country . #politics 
 2646	PER/Ronaldinho;ORG/Milan;	Ronaldinho comes in for Milan : D ? ? ?
 2647	PER/Roots Manuva;	Roots Manuva - Again & Again _URL_ via _Mention_
-2648	PER/Kate Middleton;PER/Valentino; Royal Dos And Do n't s : Valentino 's Advice For Kate Middleton : She 's been officially affianced for all of about 24 ... _URL_
+2648	PER/Kate Middleton;PER/Valentino;	Royal Dos And Do n't s : Valentino 's Advice For Kate Middleton : She 's been officially affianced for all of about 24 ... _URL_
 2649	PER/Leslie Nielsen;	RP Leslie Nielsen _URL_
 2650		RT I was blown away by this powerful article . Please read ! www.danoah.com/2010/10/worthless-women-and-men-who-make-them.html
 2651		"RT _Mention_ : Shoot for the moon , because even if you miss , hey , floating around in space forever seems pretty cool . ?"
 2652		`` RT '' _Mention_ : Thinking of a master plan ! ! '' '' ''
-2653	PER/Canard; "`` RT '' _Mention_ : Canard out front in 450 timed quali '' , '' clearly he 's not taking this '' `` no ferry '' '' thing hard . '' '' ''"
+2653	PER/Canard;	"`` RT '' _Mention_ : Canard out front in 450 timed quali '' , '' clearly he 's not taking this '' `` no ferry '' '' thing hard . '' '' ''"
 2654		RT _Mention_ I only weight 110 pounds . : \/ < -- oooo thicker then a snickers lol
 2655	PER/Noel Gallagher;PER/Miles Kane;	RT _Mention_ : NEWS : Noel Gallagher ` working on album ' : Miles Kane has confirmed he 's played guitar on new material written by ... ...
 2656	PER/Naomi Campbell;	"RT _Mention_ : Naomi Campbell is accepting her achievement award with a heartfelt , emotional speech _Mention_ _URL_"
 2657		RT _Mention_ YOu follow #cheesehoes I see _Mention_ \/ \/ \/ \/ DOZENS 
 2658	PER/Merril Hodge;	RT _Mention_ : Merril Hodge is a piece of shit lol
 2659	PER/Jay-Z;	RT _Mention_ : LMFAO RT _Mention_ : WTF I look like wishing Jay-Z a Happy Bday ? Fuck him and his couch ! You hear me now ? Good ...
-2660	PER/Danon;  `` RT _Mention_ : MKs call for investigation into '' `` War Criminals '' '' website : Danon demands police investigation and c ` tee debate o. . . http : \/ \/ ... ''
+2660	PER/Danon;	`` RT _Mention_ : MKs call for investigation into '' `` War Criminals '' '' website : Danon demands police investigation and c ` tee debate o. . . http : \/ \/ ... ''
 2661		RT _Mention_ : Walked up to my house and could smell the the food from outside yummmm : -RRB- Sunday dinners are my fav
 2662		"RT _Mention_ Did n't win our random giveaway ? Have no fear ! Once we hit 1,100 fans we 'll be giving away another . Spread the word !"
 2663		RT _Mention_ : Who is _Mention_ ? < me
 2664		"RT _Mention_ RT _Mention_ : #Cancer females are motherly , caring , and comforting that personify the word w-o-m-a-n . "
-2665	LOC/Dunwoody Prep;LOC/Mt. Vernon; RT _Mention_ : Man Shot In Front Of Dunwoody Prep ; Police looking for silver Dodge Minivan with no tag last seen WB on Mt. Vernon #new ... 
+2665	LOC/Dunwoody Prep;LOC/Mt. Vernon;	RT _Mention_ : Man Shot In Front Of Dunwoody Prep ; Police looking for silver Dodge Minivan with no tag last seen WB on Mt. Vernon #new ... 
 2666	PER/Christina Applegate;	RT _Mention_ : Spreading the word about Christina Applegate 's auction for Breast Cancer Awareness . Will benefit her org _URL_ ...
 2667	PER/Graham Norton;ORG/BBC1;ORG/bbc;	"RT _Mention_ : Was on the Graham Norton show on BBC1 last night so if you were out partying and want to see it today , check bbc ip ..."
 2668	MISC/Austin Powers;	"RT _Mention_ : Hang on , did _Mention_ just say _Mention_ reminds her of Austin Powers on _Mention_ ? #Slapyourself situation ... "
@@ -2671,7 +2671,7 @@
 2671	PER/Stephen Harper;	RT _Mention_ : #wikileaks confirms - Everyone hates Stephen Harper #p2ca 
 2672		RT _Mention_ : Mantra of The Day <NEWLINE> <NEWLINE> OM BUM BUDHAYAY NAMAH <NEWLINE> OM AIM KILEEM SHREEM BUDHAYAY NAMAH <NEWLINE> OM BRAM BREEM BROM SAH BUDHAYAY NAMAH
 2673		"RT _Mention_ : _Mention_ zulke peki 's , hard2get ? Jaa man true story . The are betta things #afriaccent "
-2674	PER/Sarah Palin;ORG/White House;PER/Obama;  "RT _Mention_ Exclusive : Sarah Palin tells _Mention_ she 's seriously considering a White House run , that she could beat Obama : _URL_"
+2674	PER/Sarah Palin;ORG/White House;PER/Obama;	"RT _Mention_ Exclusive : Sarah Palin tells _Mention_ she 's seriously considering a White House run , that she could beat Obama : _URL_"
 2675	PER/Chris Brown;	"RT _Mention_ : I feel bad for Chris Brown ... If you know him , and he needs a publicist , tell him to contact me ..."
 2676		RT _Mention_ : Tweet ... for a cure
 2677	ORG/Absolute Classic Rock;PER/John Lennon;	"RT _Mention_ : Absolute Classic Rock plays out John Lennon 's final interview tomorrow night at 9pm . 2 hours of amazing , unmissable ..."
@@ -2687,7 +2687,7 @@
 2687	PER/Ryan;	"RT _Mention_ : #Matt Ryan has a 10-12 record on the road . He 's not off to his best start passing , 3 of7 for 35 yards . "
 2688	PER/Ryan;	RT _Mention_ : #Matt Ryan is not sharp . He 's had three near interceptions . 
 2689	ORG/Falcons;PER/Garrett Hartley;	"RT _Mention_ : #Saints 3 , Falcons 0 -- Garrett Hartley on a 52 yard field with 1:02 left in the first quarter . Drive : 8 plays , 37 yards ... "
-2690	MISC/Chick-Fil-A Bowl Parade;LOC/Pine;ORG/RDA;PER/Ivan Allen;LOC/Peachtree; "RT _Mention_ : Closures for Chick-Fil-A Bowl Parade begin at 10:30 a.m. along W. Ptree near Pine , and RDA\/Ivan Allen near Peachtree . ..."
+2690	MISC/Chick-Fil-A Bowl Parade;LOC/Pine;ORG/RDA;PER/Ivan Allen;LOC/Peachtree;	"RT _Mention_ : Closures for Chick-Fil-A Bowl Parade begin at 10:30 a.m. along W. Ptree near Pine , and RDA\/Ivan Allen near Peachtree . ..."
 2691	PER/Julian Assange;ORG/Time magazine;	RT _Mention_ : HOLY FUCK ! Julian Assange removed from Time magazine 's man of the year award -LRB- he was at no. 1 -RRB- _URL_ #wi ... 
 2692	PER/Alicia Keys;	RT _Mention_ : Congrats to Alicia Keys on her baby boy - do n't know her but had a few sherries and feeling sentimental
 2693	PER/Elton John;	RT _Mention_ : Elton John is editting the independent tomorrow for Worlds AIDS day lets tweet him our support _Mention_ - go on - do it ! !
@@ -2722,7 +2722,7 @@
 2722		"RT _Mention_ : In these challenging days , we ca n't afford earmarks -- items inserted into spending bills without adequate review . http : \/ \/ ..."
 2723	PER/Elizabeth Edwards;	RT _Mention_ : Our country has benefited from the voice Elizabeth Edwards gave to the cause of building a society that lifts up all th ...
 2724	PER/Julian Assange;	RT _Mention_ Julian Assange will be having a lonely Xmas in a police cell . This is for him : let it leak ! _URL_
-2725	ORG/Beatles;  "RT _Mention_ : After three hours , the Blue album is the highest charting Beatles album on iTunes , at no 38 . Hey Jude is the top-sell ..."
+2725	ORG/Beatles;	"RT _Mention_ : After three hours , the Blue album is the highest charting Beatles album on iTunes , at no 38 . Hey Jude is the top-sell ..."
 2726	ORG/Beatles;ORG/The Beatles;	"RT _Mention_ : On the 6Music site : Beatles on iTunes : After a ten year stand-off , The Beatles are finally selling their tracks ... h ..."
 2727	ORG/Airbus;	RT _Mention_ : Airbus prepares safety warnings _URL_
 2728	ORG/British Gas;	RT _Mention_ : British Gas to raise bills by 7 % _URL_
@@ -2756,7 +2756,7 @@
 2756	ORG/Pontin;	RT _Mention_ : Pontin 's goes into administration _URL_
 2757		RT _Mention_ : Scots revenue powers ` to expand ' _URL_
 2758		RT _Mention_ : Scots ski season gets under way _URL_
-2759    RT _Mention_ : Seven people die in French fire _URL_
+2759		RT _Mention_ : Seven people die in French fire _URL_
 2760	ORG/SNCF;	RT _Mention_ : SNCF ` sorrow ' over Holocaust role _URL_
 2761		RT _Mention_ : Students plan non-violent tactics _URL_
 2762		RT _Mention_ : War dead remembered at services _URL_
@@ -2770,7 +2770,7 @@
 2770		RT _Mention_ : Top computers ` to fit sugar cube ' _URL_
 2771		RT _Mention_ : Turtles breathe in for buoyancy _URL_
 2772	PER/Hamilton;PER/Alonso;	RT _Mention_ : I want Hamilton on pole - Alonso _URL_
-2773	PER/Pacquiao;ORG/WBC; RT _Mention_ : Pacquiao wins WBC title on points _URL_
+2773	PER/Pacquiao;ORG/WBC;	RT _Mention_ : Pacquiao wins WBC title on points _URL_
 2774	ORG/Tottenham;ORG/Blackburn;	RT _Mention_ : Tottenham 4-2 Blackburn _URL_
 2775		RT _Mention_ : The thief in your pocket ? _URL_
 2776		RT _Mention_ : ` Ignored ' _URL_
@@ -2786,7 +2786,7 @@
 2786	PER/Berlanga;	RT _Mention_ : Film-maker Berlanga dies aged 89 _URL_
 2787	PER/Suu Ky;	RT _Mention_ : Freed Suu Kyi addresses followers _URL_
 2788		RT _Mention_ : French cabinet quits ahead of reshuffle _URL_
-2789    RT _Mention_ : German Interior Minister : heightened threat of terror attack
+2789		RT _Mention_ : German Interior Minister : heightened threat of terror attack
 2790	PER/Haye;PER/Harrison;	RT _Mention_ : Haye stops Harrison to keep title _URL_
 2791	PER/Haye;	RT _Mention_ : Haye unfazed by weight difference _URL_
 2792	PER/Haye;	RT _Mention_ : Haye unfazed by weight difference _URL_
@@ -2799,7 +2799,7 @@
 2799	LOC/DR Congo;	RT _Mention_ : Police ` killed DR Congo activist ' _URL_
 2800	ORG/Pontin;	RT _Mention_ : Pontin 's goes into administration _URL_
 2801		RT _Mention_ : Schools facing funding overhaul _URL_
-2802  	RT _Mention_ : Seven people die in French fire _URL_
+2802		RT _Mention_ : Seven people die in French fire _URL_
 2803	ORG/SNCF;	RT _Mention_ : SNCF ` sorrow ' over Holocaust role _URL_
 2804	ORG/Manchester United;	"RT _Mention_ : The Glazer family , who own Manchester United say they are to use their own money to pay off # 220m of high interest loans ."
 2805		RT _Mention_ : Urban v rural _URL_
