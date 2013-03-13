@@ -1397,7 +1397,7 @@
 1397	PER/Bing Crosby;	Bing Crosby - Silent Night _URL_
 1398	MISC/Black Swan;PER/Natalie Portman;	Black Swan poster Natalie Portman -LRB- Glamour.com UK -RRB- : _URL_ via _Mention_
 1399	ORG/BMW;	"BMW : -------- A must see 2004 325i bmw --------- -LRB- atlanta -RRB- $ 7000 : This car has been pampered , have ... _URL_ #carsatlanta "
-1400	PER/Bob Marley;ORG/MSN;	Bob Marley chills baby MSN Video _URL_
+1400	PER/Bob Marley;	Bob Marley chills baby MSN Video _URL_
 1401	PER/Bobby Heenan;PER/Harley Race;	Bobby Heenan and Harley Race have been invited to Wrestlemania .
 1402		Bored ? Come video chat with me and 82 others at _URL_ -LRB- _URL_
 1403	LOC/u.s.a.;	born and rasied in da u.s.a. where my president iz b.l.a.c.k. Where my president iz b.l.a.c.k. #lilwayne 
@@ -2382,7 +2382,7 @@
 2382	PER/Snoop Dogg;PER/Cameron Diaz;PER/Snoop Dogg;	New Entry Snoop Dogg : : El Lay - Cameron Diaz 's admission that she bought marijuana from Snoop Dogg when they attend ... _URL_
 2383	ORG/Organix;	New Organix Brazilian Keratin Therapy & Moroccan Argan Oil collections _URL_
 2384		New question posted ! - Please anwser this ... I need more anwsers ! ? . Answer this now at _URL_
-2385	MISC/Rootkit;ORG/Windows;	New Rootkit Bypasses Windows Code-Signing Security _URL_
+2385		New Rootkit Bypasses Windows Code-Signing Security _URL_
 2386	PER/Joe Cocker;	new song of the day -- -RRB- Joe Cocker Woman to Woman _URL_ via _Mention_
 2387	LOC/New york;	New york here 's to the
 2388	PER/Eneramo;ORG/The Nation Newspaper; News : Eneramo moves at cut-price - The Nation Newspaper _URL_
@@ -2722,8 +2722,8 @@
 2722		"RT _Mention_ : In these challenging days , we ca n't afford earmarks -- items inserted into spending bills without adequate review . http : \/ \/ ..."
 2723	PER/Elizabeth Edwards;	RT _Mention_ : Our country has benefited from the voice Elizabeth Edwards gave to the cause of building a society that lifts up all th ...
 2724	PER/Julian Assange;	RT _Mention_ Julian Assange will be having a lonely Xmas in a police cell . This is for him : let it leak ! _URL_
-2725	ORG/Beatles;ORG/iTunes; "RT _Mention_ : After three hours , the Blue album is the highest charting Beatles album on iTunes , at no 38 . Hey Jude is the top-sell ..."
-2726	ORG/Beatles;ORG/iTunes;ORG/The Beatles;	"RT _Mention_ : On the 6Music site : Beatles on iTunes : After a ten year stand-off , The Beatles are finally selling their tracks ... h ..."
+2725	ORG/Beatles; "RT _Mention_ : After three hours , the Blue album is the highest charting Beatles album on iTunes , at no 38 . Hey Jude is the top-sell ..."
+2726	ORG/Beatles;ORG/The Beatles;	"RT _Mention_ : On the 6Music site : Beatles on iTunes : After a ten year stand-off , The Beatles are finally selling their tracks ... h ..."
 2727	ORG/Airbus;	RT _Mention_ : Airbus prepares safety warnings _URL_
 2728	ORG/British Gas;	RT _Mention_ : British Gas to raise bills by 7 % _URL_
 2729	PER/Obama;	RT _Mention_ : Obama warning over Asian exports _URL_
