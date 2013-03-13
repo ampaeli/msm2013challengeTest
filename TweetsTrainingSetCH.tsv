@@ -58,7 +58,7 @@
 58	LOC/Ireland;LOC/Emerald isle;	"_ _Mention_ : Ireland 's economic woes : Tiger , tiger , burning dull - Emerald isle in the red _URL_ #economist  #ireland "
 59	LOC/WELLINGTON;LOC/New Zealand;ORG/AP;LOC/New Zealand;	"_ _Mention_ : WELLINGTON , New Zealand -LRB- AP -RRB- -- Rescuers to drill hole at New Zealand coal mine _URL_"
 60	LOC/Damascus;MISC/Iraqi;	"_ _Mention_ : Damascus : Iraqi Refugee Urged to Trade Sex for Food , Cash <NEWLINE> _URL_ <NEWLINE> #iraq _ "
-61		"_ _Mention_ : Just in time for Thanksgiving , Wired 's How-to for Roasting the Perfect Turkey - _URL_"
+61	ORG/Wired;  "_ _Mention_ : Just in time for Thanksgiving , Wired 's How-to for Roasting the Perfect Turkey - _URL_"
 62	LOC/East Coast;	"_ _Mention_ : Storm Wreaks Havoc on Travel : A potent winter storm barreled up the East Coast , snarling air traffic , '' slowin ... '' '' ''"
 63	ORG/China;	_ _Mention_ : China Tightens Bank-Credit Rule _URL_
 64	LOC/Northern Mexico;	_ _Mention_ : Northern Mexico 's State of Anarchy _URL_
