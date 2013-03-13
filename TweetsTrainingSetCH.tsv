@@ -6,7 +6,7 @@
 6	PER/cheryl cole;PER/Danni;PER/eddie;	cheryl cole is starting to lose that connection with me ! But Danni has maintained the steady eddie feel to me ! ! ? What you think ?
 7	ORG/Lester,	Mason & Begg Limited; MISC/Fordibben Fruit, URL\/http : \/ \/ is . gd\/hEqsT ; , Lester , '' Mason & Begg Limited : '' '' ` Forbidden Fruit ' calls on all of us to examine the long history of censoring ideas '' '' _URL_ ''"
 8	PER/Thomas Watson; 	"To be successful , you have to have your heart in your business , and your business in your heart . Thomas Watson , Sr."
-9	PER/Sanchez;PER/Eli Wallach;MISC/The Good , The Bad and the Ugly; "Sanchez looks like Eli Wallach in The Good , The Bad and the Ugly with that facial scruff ."
+9	PER/Sanchez;PER/Eli Wallach;MISC/The Good, The Bad and the Ugly;	"Sanchez looks like Eli Wallach in The Good , The Bad and the Ugly with that facial scruff ."
 10		"_Mention_ the history of the mayor , the city ."
 11	MISC/Entertainment Tonight;MISC/Yahoo ! News; ` Entertainment Tonight ' creator dies at 80 - Yahoo ! News _URL_
 12	PER/Julian Assange; ORG/wikileaks;	` The truth will always win ' - Julian Assange writes #wikileaks 
@@ -249,9 +249,9 @@
 249	LOC/Pakistan;	_Mention_ Action Plan for Econ Salvation of Pak : Security of Pakistan _ _ s future depends in its econom growth & d. . . _URL_
 250	LOC/North Korea;LOC/South Korea;MISC/Asian;	_Mention_ Alternatively could North Korea 's attack on South Korea have an influence on Asian shares ?
 251	LOC/Australia;LOC/Blackwater;LOC/Christmas Island;	_Mention_ Australia _ _ s Blackwater update : Christmas Island detainees sew lips together _URL_ _Mention_  _Mention_  #p2 
-252	MISC/British;LOC/Germany;	"_Mention_ British seperated fathers are treated like Jews in Nazi Germany , I have n't seen my kids for 8 years . Compensate that ."
-253	MISC/Americans;LOC/Pakistan;	_Mention_ By repeat annonucements these Americans will make $ 7.5 billion KLB aid look like $ 750 billions assistance to Pakistan .
-254	ORG/Pepsi;ORG/Coke;	_Mention_ Coke vs. Pepsi in emerging markets - BRICA Group Weekly Episode 1 bricagroup.posterous.com/coke-vs-pepsi-_��_��___ via _Mention_
+252 LOC/Nazi Germany;	"_Mention_ British seperated fathers are treated like Jews in Nazi Germany , I have n't seen my kids for 8 years . Compensate that ."
+253 LOC/Pakistan;	_Mention_ By repeat annonucements these Americans will make $ 7.5 billion KLB aid look like $ 750 billions assistance to Pakistan .
+254 ORG/Pepsi;ORG/Coke;ORG/BRICA Group;	_Mention_ Coke vs. Pepsi in emerging markets - BRICA Group Weekly Episode 1 bricagroup.posterous.com/coke-vs-pepsi-_ÔøΩÔøΩ_ÔøΩÔøΩ___ via _Mention_
 255	MISC/English;LOC/UK;	_Mention_ English family law holocaust sees millions of UK kids snatched from separated fathers . Children suffering mental torture .
 256 MISC/English;LOC/UK;LOC/UK; _Mention_ English family law holocaust sees millions of UK kids snatched from separated fathers . UK children suffering mental torture .
 257	PER/RICK JOYNER;LOC/JIM BAKKER BUILDING;	_Mention_ FALSE PROPHET RICK JOYNER IN TROUBLE FINANCIALLY AND WITH HIS JIM BAKKER BUILDING -LRB- cont -RRB- _URL_
@@ -1449,16 +1449,16 @@
 1449	PER/Chace Crawford;	Chace Crawford #fine 
 1450	PER/Denis Waitley;	"Change the changeable , accept the unchangeable , and remove yourself from the unacceptable . - Denis Waitley"
 1451	PER/John D. Rockefeller;	Charity is injurious unless it helps the recipient to become independent of it . <NEWLINE> - John D. Rockefeller
-1452	PER/Charles Woodson;ORG/Michigan;	Charles Woodson is one of my favorite Michigan players ever
+1452	PER/Charles Woodson;LOC/Michigan;	Charles Woodson is one of my favorite Michigan players ever
 1453	PER/Charlie Murphhyyyy;	Charlie Murphhyyyy
-1454	ORG/Adagio;	Check out all the health benefits of tea visit Adagio teas ~ _URL_
+1454		Check out all the health benefits of tea visit Adagio teas ~ _URL_
 1455	PER/Sananda Maitreya;	Check out music from Sananda Maitreya _URL_
-1456	ORG/Amazon;ORG/Timex;ORG/Timex;	Check out this Amazon deal : ` Timex Kids ' T89001 Hearts and Butterflies Stretch Band Watch ' by Timex _URL_
+1456	ORG/Timex;ORG/Timex;	Check out this Amazon deal : ` Timex Kids ' T89001 Hearts and Butterflies Stretch Band Watch ' by Timex _URL_
 1457		Check out this awesome site : 5 In 1 - _URL_ _Mention_  #Sweeva 
-1458	ORG/Casio;	"Check out this great item : Earth Standard for Casio Exilim EX-Z30 , EX-Z40 , EX-50 _URL_"
+1458		"Check out this great item : Earth Standard for Casio Exilim EX-Z30 , EX-Z40 , EX-50 _URL_"
 1459		check out this juicy #asianmilf ! _URL_ 
-1460	PER/Holly;ORG/Tubeminator;PER/Mistress Red;	Check this new video on Tubeminator : Holly gets tickled by Mistress Red . wmv _URL_
-1461	PER/SANANDA MAITREYA & The Nudge Nudge;	Check this video out -- 3 I Never Know - SANANDA MAITREYA & The Nudge Nudge _URL_ via _Mention_
+1460	PER/Holly;	Check this new video on Tubeminator : Holly gets tickled by Mistress Red . wmv _URL_
+1461	PER/SANANDA MAITREYA;	Check this video out -- 3 I Never Know - SANANDA MAITREYA & The Nudge Nudge _URL_ via _Mention_
 1462	PER/Aretha Franklin;	Check this video out -- Aretha Franklin Just My Daydream _URL_ via _Mention_
 1463	ORG/Black Eyed Peas;	Check this video out -- Black Eyed Peas - The Time -LRB- Dirty Bit -RRB- _URL_ via _Mention_
 1464		Check this video out -- Exodus -LRB- 1960 -RRB- - theme _URL_ via _Mention_
@@ -1479,8 +1479,8 @@
 1479	PER/Christopher Walken;	Christopher Walken 's 3 little pigs : _URL_ - LOL !
 1480	ORG/Chuck Brown & The Soul Searchers;	`` Chuck Brown & The Soul Searchers '' `` Ashley 's Roachclip '' '' _URL_ via _Mention_ ''
 1481	ORG/Bears;ORG/Packers;	Classy . - > RT _Mention_ : Bears season over . Tough loss . Congrats to Packers and their fans . Good luck on the big day .
-1482		"Clothes Wash\/Microwave : 10W , Office Lights : 46W , Basement Bath Rm : 0W , Rec Room : 87W"
-1483		"Clothes Wash\/Microwave : 199W , Office Lights : 44W , Basement Bath Rm : 0W , Rec Room : 86W"
+1482	LOC/Basement Bath Rm;	"Clothes Wash\/Microwave : 10W , Office Lights : 46W , Basement Bath Rm : 0W , Rec Room : 87W"
+1483	LOC/Basement Bath;	"Clothes Wash\/Microwave : 199W , Office Lights : 44W , Basement Bath Rm : 0W , Rec Room : 86W"
 1484		"Coda : All things Dismemberment Plan ; Odd Future 's future ; Metro , remixed ! : Check the blog on Monday for a review o. . . _URL_"
 1485		Cody < 3 -LRB- #codysimpsonustream live at _URL_ -RRB- 
 1486	ORG/Wikileaks;PER/Julian Assange;	Coincidence or conspiracy ? Wikileaks founder Julian Assange faces new warrant : _URL_
@@ -1504,22 +1504,22 @@
 1504	PER/Glenn Beck;	"Countdown : Glenn Beck , the communist ? _URL_"
 1505		Crap . Iheartradio apparently has a steelers blackout . Advice for online audio streaming of the game ?
 1506		Credit Reports _URL_
-1507	ORG/Crystal Castles;MISC/Jimmy Kimmel;	"Crystal Castles is performing on Jimmy Kimmel . Reminds me how I really want to see them again live , maybe more sober so I remember it haha ."
+1507	ORG/Crystal Castles;PER/Jimmy Kimmel;	"Crystal Castles is performing on Jimmy Kimmel . Reminds me how I really want to see them again live , maybe more sober so I remember it haha ."
 1508		Currency Majors Technical Perspective : EUR\/USD Current price : 1.3605 View Live Chart for the EUR\/USD Majors star ... _URL_
 1509		Currently reading _URL_
 1510	PER/Stephen Hawking;	"Currently Reading : Stephen Hawking - The Grand Design , the Mother in Law is coming I think I am reading all night ."
 1511	PER/Curtis Mayfield;	Curtis Mayfield - Right On For the Darkness _URL_ via _Mention_
-1512	ORG/BluEyes One;PER/Diego Redd; Cut the Check Featuring BluEyes One & Diego Redd by ClintonPlace _URL_ via #soundcloud 
-1513	ORG/BluEyes One;PER/Diego Redd; Cut the Check Featuring BluEyes One & Diego Redd by ClintonPlace _URL_ via #soundcloud < -- song of the day 
-1514	ORG/Mediaoutrage.com;	Cute dress RT _Mention_ Mediaoutrage.com : seen on the scene _URL_
-1515	PER/Cutler;ORG/Chicago;	"Cutler , you have to realize what city you 're playing in . If you even TRIED to play injured , Chicago fans would love you for it ."
+1512	ORG/BluEyes One;PER/Diego Redd;PER/ClintonPlace;	Cut the Check Featuring BluEyes One & Diego Redd by ClintonPlace _URL_ via #soundcloud 
+1513	ORG/BluEyes One;PER/Diego Redd;PER/ClintonPlace;	Cut the Check Featuring BluEyes One & Diego Redd by ClintonPlace _URL_ via #soundcloud < -- song of the day 
+1514		Cute dress RT _Mention_ Mediaoutrage.com : seen on the scene _URL_
+1515	PER/Cutler;LOC/Chicago;	"Cutler , you have to realize what city you 're playing in . If you even TRIED to play injured , Chicago fans would love you for it ."
 1516		Cuz baby now I realize that I was wrong <NEWLINE> When I said I did n't need you so <NEWLINE> Miss you b. . . : _URL_
 1517	PER/R. Kelly;	Cuz I 'm a jerk \* R. Kelly voice \*
 1518	PER/Daigo Saito;	Daigo Saito is the man ! ! ! ! ! _URL_
 1519	ORG/Rolls Royce;	Damage Worse Than Thought in _Mention_ Jet Engine Blast - _URL_ Black eye for Rolls Royce Engines #safety  #first 
 1520		Damn my own niggas do n't believe me RT _Mention_ : _Mention_ nah I used 2 give u Da benefit of the Doubt but nah ! U dat Nigga blacc
 1521		Damn this nigga just backed into this bitch car at the gas station
-1522	PER/Barack;PER/Barack obama;ORG/Hotnas Brothers;	Damn ... Never seen Barack Barack obama like this hahah _URL_ Hotnas Brothers
+1522	PER/Barack obama;	Damn ... Never seen Barack Barack obama like this hahah _URL_ Hotnas Brothers
 1523	ORG/NBC;PER/William;PER/Kate;	Dateline NBC is showing William & Kate A Royal Love Story ! #engrossed 
 1524	PER/David Hasselhoof;	"David Hasselhoof on _Mention_  _Mention_ tomorrow , why , he 's a has-been , he is freakin creepy & a Narcissist"
 1525	PER/David Hasselhoof;	"David Hasselhoof on #TheViewTV tomorrow , why , he 's a has-been , he is freakin creepy & a Narcissist "
@@ -1529,31 +1529,31 @@
 1529	PER/Dean Radin;	`` Dean Radin _Mention_ discusses '' `` the stupidity hypothesis '' '' versus the '' `` invisible college '' '' of psychic phenomena research . _URL_ ''
 1530	PER/Thomas Paine;	`` Dec. 1776 vs. Dec. 2010 . Check out this #historic edition of '' #Common  #Sense '' '' by Thomas Paine . _URL_ '' 
 1531		Deep Space Network 's Goldstone Antenna Overhauled _URL_
-1532	ORG/the Packers;MISC/Super bowl;	Defense won the game for the Packers today . Super bowl bound
-1533	ORG/YouTube;	definitely gonna go for another fish in the seaaaa -LRB- YouTube _URL_ -RRB-
+1532	MISC/Super bowl;	Defense won the game for the Packers today . Super bowl bound
+1533		definitely gonna go for another fish in the seaaaa -LRB- YouTube _URL_ -RRB-
 1534	PER/SHEMAR MOORE;	definitely not random RT : _Mention_ : #random SHEMAR MOORE is so fine ! ! 
 1535	ORG/Department of Homeland Security;	Department of Homeland Security from 2005 to 2009
-1536	MISC/Desperate Housewives;PER/Rochelle Aytes;PER/Keith;MISC/Movieline;	Desperate Housewives Casts Rochelle Aytes As Keith 's Ex Movieline _URL_ via _Mention_
+1536	MISC/Desperate Housewives;PER/Rochelle Aytes;PER/Keith;	Desperate Housewives Casts Rochelle Aytes As Keith 's Ex Movieline _URL_ via _Mention_
 1537	ORG/Destiny 's Child;	Destiny 's Child _Mention_  _Mention_ and _Mention_ Sistas Forever ! I Love they very much ! _URL_
 1538	PER/DiCaprio;PER/Putin;ORG/NZ Herald News;	DiCaprio 's efforts for tigers impress Putin - Entertainment - NZ Herald News _URL_ via _Mention_
 1539	PER/Dick Butkus;PER/Bart Starr;	Dick Butkus would have quit the game before ever being tackled by Bart Starr . #meow 
-1540	ORG/Dictionary.com;	Dictionary.com RT _Mention_ : Hey _Mention_ I kno ur feelings hurt cuz of the points I put up ... but it 's ur turn _URL_
-1541	PER/Jake Gyllenhall;PER/Jimmy Fallon;PER/Mad Skillz;	"Did anybody catch Jake Gyllenhall on Jimmy Fallon last night ? , he busted out some serious moves . . & Mad Skillz ? ? , who knew ? luv both Caans ."
+1540		Dictionary.com RT _Mention_ : Hey _Mention_ I kno ur feelings hurt cuz of the points I put up ... but it 's ur turn _URL_
+1541	PER/Jake Gyllenhall;PER/Jimmy Fallon;	"Did anybody catch Jake Gyllenhall on Jimmy Fallon last night ? , he busted out some serious moves . . & Mad Skillz ? ? , who knew ? luv both Caans ."
 1542	LOC/Nepal;LOC/KATHMANDU;LOC/Nepal;	"Did you hear ? 140 tourists stranded at airport in Nepal : KATHMANDU , Nepal - More than 140 internat ... _URL_ 0/#news  0/#travel "
-1543	PER/Allison Dubois;MISC/RHOBH;MISC/Bravo;	"did you see Allison Dubois on RHOBH ? if not it 's a must , on Bravo 6pm tonight . would love your opinion on her appearance _Mention_"
-1544	ORG/Diddy-Dirty Money;ORG/Dior;MISC/Paris Fashion Week;ORG/Diddy-Dirty Money;LOC/Paris;	Diddy-Dirty Money Does Dior at Paris Fashion Week : Diddy-Dirty Money caught the last train to Paris earlier toda ... _URL_
-1545	PER/jesus christ;	Didnt get job and happy about it . They wanted a cross between a super hero and jesus christ . Not a psych nurse .
+1543	PER/Allison Dubois;MISC/RHOBH;	"did you see Allison Dubois on RHOBH ? if not it 's a must , on Bravo 6pm tonight . would love your opinion on her appearance _Mention_"
+1544	ORG/Diddy-Dirty Money;MISC/Paris Fashion Week;ORG/Diddy-Dirty Money;LOC/Paris;	Diddy-Dirty Money Does Dior at Paris Fashion Week : Diddy-Dirty Money caught the last train to Paris earlier toda ... _URL_
+1545		Didnt get job and happy about it . They wanted a cross between a super hero and jesus christ . Not a psych nurse .
 1546		Die for my nigga 4real if anything happen to him i would n't know what to do _URL_
 1547	PER/Dimitar Berbatov;ORG/Premier League;ORG/Manchester Un;	Dimitar Berbatov grabbed his third hat-trick of the season to guide unbeaten Premier League leader Manchester Un ... _URL_
 1548	ORG/Direct Action;ORG/Twitter;ORG/Brighton Uncut;	"Direct Action training via Twitter tomorrow , 2sessions from Brighton Uncut _URL_ _URL_"
 1549	PER/William S. Burroughs;PER/William S. Burroughs;	"`` Director Turns to '' `` William S. Burroughs '' '' For Debut Feature : If William S. Burroughs 's work seems different '' , his ... _URL_"
 1550		Discount Down Coat : Anything You Wish To Know : She basically buys discount designer clothing . One of the web sit ... _URL_
 1551	PER/Lady Gaya;	`` Discover the actual Modification in Lady Gaya '' `` Previously and After '' '' Cosmetic Transplantation _URL_ Demi Tomato ''
-1552	ORG/Disney;PER/Heather Mills;MISC/Happy Foot;	"Disney have announced that Heather Mills will be touring in the musical version of their hit film , Happy Foot ."
+1552	PER/Heather Mills;MISC/Happy Foot;	"Disney have announced that Heather Mills will be touring in the musical version of their hit film , Happy Foot ."
 1553	PER/Sam Shields;	"Ditto ! ! RT _Mention_ : If there 's anyone I 'm okay to see picking off cutler , it 's Sam Shields ... _Mention_"
 1554	PER/Ralph Waldo Emerson;	"Do not go where the path may lead , go instead to where there is no path and leave a trail . <NEWLINE> - Ralph Waldo Emerson"
 1555		do you have to rt every single mention you get a shoutout ?
-1556	PER/Hank Scorpio;ORG/twitter;	Does Hank Scorpio have a twitter account ? _Mention_ does he ?
+1556	PER/Hank Scorpio;	Does Hank Scorpio have a twitter account ? _Mention_ does he ?
 1557	PER/Norman;PER/Norman;	Does it get any cuter then this ? ? Yesterday was Norman 's 90th BDay . Happy 90th birthday Norman ! ! _URL_
 1558		"Does playing the guitar make your fingers grow ? Professional ... : I have recntly started playing the guitar , a. . . _URL_"
 1559		Doing a video chat with 2 other people - click the link to join -- > _URL_ -LRB- _URL_
@@ -1568,20 +1568,20 @@
 1568	PER/Greg Behrendt;PER/Liz Tucillo;	Do n't give your heart to ANY guy who makes you wonder about ANYTHING related to his feelings for you . ' Greg Behrendt & Liz Tucillo
 1569	PER/Jim Rohn;	"Do n't just read the easy stuff . You may be entertained by it , but you will never grow from it . ~ Jim Rohn"
 1570	PER/Woody Allen;	Do n't knock masturbation - it 's sex with someone I love . ~ Woody Allen
-1571	LOC/Green Bay;MISC/St. Patrick 's day;	"Do n't know they named ` Green Bay ' , but I guarantee it was n't about efficient energy . That leaves algae , moss , or St. Patrick 's day dye ."
+1571	LOC/Green Bay;	"Do n't know they named ` Green Bay ' , but I guarantee it was n't about efficient energy . That leaves algae , moss , or St. Patrick 's day dye ."
 1572	PER/Nicki Minaj;	Do n't miss #VH1DivasSaluteTheTroops with host _Mention_ and performances with _Mention_ Nicki Minaj and more tonight at 9 PM ! 
-1573	MISC/The 40 Year Old Virgin;ORG/ITV1;LOC/London;	"Do n't miss The 40 Year Old Virgin , ITV1 -LRB- London -RRB- . Starts in 10 mins . _URL_"
-1574	LOC/Forest Lawn;LOC/Hollywood Hills;	Do n't step on the graves ! It 's bad luck . -LRB- @ Forest Lawn - Hollywood Hills -RRB- _URL_
+1573	ORG/ITV1;LOC/London;	"Do n't miss The 40 Year Old Virgin , ITV1 -LRB- London -RRB- . Starts in 10 mins . _URL_"
+1574		Do n't step on the graves ! It 's bad luck . -LRB- @ Forest Lawn - Hollywood Hills -RRB- _URL_
 1575		Do n't subtweet me RT _Mention_ : < 3 < -- this is gay even for a girl to do
 1576	PER/Albert Camu;	Do n't wait for the last judgment . It takes place every day . <NEWLINE> - Albert Camu
 1577	PER/Napoleon Hill;	Do n't wait . The time will never be just right . ~ Napoleon Hill
-1578	ORG/Chicago;	Do n't worry Chicago we 'll get there next year
+1578	LOC/Chicago;	Do n't worry Chicago we 'll get there next year
 1579	PER/F. Scott Fitzgerald;	"Do n't write because you want to say something , write because you have something to say - F. Scott Fitzgerald"
 1580	PER/Donald Trump;	Donald Trump eyes 2012 presidential run Raw Story _URL_
 1581	PER/Donald Trump;PER/Sarah Palin;	"Donald Trump : I Like Sarah Palin , ` But I 'd Take Her On ' In 2012 -LRB- AMERICA CORNERS THE ALTERNATIVE DEMOCRACY MARKET -RRB- _URL_"
 1582	PER/Keith Olbermann;PER/Jeff Zucker;	"Dont know about Keith Olbermann but if Jeff Zucker approved this show -LRB- i 'm sure he did -RRB- , He deserved to be shown the door ."
-1583	PER/DOUG;PER/French Montana;	"DOUG , whachu know about it \* French Montana voice \*"
-1584	PER/Henry Killinger;MISC/Venture Brothers;	Dr. Henry Killinger _URL_ -LRB- one of my favorite Venture Brothers characters -RRB-
+1583	PER/Montana voice;	"DOUG , whachu know about it \* French Montana voice \*"
+1584	PER/Henry Killinger;	Dr. Henry Killinger _URL_ -LRB- one of my favorite Venture Brothers characters -RRB-
 1585		Dumb Cheese-Heads ! ! RT _Mention_ Dutch soldiers ` blew up own car ' _URL_
 1586		Dutch to Ban Tourists from Buying Pot _URL_
 1587		Easter -- only a few months away ... luckily it 's easy as spring is here already ; easier to get in the mindset . _URL_
