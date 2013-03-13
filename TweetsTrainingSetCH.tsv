@@ -704,7 +704,7 @@
 704	PER/Randy;PER/Jessica;	"_Mention_  _Mention_ - Thanks for the RT , Randy ! ! Hope your day has been relaxing & fun ! ~ Jessica"
 705	ORG/NFL;	_Mention_ NFL Network !
 706	LOC/Oceans;ORG/U.N.;LOC/Oceans;PER/jakson;	"_Mention_ Oceans failing the acid test , U.N. says - _URL_ #cnn Help save de Oceans ! ! ! jakson nz "
-707	LOC/Oceans;ORG/U.N.;PER/jakson;	"_Mention_ Oceans failing the acid test , U.N. says - _URL_ #cnn jakson NZ "
+707	LOC/Oceans;ORG/U.N.;PER/jakson;LOC/NZ;	"_Mention_ Oceans failing the acid test , U.N. says - _URL_ #cnn jakson NZ "
 708		_Mention_ Here are the lyrics ! - _URL_
 709	MISC/Cuban;LOC/Haiti;	_Mention_ : The current Hot Story _Mention_ : Cuban medics in Haiti put the world to shame _URL_ -- -RRB- Its so funny _Mention_
 710		_Mention_ lol do yu know this girl in the choir w\/a Black & white bob ? !
