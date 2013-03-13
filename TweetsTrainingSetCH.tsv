@@ -210,7 +210,7 @@
 210	ORG/House of Representatives;	_Mention_ : '' `` I urge the House of Representatives to act quickly on this important matter . '' '' #taxcuts '' 
 211	LOC/Oxford;	_Mention_ '' `` fury '' '' ? Really ? '' `` wild or violent anger '' '' - per Oxford dictionary . Do you think so ? Or are they just a bit politically annoyed ? ''
 212		_Mention_ Indian electronic media r insane .
-213  LOC/EU;	_Mention_ Irish ` in bailout talks with EU ' _URL_ -RRB- -RRB- It used to be individual banks now its become whole countries
+213	LOC/EU;	_Mention_ Irish ` in bailout talks with EU ' _URL_ -RRB- -RRB- It used to be individual banks now its become whole countries
 214	PER/manas-chaudhuri;	_Mention_ QIPS #Solar  #energy manas-chaudhuri . blogspot.com/?spref=tw 
 215		_Mention_ Solar #Energy  #QIPS energy Targets Published In Business Plan Page _URL_ 
 216	PER/manas-chaudhuri;	_Mention_ Solar Energy of QIPS energy also designing for Boa ... manas-chaudhuri . blogspot.com/2010/11/solar-_ÔøΩÔøΩ_ÔøΩÔøΩ___
@@ -229,7 +229,7 @@
 229	PER/Liam Fox;	_Mention_ Liam Fox is full of it .
 230		_Mention_  _Mention_  _Mention_  _Mention_  _Mention_  _Mention_  _Mention_ WHO WON YELLOw YEAH ? ! ! !
 231	PER/Palmer;	_Mention_ Would u like Mr Palmer if a rocket carrying this radioactive package blew up & spewed radioactive particulates in yr back yard ?
-232	PER/Gavin Henson;PER/Barry chuckle;	PER/will ferrell	"_Mention_ marry , kiss , kill : Gavin Henson , Barry chuckle , will ferrell ?"
+232	PER/Gavin Henson;PER/Barry chuckle;PER/will ferrell;	"_Mention_ marry , kiss , kill : Gavin Henson , Barry chuckle , will ferrell ?"
 233	ORG/BBC;	_Mention_ so you dont work for the BBC ?
 234	PER/David Haye;PER/Audley;	_Mention_ what round will David Haye KO Audley ?
 235		"_Mention_ what would you rather do for a living , cheerleader or gardener ?"
@@ -243,7 +243,7 @@
 243	LOC/America;	_Mention_ ` DADT ' - America still has a long way to go to get on the humanitarian list !
 244	ORG/NATO;LOC/Afghanistan;	_Mention_ '' `` A man in police uniform kills 6 NATO troops during training session in eastern Afghanistan . '' '' . . Thats the thing about uniforms . ''
 245	PER/jerry yang;PER/david filo;	_Mention_ '' `` valleylist '' '' v135 r. 1 - - electricity -LRB- jerry yang and david filo -RRB- <NEWLINE> _URL_ ''
-246 PER/Fiona;ORG/BBC;	_Mention_  _Mention_ Fiona looks a bit Frumpy Tonight Watch out the BBC might ship in some Chinese News Readers to save Money !
+246	PER/Fiona;ORG/BBC;	_Mention_  _Mention_ Fiona looks a bit Frumpy Tonight Watch out the BBC might ship in some Chinese News Readers to save Money !
 247	PER/Breitbart;ORG/ADL;	_Mention_  _Mention_  _Mention_ Question : Why won _ _ t Breitbart report on ADL _ _ s sweeping condemnation of Beck ? _URL_ _Mention_
 248	LOC/US;	_Mention_ 350M US for a Trent 900 Each Naga ? surely thats 10 times too Much ! 1.4 Billion for for 4 ?
 249	LOC/Pakistan;	_Mention_ Action Plan for Econ Salvation of Pak : Security of Pakistan _ _ s future depends in its econom growth & d. . . _URL_
@@ -385,7 +385,7 @@
 385	ORG/Saks Fifth Avenue;	_Mention_ I 'd like to know if '' `` moisture on line '' '' is still available . I did not see it online at Saks Fifth Avenue Web site . Thanks ''
 386	PER/Berlusconi;LOC/Italy;	_Mention_ We are waiting for confidence vote to Berlusconi on dec. 14 ... And markets are waiting the same ... God bless Italy !
 387	MISC/MMA;ORG/CNN;	_Mention_ Octagon Blog : MMA on CNN !
-388	PER/cooper;PER/cooper;MISC/hokkian;MISC/mandarin;MISC/macau;MISC/indonesian;  "_Mention_ cooper cooper u speak what dialect hokkian , mandarin , or macau ? indonesian speak hokkian i knew lil bit hokkian XDDD"
+388	PER/cooper;PER/cooper;MISC/hokkian;MISC/mandarin;MISC/macau;MISC/indonesian;	"_Mention_ cooper cooper u speak what dialect hokkian , mandarin , or macau ? indonesian speak hokkian i knew lil bit hokkian XDDD"
 389	MISC/MMA;ORG/CNN;	_Mention_ Octagon Blog : MMA on CNN
 390	MISC/MMA;ORG/CNN;	_Mention_ Octagon Blog : MMA on CNN !
 391	MISC/MMA;ORG/CNN International;	_Mention_ Octagon Blog : MMA on CNN International .
@@ -1672,7 +1672,7 @@
 1672	PER/Julia Durly;	"Future lady -LRB- Julia Durly -RRB- , if you ca n't get along with my fam , we wo n't last"
 1673	ORG/GA;ORG/NC;ORG/SC;ORG/CO;	"GA , NC , SC , and CO banks added to the Failed Bank Map , raising 2011 failure total to seven : _URL_"
 1674	PER/Garnet Mimms;	Garnet Mimms - Stop and Check Yourself -LRB- 1972 -RRB- _URL_ via _Mention_
-1675	ORG/Gas Station Angel;ORG/GSA;		"Gas Station Angel - Week One <NEWLINE> Dramaturg 's Blog <NEWLINE> <NEWLINE> After weeks , even months of preparation , the first rehearsal of GSA w ? _URL_"
+1675	ORG/Gas Station Angel;ORG/GSA;	"Gas Station Angel - Week One <NEWLINE> Dramaturg 's Blog <NEWLINE> <NEWLINE> After weeks , even months of preparation , the first rehearsal of GSA w ? _URL_"
 1676	PER/Thomas Edison;	Genius is one percent inspiration and ninety-nine percent perspiration . ~ Thomas Edison
 1677	PER/George Bush;	George Bush Book ` Decision Points ' Lifted From Advisers ' Books _URL_
 1678	PER/George Bush;	George Bush plagurized his memoirs : _URL_
