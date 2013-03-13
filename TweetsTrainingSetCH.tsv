@@ -293,7 +293,7 @@
 293		_Mention_ wonder what her security code was i want to be president ha ha
 294	LOC/Egypt;	_Mention_ : Egypt ` police abuse ' probe urged : _URL_
 295	LOC/Kenya;	_Mention_ : Kenya ` gay crackdown ' criticised : _URL_
-296	ORG/UK government;	_Mention_ : UK government to compensate ex-Guantanamo Bay detainees : _URL_
+296	ORG/UK government;LOC/Guantanamo Bay;	_Mention_ : UK government to compensate ex-Guantanamo Bay detainees : _URL_
 297	ORG/Wikileaks;LOC/US;	_Mention_ : Wikileaks releases more US files : _URL_
 298	ORG/Wikileaks;LOC/US;	_Mention_ : Wikileaks under attack by hackers ahead of secret US document release : _URL_
 299	PER/Richard;	"_Mention_ bloody awful at the moment , but I 'll probably get over it . What brings you to TWETT ? Are you aware cousin Richard 's on here ?"
