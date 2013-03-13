@@ -267,7 +267,7 @@
 267	ORG/BBC;	_Mention_ Is that really BBC worthy news ?
 268	LOC/Nairobi Airport;	_Mention_ Is your chap really at Nairobi Airport _URL_ Bacjground ?
 269		_Mention_ It is irresponsible of media to publish stolen files distributed by _Mention_ . freedom of the press is not at issue . _Mention_
-270 ORG/Labour;ORG/PARLIAMENT;	_Mention_ Labour ` may back ' detention cut _URL_ -LRB- THIS WAS LABOUR 'S '' `` AMERICAN PROBLEM '' '' ROUNDKY DEFEATED IN PARLIAMENT -RRB- ''
+270 ORG/Labour;ORG/LABOUR;ORG/PARLIAMENT;	_Mention_ Labour ` may back ' detention cut _URL_ -LRB- THIS WAS LABOUR 'S '' `` AMERICAN PROBLEM '' '' ROUNDKY DEFEATED IN PARLIAMENT -RRB- ''
 271	PER/MOZART;PER/MOZART;	"_Mention_ MOZART , L'OPERA ROCK : _URL_ via _Mention_ <NEWLINE> MOZART FRANC MACON , FREE MASSON : . ET SUBLIME GENIE"
 272	PER/Sackur;PER/Courtney Griffiths;PER/Mugabe;PER/Taylor;	_Mention_ Mr Sackur In another life I could quite see Courtney Griffiths as Mugabe or Taylor ? Pride & Prejudice ? _Mention_
 273	ORG/Turkish Airlines;ORG/BA;	_Mention_ News Nice AD for Turkish Airlines but ca n't you get BA to advertise with you ? After all we have already paid for _Mention_
