@@ -633,7 +633,7 @@
 633		_Mention_ if not unfortunately will be leaving at shelter becz we ca n't keep him : -LRB-
 634	LOC/Florida;	_Mention_ a friend of mine moved to Florida and didnt sai anything we thought they were on vacation
 635	LOC/canada;	_Mention_ i feel sorry for yall in the states . . here in canada there 's not much snow . and yall are getting the kinda snow we usually see
-636	LOC/chicago;	_Mention_ Have fun in chicago . Ur missing TJ holmes on #cnn now ! lol . 
+636	LOC/chicago;PER/TJ holmes;	_Mention_ Have fun in chicago . Ur missing TJ holmes on #cnn now ! lol . 
 637	LOC/Ohio;LOC/Cali;	_Mention_ I live in Ohio ... lived in Cali ... I rather have Baja Fresh !
 638	PER/Tony Robbins;PER/jakson;	"_Mention_ For changes to be of any true value , they 've got to be lasting and consistent . ~ Tony Robbins <NEWLINE> -LRB- jakson -RRB-"
 639	PER/Tony Robbins;PER/jakson;	"_Mention_ For changes to be of any true value , they 've got to be lasting and consistent . ~ Tony Robbins <NEWLINE> jakson"
