@@ -703,8 +703,8 @@
 703	LOC/United States;	"_Mention_  _Mention_ , the people of the United States want low taxes and want passage of _Mention_ 's deal . Get it done , w\/o delay ."
 704	PER/Randy;PER/Jessica;	"_Mention_  _Mention_ - Thanks for the RT , Randy ! ! Hope your day has been relaxing & fun ! ~ Jessica"
 705	ORG/NFL;	_Mention_ NFL Network !
-706	LOC/Oceans;ORG/U.N.;LOC/Oceans;PER/jakson;	"_Mention_ Oceans failing the acid test , U.N. says - _URL_ #cnn Help save de Oceans ! ! ! jakson nz "
-707	LOC/Oceans;ORG/U.N.;PER/jakson;LOC/NZ;	"_Mention_ Oceans failing the acid test , U.N. says - _URL_ #cnn jakson NZ "
+706	ORG/U.N.;PER/jakson;	"_Mention_ Oceans failing the acid test , U.N. says - _URL_ #cnn Help save de Oceans ! ! ! jakson nz "
+707	ORG/U.N.;PER/jakson;LOC/NZ;	"_Mention_ Oceans failing the acid test , U.N. says - _URL_ #cnn jakson NZ "
 708		_Mention_ Here are the lyrics ! - _URL_
 709	MISC/Cuban;LOC/Haiti;	_Mention_ : The current Hot Story _Mention_ : Cuban medics in Haiti put the world to shame _URL_ -- -RRB- Its so funny _Mention_
 710		_Mention_ lol do yu know this girl in the choir w\/a Black & white bob ? !
@@ -717,7 +717,7 @@
 717	LOC/Chicago;	"_Mention_ No #tornado here in #B-Chicago , but its starting to rain pretty hard . "
 718	LOC/Chicago;	"_Mention_ Very true . I ate some Cajun Gator in ' 03 ' at the Taste of #B-Chicago , and it really did taste similar to chicken . Good stuff . "
 719	MISC/A Christmas Story;	"_Mention_ Your definitely watching ' A Christmas Story . ' Everyone should know that quote . ; -RRB- '' `` Ralphie '' , '' you 'll shoot your eye out . '' '' ''"
-720	LOC/WIBC;LOC/Indianapolis;	"_Mention_ : Finally , the announcement : my M-F 2-4pm CDT show expands to WIBC in Indianapolis beginning January 10 . #dlrs  #tcot Congratulations ! '' "
+720	ORG/WIBC;LOC/Indianapolis;	"_Mention_ : Finally , the announcement : my M-F 2-4pm CDT show expands to WIBC in Indianapolis beginning January 10 . #dlrs  #tcot Congratulations ! '' "
 721		_Mention_ anti-subliminal movement
 722	LOC/Florida;	_Mention_ they are insane in Florida w fireworks and even shooting guns in the air
 723	ORG/Dollar Tree;	_Mention_ -LRB- @ Dollar Tree -RRB- _URL_
@@ -731,7 +731,7 @@
 731	ORG/Twitter;	_Mention_ your tweet '' '' '' `` Extra��arte no es sufici ... '' '' is now featured on Twitter 's Home _URL_ ''
 732		"_Mention_ I 'm Good , having a Drink and watching the Game . Wbu ?"
 733		_Mention_ we are having the time of our lives - _URL_ love your boilermaker fans ! ! ! Hail purdue
-734	PER/Natalie;	"_Mention_ You 're Welcome , Dr. Natalie ! xo #WLN  #SCRM "
+734	PER/Dr. Natalie;	"_Mention_ You 're Welcome , Dr. Natalie ! xo #WLN  #SCRM "
 735		_Mention_ : Reading : '' `` Diario Horizonte - Colombiano '' '' -LRB- _URL_ _Mention_ ''
 736	LOC/Japan;	_Mention_  _Mention_ No Neslte Quick in Japan ? Now thr R vanilla & Rolo Nestle Quick ! But the original is still the best ! <NEWLINE> <NEWLINE> Sweet ! ?
 737	ORG/CNN;LOC/PUERTO RICO;	_Mention_ IM CHECKING CNN I DONT SEE ANYTHING ABOUT EARTHQUAKE IN PUERTO RICO YET PRIMOOOO
@@ -739,15 +739,15 @@
 739	PER/Daniel Radcliffe;PER/Robert Pattinson;	"_Mention_ What is interesting is to call these actors Box Office Poisons while , unlike Daniel Radcliffe and Robert Pattinson , they ` ve"
 740	LOC/Palau;	_Mention_ I bet Palau was amazing
 741	LOC/NJ;	"_Mention_ preparing mentally for trip to NJ , will be a long winter for me ?"
-742	PER/Eve Ellie;	_Mention_ Have a WONDERFUL Christmas Eve Ellie darling xxx
+742	PER/Ellie;	_Mention_ Have a WONDERFUL Christmas Eve Ellie darling xxx
 743		_Mention_ ohhh masa idol sports championship yaaa . . cdak sm k baju merah . uhuhuhuhu : DDDD
 744		_Mention_ dat dependz on the construction ohhh ! ! ! !
 745	PER/Clive Owen;	_Mention_ Look at the end of this Clive Owen interview _URL_ to have your answer
 746	PER/usher;PER/r kels;	"_Mention_ LOL , usher & r kels - same girl !"
-747	LOC/San Francisco;MISC/Hemingway and Gellhorn;PER/Philip Kaufman;	_Mention_ not sure this is accurate since he begins to shoot in San Francisco '' '' Hemingway and Gellhorn '' '' with Philip Kaufman in Feb 2011 ''
+747	LOC/San Francisco;PER/Hemingway;PER/Gellhorn;PER/Philip Kaufman;	_Mention_ not sure this is accurate since he begins to shoot in San Francisco '' '' Hemingway and Gellhorn '' '' with Philip Kaufman in Feb 2011 ''
 748	PER/Paul shaw;	_Mention_ all going great and you ? hv you back to queenstown ? any news from Paul shaw ?
 749	PER/Pam Ann;LOC/LA;	_Mention_ I went to see Pam Ann in LA last year . so great . i love her . do u know who is she ?
-750		_Mention_ do you think today 's penalty was the quickest ever conceded by an #lcfc player ? Definitely by a debutant surely ? ! 
+750	ORG/lcfc;	_Mention_ do you think today 's penalty was the quickest ever conceded by an #lcfc player ? Definitely by a debutant surely ? ! 
 751	PER/Chris;PER/Franklin Raines;ORG/Fannie Mae;	_Mention_ Chris did U know we are paying Franklin Raines legal fees for committing accounting fraud at Fannie Mae ?
 752	PER/Elizabeth Edwards;	_Mention_ they are going to protest at Elizabeth Edwards funeral .
 753	PER/Leslie Nielsen;	_Mention_ they are recovering\/mourning Leslie Nielsen : -LRB-
@@ -757,11 +757,11 @@
 757	PER/bieber;MISC/the golden globes;	_Mention_ holy fuck - . - THEY TURNED THE TVS OFF . What if bieber comes back on x_X NOOO it was behind the scenes of the golden globes
 758	PER/Scott Norwide;	_Mention_ I hate Scott Norwide
 759	PER/Scott Norwide;	"_Mention_ Yes , 4 . Screw Scott Norwide !"
-760		_Mention_ FREE $ 250 Gift Card from Victoria 's Secret for the Holidays ! _URL_
+760	ORG/Victoria 's Secret;	_Mention_ FREE $ 250 Gift Card from Victoria 's Secret for the Holidays ! _URL_
 761	PER/Mariah Carey;	_Mention_  _Mention_ Mariah Carey has n't been able to sing live PROPERLY for yeaaaarrrs now . Let 's not say its bc she 's preggers
-762	PER/Tony Robbins;	"_Mention_ Successful people ask better questions , and as a result , they get better answers . ~ Tony Robbins traduz isto no google para vc"
+762	PER/Tony Robbins;ORG/google;	"_Mention_ Successful people ask better questions , and as a result , they get better answers . ~ Tony Robbins traduz isto no google para vc"
 763	PER/Richard Branson;	_Mention_  _Mention_  #Recovery PROMOTES #jobs  _Mention_ Richard Branson talks about his new high-speed rail project _URL_ 
-764		_Mention_ Ooo a bit of #Withnail and #Hamlet can never be wrong . 
+764	MISC/	_Mention_ Ooo a bit of #Withnail and #Hamlet can never be wrong . 
 765		"_Mention_ I 'm brilliant , I know ! Now that will be $ 3,600 ... no refundes : -RRB-"
 766		_Mention_ LIVE . LOVE . LEARN . Search for FREE and contact thousands of singles close to you ! _URL_
 767	MISC/English;	_Mention_ It cost _ 42 for English shipping . No idea how much that is in euros . D :
