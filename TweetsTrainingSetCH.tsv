@@ -1200,8 +1200,8 @@
 1200		07751701622 I know all the words to the Barbie song x _Mention_ live on _URL_ -RRB-
 1201		07813349520 ! _Mention_ live on _URL_ -RRB-
 1202		10 users scored today and _Mention_ finished 1st with 20 pts ! Who 's next tomorrow ? Rules & Tops Players here : _URL_
-1203		"10:54 WOODS RD , #YARRAWONGA - OTHER SAFE -LRB- region 22 -RRB- _URL_ "
-1204	MISC/British;PER/Chris Davies;	"100th British soldier to die this year in #Afghanistan named-Chris Davies ,22 , from 1st Battalion Irish Guards -LRB- TOTAL WASTE OF A LIFE -RRB- "
+1203	LOC/WOODS RD;	"10:54 WOODS RD , #YARRAWONGA - OTHER SAFE -LRB- region 22 -RRB- _URL_ "
+1204	MISC/British;PER/Chris Davies;ORG/1st Battalion Irish Guards;	"100th British soldier to die this year in #Afghanistan named-Chris Davies ,22 , from 1st Battalion Irish Guards -LRB- TOTAL WASTE OF A LIFE -RRB- "
 1205		12 Things You Might Not Know About Background Checks _URL_
 1206		"13 nations meet in #Russia to save wild #tigers from extinction , #Putin to headline . _URL_ _Mention_ "
 1207		13-Year-Old Saves Baby Brother From Bullet After Mom 's Boyfriend Shot Family ...
@@ -1209,10 +1209,10 @@
 1209		15800 cops are guarding VIPs : He said the police were in the process of boosting detective services and that a t. . . _URL_
 1210	PER/Tony Gonzalez;	161st consecutive game with a reception for Tony Gonzalez -LRB- _Mention_ -RRB- #Falcons 
 1211		1st coat of garage floor painted ! 16 hrs before i can do coat 2 ... I hate enamel based paint : -LRB-
-1212	MISC/ITALIAN;MISC/ITALIAN;	20 ARTICLES IN ITALIAN by freelondon : We are looking for ITALIAN professional content writers with ... _URL_ #writingjobs 
+1212	ORG/freelondon;	20 ARTICLES IN ITALIAN by freelondon : We are looking for ITALIAN professional content writers with ... _URL_ #writingjobs 
 1213	LOC/Mandalay;LOC/Myanmar;	2010 - my favorite photograph from last year . A link to the story behind the image from Mandalay in Myanmar : _URL_
 1214		2011 Free Agent Preview : QB ? s and RB ? s Gridiron Experts _URL_
-1215	PER/Karl Lagerfeld;	2011 Pirelli calendar presented by Karl Lagerfeld -- Autoblog : _URL_ via _Mention_
+1215	ORG/Pirelli;PER/Karl Lagerfeld;	2011 Pirelli calendar presented by Karl Lagerfeld -- Autoblog : _URL_ via _Mention_
 1216		25 Commandments For #Journalists _URL_ 
 1217		"2K : KS_SmithRT _Mention_ : After this game , who tryin to get on some 2k or COD on PS3"
 1218	PER/SEAN FALYON;	2NITE IN ATL ! ! ! Come out to the Composition of CHAOS : ART BATTLE : 8PM : Hosted by SEAN FALYON _Mention_ -RRB- ; more info : thewwaf.com RT
@@ -1221,9 +1221,9 @@
 1221		"31 New Social Media Resources You May Have Missed : <NEWLINE> <NEWLINE> <NEWLINE> The cold snap may not have ? snapped , ? but all that winter ... _URL_"
 1222		"31 New Social Media Resources You May Have Missed : <NEWLINE> <NEWLINE> <NEWLINE> The cold snap may not have ? snapped , ? but all that winter ... _URL_"
 1223	PER/Jan Von Holleben;	33 Inspiring Photos From Jan Von Holleben : _URL_
-1224		3840388 #fansgroup The way of getting free twitter fans _URL_ . 
+1224	ORG/twitter;	3840388 #fansgroup The way of getting free twitter fans _URL_ . 
 1225	PER/William A Ward;	4 steps to achievement : Plan purposefully . Prepare prayerfully . Proceed positively . Pursue persistently ~ William A Ward via _Mention_
-1226	PER/Eddie Guerrero;	5 Years ago this day Eddie Guerrero passed ! RIP Guerrero #WWE 
+1226	PER/Eddie Guerrero;PER/Guerrero;	5 Years ago this day Eddie Guerrero passed ! RIP Guerrero #WWE 
 1227	LOC/Great Lakes;LOC/Expo Center;	68th Annual Cleveland Home & Garden Show - Great Lakes Expo Center ... _URL_
 1228	PER/Usher;PER/Usher;	7 . When you see Usher in #NeverSayNever3D yell ` yeaaaaah man ' in the Usher voice < 3 
 1229	PER/Kevin Muscat;	73 % of Age poll voters say Kevin Muscat should be suspended for rest of the season -LRB- inc. finals -RRB- . As a Victory supporter I agree . #disgrace 
@@ -1234,16 +1234,16 @@
 1234	MISC/A Charlie Brown Christmas;	A Charlie Brown Christmas ' comes on at 8 on #abc  #tradition 
 1235	MISC/Grey Gardens;PER/Eva Mulvad;MISC/Good Life;	`` A Danish '' `` Grey Gardens '' '' ? Eva Mulvad On Her '' `` Good Life '' '' : The Danish have been making a significant mark in the wo ... _URL_ ''
 1236		A Degree In Hospitality Can Lead To Exciting And Adventurous Careers _URL_
-1237	LOC/Washington DC;LOC/Reagan National Airport;	"A Few Clouds and 23 F at Washington DC , Reagan National Airport , VA Winds are North at 8.1 MPH -LRB- 7 KT -RRB- . The pressure is _URL_"
+1237	LOC/Washington DC;LOC/Reagan National Airport , VA;	"A Few Clouds and 23 F at Washington DC , Reagan National Airport , VA Winds are North at 8.1 MPH -LRB- 7 KT -RRB- . The pressure is _URL_"
 1238	PER/Graeme Taylor;	"A Gay Teenager Stands Up for His Suspended Teacher : You may have already heard the story about Graeme Taylor , bu ... _URL_"
-1239	LOC/Jersey Shore;PER/Mark Sanford;	"A grandmother reacts to ? Jersey Shore , ? Gov. Mark Sanford fails at romance , Mr. T gives us ? _URL_"
+1239	MISC/Jersey Shore;PER/Mark Sanford;	"A grandmother reacts to ? Jersey Shore , ? Gov. Mark Sanford fails at romance , Mr. T gives us ? _URL_"
 1240	PER/Juvenal Roman;	A healthy mind in a healthy body . Juvenal Roman poet & satirist -LRB- 55 AD - 127 AD -RRB-
 1241	PER/Juvenal Roman;	A healthy mind in a healthy body . Juvenal Roman poet & satirist -LRB- 55 AD - 127 AD -RRB-
 1242	PER/Juvenal Roman;	A healthy mind in a healthy body . Juvenal Roman poet & satirist -LRB- 55 AD - 127 AD -RRB-
 1243	PER/Juvenal Roman;	A healthy mind in a healthy body . Juvenal Roman poet & satirist -LRB- 55 AD - 127 AD -RRB-
 1244	PER/John F. Kennedy;	A Liberal Definition by John F. Kennedy -LRB- 1960 -RRB- _URL_
 1245	PER/John F. Kennedy;	A Liberal Definition by John F. Kennedy -LRB- 1960 -RRB- _URL_
-1246	PER/paul weller;	a lot is happening tonight pretty green going and paul weller in brum and i 'm missing out on them both ... GRRRRRRRRRRRRR ! ! .
+1246	PER/paul weller;LOC/brum;	a lot is happening tonight pretty green going and paul weller in brum and i 'm missing out on them both ... GRRRRRRRRRRRRR ! ! .
 1247	PER/Charles Darwin;	A man who dares to waste one hour of time has not discovered the value of life -- Charles Darwin
 1248	PER/Henry Ford;	"A market is never saturated with a good product , but it is very quickly saturated with a bad one . ~ Henry Ford"
 1249	PER/Vybz Kartel;	A newly pecan-faced Vybz Kartel dropped withaquick message in response to the furor folks into after he compared his freshly lightened skin
@@ -1259,17 +1259,17 @@
 1259	PER/Aaron Rodgers;PER/Aaron Rodgers;	"Aaron Rodgers is the man , ya 'll talking about rootin ' for underdogs , Aaron Rodgers is a TRUE underdog story"
 1260	PER/Aaron Rodgers;PER/Cutler;PER/Collins;	Aaron Rodgers QB rating 59.2 ... seems terrible ... Cutler 31.8 Collins is 0 for 3 and his is 39.6
 1261	PER/Aaron Rogers;	Aaron Rogers it will be a dream come true if u LOSS the super blow ! ! ! ! ! !
-1262		`` About to watch '' `` The Last Song '' '' . ''
+1262	MISC/The Last Song;	`` About to watch '' `` The Last Song '' '' . ''
 1263	PER/Russell Crowe;	Accidental Sexiness Russell Crowe grabs a bite with his mates _URL_
 1264	LOC/United States;	"According to Salary.com , the median salary for a graphic designer in the United States is $ 45,704 . #interestingfact "
-1265	PER/Ace Ventura;	Ace Ventura Pet Detective #ILoveThe90s 
+1265	MISC/Ace Ventura Pet Detective;	Ace Ventura Pet Detective #ILoveThe90s 
 1266		Across the school \/ office the freedom to access the network _URL_ #online  #proxy 
 1267	PER/Leonard Cohen;	Act the way you 'd like to be & soon you 'll be the way you act . ~ Leonard Cohen RT _Mention_  _Mention_ RT _Mention_
 1268		Actual value of WS6 vs. Firehawk ? ? ? : Ok ... well my G35 was totaled and now im looking to get back in the f-body ... _URL_
 1269	PER/Adam Sandler;	Adam Sandler movies #ILoveThe90s 
 1270		Additionally teachers need to be ` creative _ French Country : resources and schemes of work in order to assist wi ... _URL_
 1271		"Admittedly , I am looking at flats with a rental of _ 1000 + . Not sure why ."
-1272	PER/Adolfo Castelo;	Adolfo Castelo en GRAFONAUTA -LRB- 2000 -RRB- _URL_ via _Mention_ Genio . Creador .
+1272	PER/Adolfo Castelo;MISC/GRAFONAUTA;	Adolfo Castelo en GRAFONAUTA -LRB- 2000 -RRB- _URL_ via _Mention_ Genio . Creador .
 1273	LOC/United States;	Advancing the clean energy partnership between the United States ... _URL_
 1274	PER/Cilla Black;	AEG LIVE peeps suppose to call ne bak ASAP ! ! it 's Cilla Black surprise surprise NO CALL ! ! !
 1275		aelyea RT _Mention_ : Manusia hutan RT _Mention_ : Jangan-jangan elu itu ... ... ... -LRB- Fill in the blank -RRB-
@@ -1283,7 +1283,7 @@
 1283	LOC/Dallas;MISC/the Super Bowl;ORG/Cowboys;	Aint it funny the year Dallas is hosting the Super Bowl the Cowboys play like crap ? ? ? Talk about letting your state\/city down lol
 1284	ORG/AJC;ORG/Clayton State;	AJC : Chancellor to speak at Clayton State graduation _URL_
 1285	ORG/AJC;LOC/East Cobb;	AJC : East Cobb schools on lockdown as police search for burglary suspects _URL_
-1286		"AJC : Girl ,10 , helps police find accused molester _URL_"
+1286	ORG/AJC;	"AJC : Girl ,10 , helps police find accused molester _URL_"
 1287	ORG/AJC;LOC/Kennesaw;	AJC : Kennesaw fundraiser benefits brain tumor foundation _URL_
 1288	ORG/AJC;LOC/DeKalb;	AJC : Superintendent : Inequities at DeKalb schools _URL_
 1289	PER/Al Habsi;	"Al Habsi , is keeping rather well ."
@@ -1293,7 +1293,7 @@
 1293	PER/Eugene Ware;	All glory comes from daring to begin - Eugene Ware . Happy Tuesday tweeples ! x
 1294	PER/Charles Schulz;	All you need is love . But a little chocolate now and then does n't hurt . ~ Charles Schulz #quote RT _Mention_ 
 1295	ORG/YouTube;	All your Social Networking sites can become capture sites with these floating forms . Look at my YouTube channel . _URL_
-1296		Almost time for The #Bulls 8pm Practice Session against the my #Cavaliers  #morePingPongBallsintheHopper at least D-Rose will be fun to watch 
+1296	PER/D-Rose;	Almost time for The #Bulls 8pm Practice Session against the my #Cavaliers  #morePingPongBallsintheHopper at least D-Rose will be fun to watch 
 1297	PER/Aloe Blacc;	Aloe Blacc 's Good Things is such a genius album
 1298		Alright need to get my ass moving . Gotta go to 5 stores & be done by 2pm to get xmas tree . Tweet along the way
 1299		Amazing that they have the energy to beat about the thesaurus . Are they underemployed ? _Mention_
