@@ -761,10 +761,10 @@
 761	PER/Mariah Carey;	_Mention_  _Mention_ Mariah Carey has n't been able to sing live PROPERLY for yeaaaarrrs now . Let 's not say its bc she 's preggers
 762	PER/Tony Robbins;ORG/google;	"_Mention_ Successful people ask better questions , and as a result , they get better answers . ~ Tony Robbins traduz isto no google para vc"
 763	PER/Richard Branson;	_Mention_  _Mention_  #Recovery PROMOTES #jobs  _Mention_ Richard Branson talks about his new high-speed rail project _URL_ 
-764	MISC/	_Mention_ Ooo a bit of #Withnail and #Hamlet can never be wrong . 
+764		_Mention_ Ooo a bit of #Withnail and #Hamlet can never be wrong . 
 765		"_Mention_ I 'm brilliant , I know ! Now that will be $ 3,600 ... no refundes : -RRB-"
 766		_Mention_ LIVE . LOVE . LEARN . Search for FREE and contact thousands of singles close to you ! _URL_
-767	MISC/English;	_Mention_ It cost _ 42 for English shipping . No idea how much that is in euros . D :
+767		_Mention_ It cost _ 42 for English shipping . No idea how much that is in euros . D :
 768	PER/Clive Owen;	_Mention_ Well just for your information _Mention_ is not Clive Owen . It 's not even a verified account . Celebrities accounts are
 769		"_Mention_ Thanks for organizing today 's brunch , choosing the stellar location , and the fine food\/drink suggestions !"
 770	LOC/st. Louis;LOC/chicago;LOC/usa;	_Mention_ st. Louis population bigger than chicago ? ? ? Lol bro we the 3rd largest city in the usa
@@ -775,7 +775,7 @@
 775		_Mention_ lol so just because of the classes you want to be a journalist anymore ? ?
 776	PER/Chris Henry;	_Mention_ um I wrote Chris Henry dumbass
 777		_Mention_ or responding to media coverage - tail wagging the dog
-778	LOC/UK;LOC/UK;PER/Sunita Khare;	_Mention_  #haiti  #bb4 Probe Dr K Khare in UK kin of Pooja Khare & Shalu Jindal-played key role as UK puppet . Arrest Sunita Khare sis of SPillay 
+778	PER/Dr K Khare;PER/Pooja Khare;PER/Shalu Jindal;LOC/UK;LOC/UK;PER/Sunita Khare;PER/SPillay;	_Mention_  #haiti  #bb4 Probe Dr K Khare in UK kin of Pooja Khare & Shalu Jindal-played key role as UK puppet . Arrest Sunita Khare sis of SPillay 
 779		_Mention_ LIVE . LOVE . LEARN . Search for FREE and contact 1000 's of singles nearby you ! _URL_
 780	PER/Iris Gueller;	_Mention_ . Hi i just got a mail from ; Iris Gueller . Who works with #imperva . Thank you for the whitepaper . 
 781	PER/Michelle Obama;	_Mention_ Lol . Do n't mind _Mention_ she tried to put down Michelle Obama . Quite comical . . #fail 
@@ -805,25 +805,25 @@
 805		_Mention_ Read your tweet and figured you would want the Grenade ringtone too _URL_
 806	PER/Franklin Raines;ORG/Fannie Mae Katie;	_Mention_ Did U know we are paying Franklin Raines legal fees for committing accounting fraud at Fannie Mae Katie ? I got proof .
 807		_Mention_ just because they 're busy during weekdays . . owning a smartphone is the sexiest solution to read 'em instantly ; - -RRB- -RRB-
-808	PER/Rex Ryan;	"_Mention_ I would love to see LT win a SB ... also , love Rex Ryan . Not on any bandwagons ... still love my ` Boys . We 'll be back ."
+808	MISC/SB;PER/Rex Ryan;	"_Mention_ I would love to see LT win a SB ... also , love Rex Ryan . Not on any bandwagons ... still love my ` Boys . We 'll be back ."
 809		_Mention_ Merry Crhistmas to you dear friend xxx
-810		_Mention_ GO KYLE ! ! ! Hope it went well : -RRB-
+810	PER/KYLE;	_Mention_ GO KYLE ! ! ! Hope it went well : -RRB-
 811		_Mention_ It was my pleasure . I hope\/trust that you are having a great week !
 812		"_Mention_ I appreciate that gorgeous , good game ~ e-handshake"
 813	MISC/super bowl;	_Mention_ do you think we will b seein yall in the super bowl
-814	ORG/King;ORG/King;	"_Mention_  _Mention_ Carlow , yes that sounds familiar . TK lemonade and Perri crisps -LRB- or Tayto , King -RRB- ! As kids all thought King were best"
+814	ORG/Tayto;ORG/King;	"_Mention_  _Mention_ Carlow , yes that sounds familiar . TK lemonade and Perri crisps -LRB- or Tayto , King -RRB- ! As kids all thought King were best"
 815	MISC/NFL;	_Mention_ We engage in the game very much > > > go to _URL_ and get MADDEN NFL for 0 $ !
-816 MISC/Java;  "_Mention_ Yeah the syntax is a bit awkward , , , but I like to think of it as really what Java should 've been and that makes it a little easier ."
+816	MISC/Java;  "_Mention_ Yeah the syntax is a bit awkward , , , but I like to think of it as really what Java should 've been and that makes it a little easier ."
 817	PER/Roger;	_Mention_ . Sir Yes Sir . Roger that Boss .
 818	PER/Holly;PER/Colin Cowie;	"_Mention_ that has to be THE party , my friend Holly was also there , wish I was able to of attended Colin Cowie did it again , Fab"
-819	PER/Spicy Pickle;	_Mention_ Professor Spicy Pickle ... I 'll bring the ruler . : p lol
+819		_Mention_ Professor Spicy Pickle ... I 'll bring the ruler . : p lol
 820		_Mention_ . Hi son Merry #Christmas to u too . wishing u the best of God 's favors . 
 821	PER/Nicki Minaj;	_Mention_ Nicki Minaj
 822	MISC/NFL;	_Mention_ We love football daily - now we can give back > > > go to _URL_ and get MADDEN NFL Gratis !
 823	LOC/cambridge;LOC/cambridge;	"_Mention_ not maybe , definately . cambridge is the place to be ! ; -RRB- and if you do n't make it to cambridge , follow me ? x"
 824	PER/Christian Wigg;	_Mention_ Christian Wigg us my fav xD
 825		"_Mention_ contrary to their belief , it would reduce crime and help healthcare spending . But why look at the benefits ? ? ?"
-826		_Mention_ Thanks for the Follow ! Check out more about Sol-Ice and out '' `` Green '' '' products @ _URL_ ''
+826	ORG/Sol-Ice;	_Mention_ Thanks for the Follow ! Check out more about Sol-Ice and out '' `` Green '' '' products @ _URL_ ''
 827	PER/Sam;PER/Seth Levinson;ORG/Yankees;	"_Mention_ he & his agents Sam and Seth Levinson came into our restaurant in 1995 right after joining the Yankees , small world"
 828	PER/Paul McCartney;	_Mention_ If I see _Mention_ that will make it the best concert ever been to . Right now it 's Sir Paul McCartney . That was a good 1 ^ _ ^
 829	PER/Paul McCartney;	_Mention_ Sir Paul McCartney was the same for me lol . So I imagine _Mention_ will be so much better . And he 's a beetle lol !
@@ -831,11 +831,11 @@
 831	ORG/Bears;ORG/Packers;LOC/Green Bay;LOC/Chicago;	_Mention_ Hey ... are you as totally ambivalent as I am about the Bears\/Packers lol ? I live right between Green Bay and Chicago but I. . .
 832	PER/Barbara Stanwyck;	"_Mention_ I am of that generation , mom named me after Barbara Stanwyck . . her voice was so recognizable . ."
 833		"_Mention_ Be there or Be square , I will be there !"
-834	PER/Hayward;PER/Sloan;MISC/nba;	"_Mention_ Is this a reward 4 Hayward , or desperation move2 shake things up ? What leads Sloan 2believe GH is ready to face nba starters"
+834	PER/Hayward;PER/Sloan;ORG/nba;	"_Mention_ Is this a reward 4 Hayward , or desperation move2 shake things up ? What leads Sloan 2believe GH is ready to face nba starters"
 835		"_Mention_ _URL_ , Jimmy and his friend"
 836		_Mention_ : Dude Faces Felony For Reading Cheating Wife 's Email _URL_ He should 've claimed she was a national security risk
 837	LOC/Anguilla;PER/Mario;	"_Mention_ my huband met you in Anguilla , Chef Mario , he says hello"
-838	LOC/N.C.;ORG/AP;PER/Kyle Singler;	"_Mention_ WINSTON-SALEM , N.C. -LRB- AP -RRB- ? Kyle Singler scored 24 points and keyed the run that helped No. 4 Duke pull ... #lukewilliamss "
+838	LOC/WINSTON-SALEM;LOC/N.C.;ORG/AP;PER/Kyle Singler;	"_Mention_ WINSTON-SALEM , N.C. -LRB- AP -RRB- ? Kyle Singler scored 24 points and keyed the run that helped No. 4 Duke pull ... #lukewilliamss "
 839	PER/Bruno Mars;	_Mention_ Bruno Mars ' cd is one of my favs this year . The words speak volumes . Grenade is an amazing track !
 840	PER/Wale;	_Mention_ : Im a real dog I wake up and chase the paper boi '' '' _Mention_ who 's fucking with this nigga ? ? ? '' '' - him & Wale in my top five . ''
 841	PER/Tiger Woods;	"_Mention_ I did live here , with future plans of doin so again \* Tiger Woods fist pump \*"
@@ -847,14 +847,14 @@
 847		"_Mention_  _Mention_ No it 's not , things like female genital mutilation are gender discrimination issues that -LRB- cont -RRB- _URL_"
 848	PER/Bush;PER/Palin;	_Mention_ and Bush did ? stfu ! i hope your not into Palin ... if so thennn you prob need to go back to school ! or at least finish
 849		_Mention_ yep it 's possible ! ! Even with dual boot ; - -RRB- = = -RRB- iOS & Android ! ! . . For iPhones it 's too risky upgrading iOS . .
-850	ORG/iWin;	_Mention_ lol we can do that but when iWin iDont want no Team J 's . Retro only
+850		_Mention_ lol we can do that but when iWin iDont want no Team J 's . Retro only
 851	PER/Lee Burke;	_Mention_ it can be changed i.e. on the page about homosexuals I could put Lee Burke on it : - -RRB- : - -RRB-
 852		_Mention_ girl I laughed . I would have said Centric . You 're better than me LOL
 853	PER/jay;ORG/denver;ORG/bears;MISC/NFC title;	_Mention_ what did you expect baby jay walked out on denver . Just walked out on a the bears during NFC title -LRB- cont -RRB- _URL_
-854	PER/Don Tomaso Dr.;PER/Chad Ochocinco Johnson;PER/Paula;	"_Mention_ Lived up Stocker at 4565 Don Tomaso Dr. above Chad Ochocinco Johnson , his brother Chauncy and his mother Paula ."
+854	PER/Don Tomaso Dr.;PER/Chad Ochocinco Johnson;PER/Chauncy;PER/Paula;	"_Mention_ Lived up Stocker at 4565 Don Tomaso Dr. above Chad Ochocinco Johnson , his brother Chauncy and his mother Paula ."
 855	PER/Ronny Turiaf;	_Mention_ is Ronny Turiaf ok ? Saw him limp off the court #Knicks  #NBA 
-856		"_Mention_ Heavyweights , The Goonies , Little Giants lmao oh shit The Might Ducks all of em !"
-857		_Mention_ '' `` The Wet T-Shirt Party '' '' This Monday @ The Palace StripClub Music by DJ WALLAH FREE ENTRY ! _URL_ ''
+856	MISC/Heavyweights;MISC/The Goonies;MISC/Little Giants;MISC/The Might Ducks;	"_Mention_ Heavyweights , The Goonies , Little Giants lmao oh shit The Might Ducks all of em !"
+857	LOC/The Palace StripClub;PER/DJ WALLAH;	_Mention_ '' `` The Wet T-Shirt Party '' '' This Monday @ The Palace StripClub Music by DJ WALLAH FREE ENTRY ! _URL_ ''
 858	PER/John Forte;	_Mention_ nah man I 'm chilling that 's the crazy part ... even crazier cuz I 've been looking for John Forte 's music after my pc crashed
 859		_Mention_ Laidies ... The Worlds First Cash Multiplayer Fashion Tournaments Coming Soon Sign up NOW . _URL_
 860		_Mention_ Agree ! Haha
@@ -865,17 +865,17 @@
 865		"_Mention_ Great Website ! Thx FTF , look forward to your Tweets ! I like to RT great , funny , musical & interesting things , def Tweethappy ! : -RRB- -RRB-"
 866		_Mention_ \* Method Man voice \* just keep feeding you ... and feeding you ... and feeding you
 867	LOC/taiwan;	_Mention_ they 're all the same . made in taiwan .
-868	PER/Sudha Pillay;	_Mention_  _Mention_  #ndtv  #cnn Mr #Cameron Ample proof bucrat Sudha Pillay heading DFID 's Lowcock ploted HR crimes agenda4yrs #haiti 
-869	PER/Sudha Pillay;	_Mention_  #williamhague  #foreignoffice Sudha Pillay & Kin Dr RS Khare used2 run UKgov DFID 9 yrs of HR crimes _URL_ #bb4 
-870 MISC/Harry Potter;  "_Mention_ Wow , free tickets to the new Harry Potter movie ! _URL_"
-871	MISC/English;	_Mention_ A Ghazal of Ghalib In English : A Ghazal of Ghalib Rendered ... _URL_
-872	MISC/Americans;LOC/Pakistan;	_Mention_ By repeat annonucements these Americans will make $ 7.5 billion KLB aid look like $ 750 billions assistance to Pakistan .
+868	PER/Sudha Pillay;ORG/DFID;	_Mention_  _Mention_  #ndtv  #cnn Mr #Cameron Ample proof bucrat Sudha Pillay heading DFID 's Lowcock ploted HR crimes agenda4yrs #haiti 
+869	PER/Sudha Pillay;PER/Dr RS Khare;ORG/UKgov;ORG/DFID;	_Mention_  #williamhague  #foreignoffice Sudha Pillay & Kin Dr RS Khare used2 run UKgov DFID 9 yrs of HR crimes _URL_ #bb4 
+870 	MISC/Harry Potter;  "_Mention_ Wow , free tickets to the new Harry Potter movie ! _URL_"
+871		_Mention_ A Ghazal of Ghalib In English : A Ghazal of Ghalib Rendered ... _URL_
+872	LOC/Pakistan;	_Mention_ By repeat annonucements these Americans will make $ 7.5 billion KLB aid look like $ 750 billions assistance to Pakistan .
 873		_Mention_ Deficiency becomes art f artist _ _ #Ancerg _URL_ #FB super heroes w sp needs . indicated by #TomCruise  #Kelsey_Grammer 
 874	MISC/Billy James Show;	_Mention_ _URL_ Every Day is Veterans day on the Billy James Show
 875		_Mention_ RT _Mention_ PEINILLAZOS DE _Mention_ NOV 15 2010 _URL_ _Mention_
 876	PER/Tim Naftali;LOC/US;	_Mention_ We could 've had security measures in place in 1950 's according to Tim Naftali 's Blind Spot\/US counterterrorism . Lobbies prevented
 877		"_Mention_ ... Hummm ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! Stuffing , cranberry sauce and mashed potatoes are standard fare at most Thanksgiving"
-878		_Mention_ '' `` valleylist '' '' v135 r. 1 - - electricity -LRB- jerry yang and david filo -RRB- _URL_ ''
+878	PER/jerry yang;PER/david filo;	_Mention_ '' `` valleylist '' '' v135 r. 1 - - electricity -LRB- jerry yang and david filo -RRB- _URL_ ''
 879		_Mention_ -LRB- -LRB- -LRB- -LRB- -LRB- -LRB- HAPPINESS IS FREE ! -RRB- -RRB- -RRB- -RRB- -RRB- -RRB- -RRB- -RRB- -RRB- <NEWLINE> _URL_ <NEWLINE> One stop shopping for _ _ HAPPINESS _ _ <NEWLINE> and it _ _ s 100 % FREE !
 880		_Mention_  _Mention_ NYT : News Papers Talk Of How The President Or Presidential Contender Won -LRB- After They Win -RRB- This W ! tch Ca n't B-Serious
 881	PER/Sarah Palin;PER/Robert E. Lee;	_Mention_  _Mention_ Sarah Palin Laying Out Her 2012 Presidential Strategy-Is Like Grant Pony-Expressing His Win Strategy To Robert E. Lee
@@ -886,17 +886,17 @@
 886		_Mention_ A 90-Day Bet on #Mideast Talks . Big gamble for #Israel  #Netanyahu and #Obama . _URL_ 
 887	LOC/America;PER/Billy James;	_Mention_ America needs to hear the words . What say you Billy James _URL_
 888	PER/Edward Nigro;	_Mention_ Be sure to read the new blog every Monday at Edward Nigro is _Mention_ _URL_ #TheChinaInsider 
-889	PER/Calderon;LOC/africa;	"_Mention_ Bravo mr. Calderon , like in africa ?"
+889	PER/mr. Calderon;LOC/africa;	"_Mention_ Bravo mr. Calderon , like in africa ?"
 890	LOC/NYC;	_Mention_ Buy Art Today Love It Forever _URL_ __ 1500000.00 _Mention_  _Mention_  _Mention_ NYC _Mention_  _Mention_  _Mention_  _Mention_
-891	LOC/NYC;	_Mention_ Buy Art Today Love It Forever _URL_ __ 1500000.00 _Mention_ Moscow Paris _Mention_  _Mention_ NYC _Mention_  _Mention_
-892	LOC/NYC;	_Mention_ Buy Art Today Love It Forever _URL_ __ 1500000.00 _Mention_ Moscow Paris _Mention_  _Mention_ NYC _Mention_  _Mention_
+891	LOC/NYC;LOC/Moscow;LOC/Paris;	_Mention_ Buy Art Today Love It Forever _URL_ __ 1500000.00 _Mention_ Moscow Paris _Mention_  _Mention_ NYC _Mention_  _Mention_
+892	LOC/NYC;LOC/Moscow;LOC/Paris;	_Mention_ Buy Art Today Love It Forever _URL_ __ 1500000.00 _Mention_ Moscow Paris _Mention_  _Mention_ NYC _Mention_  _Mention_
 893	LOC/NYC;	_Mention_ Buy Art Today Love It Forever _URL_ __ 1500000.00 _Mention_  _Mention_ NYC _Mention_  _Mention_  _Mention_  _Mention_  _Mention_
 894	PER/Christina Milian;	_Mention_ Christina Milian + More -- Top 5 Tweets of the Week _URL_
 895		"_Mention_ Could it be that some businessmen view '' `` young '' , '' do-it-yourself and arty '' '' as meaning '' `` a fool and their money are soon parted ? '' '' ''"
 896	PER/RICK JOYNER;LOC/JIM BAKKER BUILDING;	_Mention_ FALSE PROPHET RICK JOYNER IN TROUBLE FINANCIALLY AND WITH HIS JIM BAKKER BUILDING -LRB- cont -RRB- _URL_
 897	PER/JESUS CHRIST;	_Mention_ Follow me on : twiteer.com \/ prtaddei - brotherly hug JESUS CHRIST
 898		_Mention_ gets excited for the e-reader shopping season : _URL_
-899	PER/Dermot Ahern;MISC/Islam;	_Mention_ Given all that f8cking C8nt Dermot Ahern did for Islam with Blasphemy Bill why ca n't Allah put a few oil fields in IRL ?
+899	PER/Dermot Ahern;	_Mention_ Given all that f8cking C8nt Dermot Ahern did for Islam with Blasphemy Bill why ca n't Allah put a few oil fields in IRL ?
 900		_Mention_ _URL_
 901		_Mention_ I want to know whwere is this f. . . cking government . Where are the media fo find it out ? ? ?
 902	PER/Cathie Black;LOC/Notre Dame;LOC/NYC;	"_Mention_ If Cathie Black ca n't even inspire her own son NOT to drop out of Notre Dame , how is she going to inspire NYC school kids ?"
