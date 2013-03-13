@@ -1116,14 +1116,14 @@
 1116	PER/Barry White;	#NowPlaying Barry White - Come On -LRB- Best of -RRB- . . 
 1117	PER/Frank Sinatra;	#NowPlaying Call Me Irresponsible by Frank Sinatra -LRB- 3 
 1118	PER/Claudette Ortiz;	#nowplaying City High singing '' `` O Come All Ye Faithful '' '' & Claudette Ortiz sounds horrible . As _Mention_ says MOOOVIN '' 
-1119		#NowPlaying Fuck The Pain Away by Peaches 
+1119	PER/Peaches;	#NowPlaying Fuck The Pain Away by Peaches 
 1120	PER/John Lennon;	#NowPlaying Give Peace A Chance by John Lennon 
 1121	PER/Isaac Hayes;	#NowPlaying Isaac Hayes - Dark and Lovely -LRB- You Over There -RRB- . . #Orgasming . . 
 1122	PER/Isaac Hayes;	#NowPlaying Isaac Hayes - Do n't Let Me Be Lonely Tonight -LRB- Ultimate Collection -RRB- . . #Relaxing 
 1123	PER/Jay-Z;	#nowplaying Jay-Z 's Hard Knock Life 
 1124	PER/Gucci Mane;	#NowPlaying Making Love To The Money by Gucci Mane 
 1125	PER/John Lennon;	#NowPlaying Mind Games by John Lennon 
-1126	PER/Brightside;	#nowplaying Mr. Brightside by _Mention_ 
+1126		#nowplaying Mr. Brightside by _Mention_ 
 1127	PER/Jann Arden;	#nowplaying one of my fave songs : Jann Arden 's Insensitive 
 1128	PER/Rick Astley;	#nowplaying Rick Astley : Together Forever . FTW ! 
 1129	PER/Phil Collins;	#Nowplaying . Another Day in Paradise ~ Phil Collins . #philcollinsfeed 
@@ -1135,7 +1135,7 @@
 1135	PER/Phil Collins;	#Nowplaying . Thats Just the way it is . ~ Phil Collins 
 1136	PER/Phil Collins;	#Nowplaying . Two Worlds ~ Phil Collins . #philcollinsfeed  _Mention_ 
 1137	PER/Yvonne Chaka Chaka;	#Nowplaying . Umqombothi ~ Yvonne Chaka Chaka . 
-1138	PER/tom brady;MISC/snl;	#nowwatching married with children and lord tom brady on snl . 
+1138	MISC/married with children;PER/tom brady;MISC/snl;	#nowwatching married with children and lord tom brady on snl . 
 1139	PER/Cee-Lo;	#NP Cee-Lo Green : The LadyKiller . 
 1140	PER/Katy Perry;	#NP Firework by Katy Perry ... love this track ! 
 1141	ORG/Culture Club;	#NP Karma Chameleon by Culture Club \* low key jammin at my desk \* lol 
@@ -1151,7 +1151,7 @@
 1151	PER/Taylor Swift;	#QuotetheDay <NEWLINE> I 'm intimidated by the fear of being average . - Taylor Swift 
 1152	PER/Jennifer Grey;	#rememberwhen Jennifer Grey was in movies ? Then she had a nose job and lost her career . 
 1153		#Replaying  #TATW 346 official Podcast . . Still have a lot to read . . #Damn ! ! #TranceFamily  #TranceFanatic 
-1154	PER/Swizz Beatz;	#shoutouts to #TBN we 've been holdin it DOWN since Thanksgiving Break began ... this shit is ... fuckin ridiculous \* Swizz Beatz voice \* 
+1154		#shoutouts to #TBN we 've been holdin it DOWN since Thanksgiving Break began ... this shit is ... fuckin ridiculous \* Swizz Beatz voice \* 
 1155	PER/Doogie Howser;	#SometimesIwonder what ever happened to all those journal entries Doogie Howser M.D. typed into that old computer . _Mention_ Tell us ! ! ! 
 1156		#sports Fantasymageddon ! : An epic preview of the most anticipated #Fantasy_Basketball matchup of all time : ... _URL_ #sportsnews 
 1157		#Tech  #TechNews Ask the Internet Roundup -LRB- Hive Mind -RRB- _URL_ #DhilipSiva 
@@ -1162,25 +1162,25 @@
 1162		_Mention_ : Omfg my gf is crazy ! ! ! I f \* cken love this women ! ! ! : D '' -LRB- = = I 'm jealous Damn ! ! ! Haha
 1163	PER/Sarah Palin;PER/Michelle Obama;	_Mention_ : Sarah Palin Slams Michelle Obama in Racially Charged Passage From New Book _URL_ via _Mention_ ''
 1164	PER/Michelle Bachman;	_Mention_ : RT _Mention_ : Why do republicans like Michelle Bachman lie so much #p2  #p21  #dem \/ \/ She learned frm the best . '' 
-1165	PER/Cheryl Cole;PER/Wagner;	"_Mention_ : Cheryl Cole and Cowell bullying Wagner , very unedifying #xfactor '' "
+1165	PER/Cheryl Cole;PER/Cowell;PER/Wagner;	"_Mention_ : Cheryl Cole and Cowell bullying Wagner , very unedifying #xfactor '' "
 1166	PER/Michele Bachmann;	_Mention_ : Just watched Rep Michele Bachmann on Newsnight . God help the world if she ever becomes President . Both thick and dangerous . ''
 1167	PER/Gary Mckinnon;	_Mention_ : RT _Mention_ : end the war of Terror against Gary Mckinnon - #freegary  _Mention_ '' 
-1168	LOC/US;PER/Clegg;	"_Mention_ : _Mention_ This does not help my wife & I facing Illegal US extradition Mr Clegg , we have -LRB- cont -RRB- _URL_"
-1169	PER/Brian Howes;LOC/U.S;	_Mention_ : Brian_Howes Brian Howes <NEWLINE> #Extradition and clear human rights violations in the U.S _URL_ _Mention_ <NEWLINE> ? '' 
+1168	LOC/US;PER/Mr Clegg;	"_Mention_ : _Mention_ This does not help my wife & I facing Illegal US extradition Mr Clegg , we have -LRB- cont -RRB- _URL_"
+1169	PER/Brian_Howes;PER/Brian Howes;LOC/U.S;	_Mention_ : Brian_Howes Brian Howes <NEWLINE> #Extradition and clear human rights violations in the U.S _URL_ _Mention_ <NEWLINE> ? '' 
 1170		_Mention_ : Regular Exercise May Ward Off Dozens of Health Problems _URL_
 1171	ORG/GOP;PER/Bob Inglis;	_Mention_ : GOP Rep. Bob Inglis slams his party on climate change denial . _URL_
 1172	PER/Mitch McConnell;	_Mention_ : Mitch McConnell ramps up anti-health care reform rhetoric . _URL_ - by _Mention_ ''
 1173	PER/Mark Zuckerberg;	'' _Mention_ : '' `` Move Fast . Be Bold . '' '' - Mark Zuckerberg '' ''
-1174	PER/Jim Bunning;PER/Obama;	_Mention_ : wow . Jim Bunning comes out and basically calls Obama a liar and a cheat in the Berwick hearing yesterday . what a douche . ''
+1174	PER/Jim Bunning;PER/Obama;PER/Berwick;	_Mention_ : wow . Jim Bunning comes out and basically calls Obama a liar and a cheat in the Berwick hearing yesterday . what a douche . ''
 1175	PER/Rosalind Franklin;	_Mention_ : Rosalind Franklin and sexism in the theater of science _URL_
 1176	PER/Joe Biden;PER/Sarah Palin;PER/Obama;PER/Joe Biden;	"_Mention_ : Joe Biden : Sarah Palin a force but would lose to Obama , Joe Biden says - latimes.com : _URL_ via _Mention_ ''"
 1177	ORG/Wikileaks;PER/Julian Assange;	_Mention_ : Wikileaks : Defend Julian Assange : _URL_ This guy has cajones . '' -LRB- BALZ ? ! -RRB-
 1178	PER/Anni Dewani;LOC/Cape Town;	_Mention_ : A third person has been arrested in connection with the murder of newlywed Anni Dewani on her honeymoon in Cape Town
-1179	PER/Eric Joyce;LOC/Grangemouth;	"_Mention_ : Labour MP Eric Joyce is arrested on suspicion of drink driving after an incident in Grangemouth , police say . ''"
+1179	ORG/Labour;PER/Eric Joyce;LOC/Grangemouth;	"_Mention_ : Labour MP Eric Joyce is arrested on suspicion of drink driving after an incident in Grangemouth , police say . ''"
 1180	PER/Larry King;	"_Mention_ : If you do something , expect consequences . <NEWLINE> - Larry King #quote '' "
-1181	PER/Lisa Murkowski;	_Mention_ Murkowski to declare victory in Alaska : Republican Sen. Lisa Murkowski of Alaska will decla ... _URL_ #topNews  #fb 
+1181	PER/Murkowsk;LOC/Alaska;PER/Lisa Murkowski;LOC/Alaska;	_Mention_ Murkowski to declare victory in Alaska : Republican Sen. Lisa Murkowski of Alaska will decla ... _URL_ #topNews  #fb 
 1182		"_Mention_ : I guess the next time I 'm lonely on a Saturday night , I can just go to the airport . -LRB- LOL FOR A NICE PAT DOWN -RRB- #tsa  #p2 '' "
-1183	PER/Anne Hathaway;PER/Jake Gyllenhal;PER/Anne;	'' _Mention_ : Is it just me or are Anne Hathaway and Jake Gyllenhal the 2 most overrated '' `` beauties ? '' '' Maybe Anne but Jake is hot ! ! ''
+1183	PER/Anne Hathaway;PER/Jake Gyllenhal;PER/Anne;PER/Jake;	'' _Mention_ : Is it just me or are Anne Hathaway and Jake Gyllenhal the 2 most overrated '' `` beauties ? '' '' Maybe Anne but Jake is hot ! ! ''
 1184	PER/Anne Frank;	`` How wonderful it is that nobody need wait a single moment before starting to improve the world . '' - Anne Frank #quote 
 1185	PER/Oscar Wilde;	`` I love talking about nothing . It is the only thing I know anything about . '' - Oscar Wilde
 1186	PER/Karl Lagerfeld;	`` I really do n't think women want to go around looking like a Saint Laurent shopping bag . '' - Karl Lagerfeld
@@ -1194,7 +1194,7 @@
 1194	PER/Michael Jordan;	"`` Some people want it to happen , some wish it would happen , others make it happen . '' - Michael Jordan"
 1195	PER/Henry Wadsworth Longfellow;	`` Sunday is the golden clasp that binds together the volume of the week '' - Henry Wadsworth Longfellow
 1196	PER/Mark Twain;	"`` When we remember we are all mad , the mysteries disappear and life stands explained . '' Mark Twain #quote "
-1197	MISC/Asian;LOC/Restaurant and Bar;	$ 15 for $ 30 worth of scrumptious sushi and Asian fusion from Oye 's Restaurant and Bar _URL_
+1197	MISC/Asian;LOC/Oye's Restaurant and Bar;	$ 15 for $ 30 worth of scrumptious sushi and Asian fusion from Oye 's Restaurant and Bar _URL_
 1198		07563346443 <NEWLINE> ; -RRB- _Mention_ live on _URL_ -RRB-
 1199		07729205835 _Mention_ live on _URL_ -RRB-
 1200		07751701622 I know all the words to the Barbie song x _Mention_ live on _URL_ -RRB-
