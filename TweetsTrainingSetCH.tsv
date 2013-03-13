@@ -1589,7 +1589,7 @@
 1589		Eat responsibly . _URL_
 1590	PER/Ed O'Neill;PER/Kanye;PER/Jane Lynch;	Ed O'Neill pulling a Kanye about Jane Lynch . Not cool at all !
 1591	PER/Napoleon Hill;	Education comes from within ; you get it by struggle and effort and thought . ~ Napoleon Hill
-1592	PER/Mandela;	Education is the most powerful weapon which you can use to change the world . ~ Mandela <NEWLINE> I love that quote . my best - jakson
+1592	PER/Mandela;PER/jakson;	Education is the most powerful weapon which you can use to change the world . ~ Mandela <NEWLINE> I love that quote . my best - jakson
 1593	PER/Stephen Covey;	Effective leadership is putting first things first . ~ Stephen Covey
 1594	ORG/Twitter;	Egg-xactly . _Mention_ : Shut up . It 's Twitter RT _Mention_ : i think until we actually find out what 's wrong -LRB- cont -RRB- _URL_
 1595		eid al-adha is in two days . now listening to raya songs
@@ -1597,8 +1597,8 @@
 1597	PER/ELEANOR SMEAL;	ELEANOR SMEAL : Senate Republicans Tell Women : You Are Mere Pawns _URL_
 1598	PER/Elizabeth Edwards;	Elizabeth Edwards died Tuesday afternoon after a six-year battle with breast cancer .
 1599	PER/Elton John;	"Elton John has never owned a parrot , but he has had a Cockatoo ."
-1600	PER/Elvis Costello;LOC/Brasil;	Elvis Costello e The Impostors far_o show no Brasil em abril _URL_
-1601		Emirates ' Clark Confident R-R Will Nail A380 's Trent Problem _URL_
+1600	PER/Elvis Costello;MISC/The Impostors;LOC/Brasil;	Elvis Costello e The Impostors far_o show no Brasil em abril _URL_
+1601	ORG/Emirates;PER/Clark;ORG/R-R;	Emirates ' Clark Confident R-R Will Nail A380 's Trent Problem _URL_
 1602	PER/Emma Watson;MISC/Harry Potter;	Emma Watson Offers To ` Take Off ' Her Dress At ` Harry Potter ' Premiere _URL_
 1603	PER/Emma Watson;MISC/Harry Potter;	Emma Watson Offers To ` Take Off ' Her Dress At ` Harry Potter ' Premiere _URL_
 1604	PER/Larry King;	End of an Era : Larry King Signs Off _URL_
@@ -1607,18 +1607,18 @@
 1607	LOC/UK;	Estate Planning : Pension particulars : what changes to legislation mean for UK expats _URL_
 1608	PER/George Vlosich III;	Etch A Sketch Art by George Vlosich III : Anyone who ever turned the knobs of an Etch A Sketch toy knows how hard ... _URL_
 1609	LOC/Nederland;	Europarlement wil Nederland straffen ' : _URL_ #nuiphone 
-1610	ORG/Jets;PER/Sanchez;PER/Brady 	"Even If The Jets Do Win , Sanchez Will Not Be In Discussion With Brady , Manning , Or Big Ben Sorry ."
+1610	ORG/Jets;PER/Sanchez;PER/Brady;PER/Manning;PER/Big Ben; "Even If The Jets Do Win , Sanchez Will Not Be In Discussion With Brady , Manning , Or Big Ben Sorry ."
 1611		"even if the sky is falling down \* qdm , nois minha linda : -RRB- _Mention_ _URL_"
 1612	PER/Napoleon Hill;	"Every adversity , every failure , every heartache carries with it the seed on an equa . . Napoleon Hill"
 1613	PER/Napoleon Hill;	"Every adversity , every failure , every heartache carries with it the seed on an equal or greater benefit ~ Napoleon Hill"
 1614		every morning you come town ? ! ? ! -LRB- Like it ? _URL_ -RRB-
 1615	PER/Napoleon Hill;	Every person who wins in any undertaking must be willing to cut all sources of retreat . ~ Napoleon Hill
 1616	PER/Donald Trump;	"Every time you walk down the street people are screaming , ` You 're fired ! ' ~ Donald Trump"
-1617	LOC/AZ;ORG/Steelers;MISC/Super Bowl;	Everyone in AZ going for the Steelers or what ? Did they go for them in Super Bowl XLIII as well ? Hah
+1617	LOC/AZ;ORG/the Steelers;MISC/Super Bowl XLIII;	Everyone in AZ going for the Steelers or what ? Did they go for them in Super Bowl XLIII as well ? Hah
 1618	PER/John Barth;	Everyone is necessarily the hero of his own life story . <NEWLINE> - John Barth
 1619	PER/Leo Tolstoy;	"Everyone thinks of changing the world , but no one thinks of changing himself . <NEWLINE> - Leo Tolstoy"
 1620	PER/Alan Cohen;	Everything will change when your desire to move on exceeds your desire to hold on . - Alan Cohen
-1621	LOC/Miami;LOC/Green Bay;PER/Sam Shields;ORG/Packers;	Ex-Miami Hurricanes WR now Green Bay DB Sam Shields has been huge for the Packers today .
+1621	LOC/Miami;ORG/Hurricanes;ORG/Green Bay;PER/Sam Shields;ORG/Packers;	Ex-Miami Hurricanes WR now Green Bay DB Sam Shields has been huge for the Packers today .
 1622	PER/Micheal Turner;	Exactly RT _Mention_ : Micheal Turner do n't need to be on any plays on the goal line I see lol
 1623	PER/Henry Ford;	"Exercise is bunk . If you are healthy , you do n't need it : if you are sick you should not take it . ~ Henry Ford"
 1624		Explosion victim to be transferred to burns unit _URL_ #TVNZNews 
@@ -1626,12 +1626,12 @@
 1626	ORG/Facebook;	Facebook added 100 million users in less than 9 months ? iPhone applications hit 1 billion in 9 months . _URL_
 1627	ORG/Facebook;ORG/Twitter;	Facebook is more interesting that Twitter tonight . And that 's saying something .
 1628	PER/Chevy Chase;PER/Steely Dan;	"FACT : Actor Chevy Chase occasionally played pick-up drums for one of the original lineups of Steely Dan , known as The Leather Canary ."
-1629	PER/George Brett;	"FACT : As part of his 1984 contract extension , George Brett agreed to give the Royals the bat he used in the ` Pine Tar Game ' on July 24,1983"
+1629	PER/George Brett;ORG/the Royals;MISC/Pine Tar Game;	"FACT : As part of his 1984 contract extension , George Brett agreed to give the Royals the bat he used in the ` Pine Tar Game ' on July 24,1983"
 1630	PER/William Moulton Marston;	"FACT : Dr. William Moulton Marston , the man who created Wonder Woman , also designed an early lie detector ."
-1631	PER/Lisa Kudrow;PER/Peri Gilpin;	"FACT : Lisa Kudrow was the original Roz on Frasier . During rehearsals before the pilot episode , however , she was replaced by Peri Gilpin ."
+1631	PER/Lisa Kudrow;PER/Roz;MISC/Frasier;PER/Peri Gilpin;	"FACT : Lisa Kudrow was the original Roz on Frasier . During rehearsals before the pilot episode , however , she was replaced by Peri Gilpin ."
 1632	PER/Louis Armstrong;	FACT : Louis Armstrong played the trumpet so much that he got callouses on his lips so he cut them off with a razor blade .
-1633	PER/Orson Welles;	"FACT : Orson Welles ' last film role was as the voice actor for the character `` Unicron '' , in `` Transformers : The Movie '' -LRB- animated -RRB- , in 1986 ."
-1634	PER/Paul McCartney;	"FACT : Paul McCartney played bass left-handed , but he was n't the only southpaw member of the Beatles . Ringo is a lefty as well ."
+1633	PER/Orson Welles;MISC/Transformers : The Movie;	"FACT : Orson Welles ' last film role was as the voice actor for the character `` Unicron '' , in `` Transformers : The Movie '' -LRB- animated -RRB- , in 1986 ."
+1634	PER/Paul McCartney;ORG/the Beatles;PER/Ringo;	"FACT : Paul McCartney played bass left-handed , but he was n't the only southpaw member of the Beatles . Ringo is a lefty as well ."
 1635	PER/Jesus Christ;	Father forgive them . For they know not what they do . ~ Jesus Christ
 1636	PER/Richard Horton;	Fear is the true counterpoint to reason . Richard Horton _Mention_
 1637	PER/Brandon Roy;	"Feel bad for Brandon Roy , his knee injury sounds like what _Mention_ had to deal with at the end of his career"
@@ -1650,22 +1650,22 @@
 1650	PER/Tony Robbins;	"For changes to be of any true value , they 've got to be lasting and consistent . ~ Tony Robbins"
 1651		"For only $ 4 million , this mansion could be yours _URL_"
 1652	MISC/the NFC Championship;PER/BJ Raji;	"For those watching the NFC Championship game , what a play by BJ Raji"
-1653		For Your Consideration : The 10 Worst Original Song Oscar Snubs of the Past 10 Years : In honor of the six-days-an ... _URL_
+1653	MISC/Oscar;	For Your Consideration : The 10 Worst Original Song Oscar Snubs of the Past 10 Years : In honor of the six-days-an ... _URL_
 1654	PER/Jim Rohn;	Formal education will make you a living ; self education will make you a fortune . - Jim Rohn
 1655	PER/Jim Rohn;	Formal education will make you a living ; self-education will make you a fortune . ~ Jim Rohn
-1656	PER/Dwayne Johnson;	"Former #WWE star Dwayne Johnson , aka ` The Rock ' , talks 5th ` Fast and the Furious ' film , ` Fast Five ' _URL_ "
+1656	PER/Dwayne Johnson;MISC/Fast and the Furious;MISC/Fast Five;	"Former #WWE star Dwayne Johnson , aka ` The Rock ' , talks 5th ` Fast and the Furious ' film , ` Fast Five ' _URL_ "
 1657	ORG/OWC;	Found the missing 19 % of OWC shares ! I left them in my pants pocket and sent them through the washer . Oops ! #owcsdff 
 1658	PER/Fran Fine;	Fran Fine time #thenanny 
 1659	PER/frank turner;ORG/birmingham;	frank turner will you ever play birmingham again ? .
 1660	ORG/Marie Claire;	Free film preview tickets Celebrity gossip Marie Claire : _URL_ via _Mention_
 1661		Free Nature Sounds #Nature Nature Of Sound Nature Of Sounds Sound Of Rain Nature Sound _URL_ 
-1662	MISC/Super Bowl;	Free Super Bowl beers ! -LRB- @ The Golf Cave -RRB- _URL_
+1662	MISC/Super Bowl;LOC/The Golf Cave;	Free Super Bowl beers ! -LRB- @ The Golf Cave -RRB- _URL_
 1663	PER/Sorkozy;	French prime minister resigns - _URL_ Go get ` tem Sorkozy
 1664		Friends are family you choose for yourself . ~ Author Unknown
 1665	PER/Samuel Butler;	"Friendship is like money , easier made than kept . <NEWLINE> - Samuel Butler"
 1666	LOC/NYC;	From a NYC guy : ` How About We ... go to a local playground and pretend we 're kids ... ' See who he is at _URL_
-1667		From the AvWeek Intelligence Network : Trent Shortage Prompts Rolls To Plunder A380 Line
-1668		`` Fuck that show ! Boooooooooo lol RT _Mention_ : The '' `` Tim & Eric Awesome Show Great Job Crimbus Special '' '' will go down in infamy ''
+1667	MISC/AvWeek Intelligence Network;	From the AvWeek Intelligence Network : Trent Shortage Prompts Rolls To Plunder A380 Line
+1668	MISC/Tim & Eric Awesome Show;	`` Fuck that show ! Boooooooooo lol RT _Mention_ : The '' `` Tim & Eric Awesome Show Great Job Crimbus Special '' '' will go down in infamy ''
 1669		Fucking hate riding in this stupid car . This trip just needs to end already .
 1670	PER/Soulja boy;	`` funny song actually #myopinion - RT _Mention_ : Am i really listening to '' `` Hey you There '' '' by Soulja boy right now - __ - \* Shakes the ipod \* #NEXT ! '' 
 1671		Furminator - The best tool for dog owners _URL_
