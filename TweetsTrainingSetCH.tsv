@@ -519,7 +519,7 @@
 519	LOC/Haiti;	_Mention_ Haiti candidate 's convoy attacked : The convoy of a leading Haitian presidential candidate c. . . _URL_ #topNews  #fb 
 520	LOC/Haiti;LOC/Haiti;	_Mention_ Haiti cholera death toll passes 900 : The death toll from Haiti 's month-old cholera outbreak ... _URL_ #topNews  #fb 
 521	LOC/Haiti;LOC/Haiti;	_Mention_ Haiti holds 1st election since quake : Polls opened early Sunday in Haiti as voters struggli ... _URL_ #topNews  #fb 
-522	MISC/Haitians;ORG/U.N.;	_Mention_ Haitians blame epidemic on U.N. : Aid agencies are calling for an end to violence in norther ... _URL_ #topNews  #fb 
+522	ORG/U.N.;	_Mention_ Haitians blame epidemic on U.N. : Aid agencies are calling for an end to violence in norther ... _URL_ #topNews  #fb 
 523	ORG/House Dems;ORG/GOP;	"_Mention_ House Dems , GOP to choose leadership : Leadership elections for the Democratic and Republica ... _URL_ #topNews  #fb "
 524	PER/Billy James;	_Mention_ How many soldiers could you get this to ? _URL_ Billy James Show
 525		_Mention_ _URL_
