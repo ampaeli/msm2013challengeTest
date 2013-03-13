@@ -432,7 +432,7 @@
 432		_Mention_ PLZ help save a childs life . Metachromatic Leukodystrophy -LRB- MLD -RRB- _URL_ 0/#Millie PLZ RT 
 433	PER/sarah;	_Mention_ run sarah run we will not appoint you the countries leader
 434	PER/Kym Rock;	_Mention_ Self defense Kym Rock xpert will do xhibition kickboxg against author of Pedophile guide need a promoter ? raise money $ kids Saftey
-435	PER/Monfils;MISC/Paris Masters;PER/Robin Soderling;MISC/Paris Masters;	_Mention_ Soderling downs Monfils to win Paris Masters title : Robin Soderling 's first Paris Masters crown will pay of ... _URL_
+435	PER/Monfils;ORG/Paris Masters;PER/Robin Soderling;ORG/Paris Masters;	_Mention_ Soderling downs Monfils to win Paris Masters title : Robin Soderling 's first Paris Masters crown will pay of ... _URL_
 436	LOC/New Zealand;	"_Mention_ The 29 workers trapped after an explosion Friday in a New Zealand mine are confirmed dead , a police official says ."
 437	PER/Bush;	"_Mention_ the solidors need to gear up , that he call back home Bush you know set up foolishand Now he with Macs damn why on amercia Court it up"
 438	PER/Jesus Christ;	"_Mention_ third , you have to search with all your heart and soul for Him , and He 'll come , call on His name , Jesus Christ , and search for Him ..."
@@ -443,17 +443,17 @@
 443	LOC/Korea;ORG/defense department;	"_Mention_ : If the Korea 's go to war , then it is not time to cut our defense department ! Because the war will escalate into something much bigger !"
 444		_Mention_ 's Top 10 tech failures for 2010 ! _URL_ What do you think ? via _Mention_
 445	LOC/Congo;	_Mention_ Bout never forget Congo : _URL_
-446	LOC/Pakistan;	_Mention_ By repeat annonucements these Americans will make $ 7.5 billion KLB aid look like $ 750 billions assistance to Pakistan .
+446	MISC/Americans;LOC/Pakistan;	_Mention_ By repeat annonucements these Americans will make $ 7.5 billion KLB aid look like $ 750 billions assistance to Pakistan .
 447	LOC/Billy James Music Store;	_Mention_ _URL_ Support Our Troops via Billy James Music Store
 448	PER/Bush;	_Mention_ I believe Bush when he says he has no regrets . Hard to have regrets when you do not remember much of what happened . Not being mean
-449	LOC/Israel;	_Mention_ idon ' t feel there ever will be peace as long as Israel bullies the arabs
+449	LOC/Israel;MISC/arabs;	_Mention_ idon ' t feel there ever will be peace as long as Israel bullies the arabs
 450	MISC/MMA;ORG/CNN;	_Mention_ Octagon Blog : MMA on CNN World Sport !
 451	PER/Rama;ORG/CIA;LOC/US;	_Mention_ - Be allowed Lord Rama to make a relation with CIA\/US in the shape and image of Am \* Rita immediately so as to recognize Him a member .
 452	ORG/CIA;ORG/Wikileaks;PER/Rama;	"_Mention_ - CIA\/USgovernance policy can not work effectively by use of Wikileaks , if it shows male dominated image & Lord Rama 's in its opposite ."
 453		_Mention_ - CongressPresident has a sense to evaluate joyous statement of its PM at the time of deceitful enactment & involvement of his troop .
 454	PER/Rama;	_Mention_ - Lord Rama is not forgot the joyous statement of PMO . His Lordship desires that PMO may also sustain pain of defame & captureofMaya .
 455	PER/Sikhandi;	_Mention_ - Present governance is relied upon the notion of Har ~ lo ~ try which dummy players are led by Sikhandi . This is the time to put off it .
-456	PER/Merchant of Death;LOC/U.S.;	_Mention_ ` Merchant of Death ' extradited to U.S. : Details about the prosecution of an accused interna ... _URL_ #topNews  #fb 
+456	LOC/U.S.;	_Mention_ ` Merchant of Death ' extradited to U.S. : Details about the prosecution of an accused interna ... _URL_ #topNews  #fb 
 457	LOC/Scottish forest;	_Mention_ '' `` Authorities probe mysterious explosion in Scottish forest '' '' it was a VERY aged barrel of Glenfiddich Scotch i 'm thinking ; - -RRB- ''
 458	LOC/N. Korea;LOC/Seoul;LOC/Seoul Korea;	_Mention_  _Mention_  _Mention_ N. Korea Attacked An Island-Pyong-Yang is Closer to -LRB- Seoul -RRB- Why Did n't They Attack Seoul Korea Instead ?
 459	ORG/Congress;	_Mention_  _Mention_ The Media is NCiting a Fight Btw Pres & Congress . . Would B Nice If they would Ncite Reconciliation . . WE Need it
@@ -474,7 +474,7 @@
 474	LOC/India;	_Mention_ 65 dead after building collapse in India : The toll in the collapse of a five-story resident ... _URL_ #topNews  #fb 
 475	LOC/Mexico;	"_Mention_ 7 dead in Mexico resort explosion : Seven people , including at least one minor , were killed ... _URL_ #topNews  #fb "
 476		_Mention_ Abuse alleged at egg producer : A group that protects the welfare of animals has released an ... _URL_ #topNews  #fb 
-477	ORG/Al Qaeda;	_Mention_ Al Qaeda article raises travel concerns : As millions of Americans prepare to hit the roads ... _URL_ #topNews  #fb 
+477	ORG/Al Qaeda;MISC/Americans;	_Mention_ Al Qaeda article raises travel concerns : As millions of Americans prepare to hit the roads ... _URL_ #topNews  #fb 
 478	PER/Colton Harris-Moore;	_Mention_ Alleged ` barefoot bandit ' enters plea : Accused '' `` barefoot bandit '' '' Colton Harris-Moore is exp ... _URL_ #topNews  #fb '' 
 479	PER/Amanda Knox;MISC/American;PER/Amanda Knox;	_Mention_ Amanda Knox fights murder conviction : Former American student Amanda Knox went back to cour ... _URL_ #topNews  #fb 
 480	ORG/FBI;MISC/Muslims;	"_Mention_ And FBI agents producing these sham '' `` bombings '' '' are free to set up more kids '' , and to spread more racism & terrorism against Muslims ."
@@ -661,13 +661,13 @@
 661	MISC/AMERICANS;LOC/GERMANY;	_Mention_ How many AMERICANS know - TODAY -- HIGH ALERT in GERMANY ?
 662	PER/MURDOCH;PER/Roger AIles;LOC/USA;LOC/KOREA;MISC/KOREAN;LOC/USA;	"_Mention_ Intellect of MURDOCH Roger AIles thinks annual 6,000 USA cars n KOREA v 600,000 KOREAN cars n USA GOOD #TRADE DEAL #exports  #p2 "
 663	LOC/LISBON;	_Mention_ LISBON summt showed the WORLD what ASSHOLES _Mention_  _Mention_ are ! #start 
-664	PER/HALEY BARBOUR;	_Mention_ MS RANKS 50th in HEALTCARE & EDUCATION ! HALEY BARBOUR 2012 ------ OH BOY ! SOemthing to look forward to !
-665	PER/HALEY BARBOUR;	_Mention_ MS RANKS 50th in HEALTHCARE & EDUCATION ! HALEY BARBOUR 2012 -- OH BOY ! Something to look forward to !
+664	LOC/MS;PER/HALEY BARBOUR;	_Mention_ MS RANKS 50th in HEALTCARE & EDUCATION ! HALEY BARBOUR 2012 ------ OH BOY ! SOemthing to look forward to !
+665	LOC/MS;PER/HALEY BARBOUR;	_Mention_ MS RANKS 50th in HEALTHCARE & EDUCATION ! HALEY BARBOUR 2012 -- OH BOY ! Something to look forward to !
 666	ORG/TEA PARTY;	_Mention_ NO TEA PARTY LEADER ! SUCKER ! _Mention_ 2012 !
 667	ORG/TEA PARTY;PER/BOEHNER;	_Mention_ NOW when will ALL start DEMANDING the MEDIA that created this TEA PARTY to show us where the CHANGE IS ? TEAPARTY BOEHNER ?
-668	ORG/SHELL OIL;LOC/IRAQ;LOC/IRAQ;	_Mention_ SHELL OIL ---------- LET them pay for IRAQ WAR -- Tehy are drilling and profit in IRAQ off of AMERICAN PEOPLE BLOOD !
+668	ORG/SHELL OIL;MISC/IRAQ WAR;LOC/IRAQ;	_Mention_ SHELL OIL ---------- LET them pay for IRAQ WAR -- Tehy are drilling and profit in IRAQ off of AMERICAN PEOPLE BLOOD !
 669	ORG/SHELL OIL;	_Mention_ SHELL OIL ! How about they pay for UNEMPLOYMNET !
-670	ORG/TEA PARTY;ORG/OLD REPUBLICANS;ORG/TEA PARTY;	_Mention_ so called TEA PARTY knocked out OLD REPUBLICANS ! Who si their TEA PARTY LEADER ? OLD REPUBLICAN !
+670	ORG/TEA PARTY;ORG/TEA PARTY;	_Mention_ so called TEA PARTY knocked out OLD REPUBLICANS ! Who si their TEA PARTY LEADER ? OLD REPUBLICAN !
 671	PER/ROB;LOC/MURDOCH UNIVERSITY;	_Mention_ THANK YOU ROB ! SPECIFICS ! MURDOCH UNIVERSITY !
 672	PER/Susan;ORG/TEA PARTY;ORG/GOP;	_Mention_ Thanks Susan ! There is no TEA PARTY ! Period ! Tea pArty ha always been 8 years of GOP Buyers Remorse ! Media created TEAPARTY
 673	ORG/TEA PARTY;	_Mention_ THE TEA PARTY ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
@@ -681,11 +681,11 @@
 681	PER/Shannon Brown;	_Mention_ o yes that wouldnt even be an argument ... now bball theres too many fine ones . . but I like Shannon Brown
 682		_Mention_ Why not try this - its working for me - _URL_
 683	ORG/FBI;	"_Mention_ Risk of Death vs what the FBI already has , serves him right cretin , simpleton , dimwit . Do you think before you speak ? _Mention_"
-684	PER/Pollyanna;PER/Kris Kringle;PER/Pollyanna;	"_Mention_ Pollyanna exch so Philly , it 's Secret Santa or Kris Kringle gift exch . almost everyplace else , luv Pollyanna better 4 kids"
+684	PER/Pollyanna;PER/Philly;PER/Kris Kringle;PER/Pollyanna;	"_Mention_ Pollyanna exch so Philly , it 's Secret Santa or Kris Kringle gift exch . almost everyplace else , luv Pollyanna better 4 kids"
 685		_Mention_ Thank you both so much for tonight we have a really lovely time ... Great food & company !
 686	PER/Dan;PER/Jessica;	"_Mention_ -- Thanks for the RT , Dan ! ! -- Best wishes for a fantastic Christmas Holiday ! ! ~ Jessica"
-687	LOC/Bournemouth;LOC/London;LOC/b ` mouth;	_Mention_ Leigh got to meet them after their Bournemouth gig ! But we had London tickets & spent 2 days trying to get tix for b ` mouth !
-688	PER/Jim Broadbent;	_Mention_ Any Human Heart -LRB- DVD -RRB- DVD ~ Jim Broadbent _URL_
+687	PER/Leigh;LOC/Bournemouth;LOC/London;LOC/b ` mouth;	_Mention_ Leigh got to meet them after their Bournemouth gig ! But we had London tickets & spent 2 days trying to get tix for b ` mouth !
+688	MISC/Any Human Heart;PER/Jim Broadbent;	_Mention_ Any Human Heart -LRB- DVD -RRB- DVD ~ Jim Broadbent _URL_
 689	PER/Darey;	_Mention_ . Darey I am wishing you and your family a Happy New Year 2011 ! May God 's presence dwell with you people . Amen .
 690	PER/Phil Collins;PER/Darey;PER/Phil Collins;	_Mention_ . Phil Collins . Darey please Collabo with Phil Collins . Have u not noticed u sing alike .
 691		_Mention_ added ya !
