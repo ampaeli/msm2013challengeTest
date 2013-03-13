@@ -320,7 +320,7 @@
 320	PER/Malik El-Shabazz;	_Mention_ haha not even close El Hajj Malik El-Shabazz though ?
 321	LOC/RI;	"_Mention_ my comment was on RI and my love for it , not the smallness of the state : - D"
 322	PER/Little Brother;	_Mention_ stop breaking my heart ! ! ! ! \* Little Brother \*
-323	PER/Lucifer;PER/God;	"_Mention_ the Illuminati is a group , with Lucifer at the head meant to control and distract human beings from the goodness of God"
+323	ORG/Illuminati;PER/Lucifer;PER/God;	"_Mention_ the Illuminati is a group , with Lucifer at the head meant to control and distract human beings from the goodness of God"
 324	PER/Tom Hanks;PER/Robert Langdon;	_Mention_ Tom Hanks is so Robert Langdon whachumean ?
 325	LOC/France;	"_Mention_ it was about France , and the cancellation of the MB there ."
 326	LOC/Canada;	_Mention_ np : D I wish it was here in Canada lol
