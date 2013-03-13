@@ -35,7 +35,7 @@
 35	ORG/Twitter;	_ _Mention_ : The #Censorship Daily is out - read this Twitter newspaper on _URL_ -LRB- 50 contributions today -RRB- _ _ 
 36		"_ _Mention_ : Ugh gym was hard this morning lol no pain no gain I guess _ _ you are better than me , i went from the bed to the couch this AM"
 37	LOC/GB;LOC/Chicago;	_ _Mention_ : Who 's winning the GB \/ Chicago game ? _ _ still tied at 0
-38	ORG/M��decins Sans Fronti��res;	"_Mention_ : #B-LOC/Haiti - M��decins Sans Fronti��res has treated over 12,000 people for suspected #cholera _URL_ "
+38		"_Mention_ : #B-LOC/Haiti - M��decins Sans Fronti��res has treated over 12,000 people for suspected #cholera _URL_ "
 39	PER/Aung Suu Kyi;LOC/Burma;	_ _Mention_ : Aung Suu Kyi calls for release of Burma 's ethnic leaders _URL_ _Mention_  _Mention_  #Burma 
 40	LOC/London;LOC/Afghan;	_ _Mention_ : Protesters in London march against Afghan war _URL_
 41	LOC/Detroit;	_ _Mention_ : _Mention_ Old Detroit has a cancer . That cancer is crime . _ _
@@ -715,7 +715,7 @@
 715	LOC/UK;	_Mention_  _Mention_  _Mention_  _Mention_ cool I like u u give time is that UK 8 or black people timing 8 lol !
 716	LOC/Manchester;LOC/Sheff;	_Mention_  _Mention_  _Mention_ I 'M VEX GOT TICKET 26th Jan in Manchester found out can go sheff I could -LRB- cont -RRB- _URL_
 717	LOC/Chicago;	"_Mention_ No #tornado here in #B-Chicago , but its starting to rain pretty hard . "
-718		"_Mention_ Very true . I ate some Cajun Gator in ' 03 ' at the Taste of #B-LOC/Chicago , and it really did taste similar to chicken . Good stuff . "
+718	LOC/Chicago;	"_Mention_ Very true . I ate some Cajun Gator in ' 03 ' at the Taste of #B-Chicago , and it really did taste similar to chicken . Good stuff . "
 719	MISC/A Christmas Story;	"_Mention_ Your definitely watching ' A Christmas Story . ' Everyone should know that quote . ; -RRB- '' `` Ralphie '' , '' you 'll shoot your eye out . '' '' ''"
 720	LOC/WIBC;LOC/Indianapolis;	"_Mention_ : Finally , the announcement : my M-F 2-4pm CDT show expands to WIBC in Indianapolis beginning January 10 . #dlrs  #tcot Congratulations ! '' "
 721		_Mention_ anti-subliminal movement
