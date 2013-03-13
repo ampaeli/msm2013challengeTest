@@ -655,7 +655,7 @@
 655	LOC/Germany;LOC/MUMBAI;	_Mention_  #TSA Germany HIGH ALERT ! Which Thanksgiving DAY was the MUMBAI ATTACK on for the WORLD to see ? 
 656	LOC/TEXAS;	_Mention_ Are you on SOCIAL SECURITY ? MEDICARE ? OLD MAN from TEXAS ?
 657	LOC/OHIO;	_Mention_ CAN he not FIND work in OHIO ?
-658	PER/Jane;LOC/South Korea;	_Mention_ Does Jane understand why POTUS did NOT sign the South Korea treaty ? #JOBS  #p2 
+658	PER/Jane;PER/POTUS;LOC/South Korea;	_Mention_ Does Jane understand why POTUS did NOT sign the South Korea treaty ? #JOBS  #p2 
 659	ORG/FORD;LOC/SOUTH KOREA;PER/JANE SAYS;	_Mention_ FORD wanted CAR deal w SOUTH KOREA TREATY-SEE what JANE SAYS is a FAILURE !
 660	MISC/AMERICA;LOC/VERMONT;	_Mention_ Guess the AMERICA PEOPLE spoke in VERMONT !
 661	MISC/AMERICANS;LOC/GERMANY;	_Mention_ How many AMERICANS know - TODAY -- HIGH ALERT in GERMANY ?
