@@ -1672,17 +1672,17 @@
 1672	PER/Julia Durly;	"Future lady -LRB- Julia Durly -RRB- , if you ca n't get along with my fam , we wo n't last"
 1673	ORG/GA;ORG/NC;ORG/SC;ORG/CO;	"GA , NC , SC , and CO banks added to the Failed Bank Map , raising 2011 failure total to seven : _URL_"
 1674	PER/Garnet Mimms;	Garnet Mimms - Stop and Check Yourself -LRB- 1972 -RRB- _URL_ via _Mention_
-1675	LOC/Gas Station Angel;ORG/GSA;	"Gas Station Angel - Week One <NEWLINE> Dramaturg 's Blog <NEWLINE> <NEWLINE> After weeks , even months of preparation , the first rehearsal of GSA w ? _URL_"
+1675	ORG/Gas Station Angel;ORG/GSA;  "Gas Station Angel - Week One <NEWLINE> Dramaturg 's Blog <NEWLINE> <NEWLINE> After weeks , even months of preparation , the first rehearsal of GSA w ? _URL_"
 1676	PER/Thomas Edison;	Genius is one percent inspiration and ninety-nine percent perspiration . ~ Thomas Edison
 1677	PER/George Bush;	George Bush Book ` Decision Points ' Lifted From Advisers ' Books _URL_
 1678	PER/George Bush;	George Bush plagurized his memoirs : _URL_
 1679	PER/George Michael;	George Michael has been banned from his local pub today for having a sneaky fag in the gents .
 1680	LOC/Georgia;	Georgia Voters Agree To non-compete Agreements _URL_
-1681	PER/Geraldine Hoff Doyle;	Geraldine Hoff Doyle obituary : Doyle inspired ` We Can Do It ' poster - latimes.com : _URL_ via _Mention_
+1681	PER/Geraldine Hoff Doyle;PER/Doyle;ORG/latimes.com;	Geraldine Hoff Doyle obituary : Doyle inspired ` We Can Do It ' poster - latimes.com : _URL_ via _Mention_
 1682	PER/BETTY WRIGHT;	get the funk up and dance damit ! BETTY WRIGHT - CLEAN UP WOMAN _URL_ via _Mention_
-1683	PER/Hoover;PER/Norcross;PER/O. Anderson;PER/D. Hamby;ORG/Ncr;	"GHoops - GNO ; Hoover , Al 28 - Norcross 25 at the half . O. Anderson 7 Hov and D. Hamby 9 Ncr . DeShields 3 fls ."
+1683		"GHoops - GNO ; Hoover , Al 28 - Norcross 25 at the half . O. Anderson 7 Hov and D. Hamby 9 Ncr . DeShields 3 fls ."
 1684	PER/Gillian Anderson;ORG/Telegraph;	Gillian Anderson : ` People are pigeonholed too much ' - Telegraph : _URL_ via _Mention_
-1685		Girl Talk Releases New Album : <NEWLINE> <NEWLINE> <NEWLINE> Girl Talk has released his new full length sample epic as a free download from ... _URL_
+1685	PER/Girl Talk;PER/Girl Talk;	Girl Talk Releases New Album : <NEWLINE> <NEWLINE> <NEWLINE> Girl Talk has released his new full length sample epic as a free download from ... _URL_
 1686		Girl ! ! ! Me too ! I thank him every chance i get ! ; -RRB- chance RT _Mention_ : God has been so good to me .
 1687	PER/Michelle Obama;	GIRLS NIGHT : Michelle Obama And Girlfriends Attend Award-Winning Broadway Play _URL_
 1688	PER/Jim Rohn;	Giving is better than receiving because giving starts the receiving process . ~ Jim Rohn
@@ -1693,7 +1693,7 @@
 1693	PER/Aretha Franklin;	GOD Noooo Aretha Franklin ? ! ?
 1694	PER/Noah;PER/John Shimkus;	"`` God said to Noah -LRB- and House Republican John Shimkus , Ill -RRB- : ` Do n't fret about global warming ' _URL_ _Mention_  _Mention_ ''"
 1695		Goddamn ! RT : _Mention_ : Goddamn my friend is so goddamn clingy to his goddamn girlfriend . Its goddamn obsessive . #goddamn 
-1696		Godiva Chocolate chilled sounds real good now
+1696	ORG/Godiva; Godiva Chocolate chilled sounds real good now
 1697		Going in this social network is too #criucal for people 
 1698	PER/HARRY;	going now I LOVE YOU HARRY ! _Mention_ live on _URL_ -RRB-
 1699		going to see her in march ! ! _Mention_ live on _URL_ -RRB-
@@ -1702,16 +1702,16 @@
 1702	PER/Gratton;	"Good moring . . \* sipping coffee \* RT _Mention_ : _Mention_ Good morning to you too , Dr Gratton . -LRB- sips tea -RRB-"
 1703	PER/Gratton;	"Good morning \* catching a yawn \* RT _Mention_ : _Mention_ Good morning to you too , Dr Gratton . -LRB- sips tea -RRB-"
 1704	PER/Gratton;	"Good morning \* picking at mince pie \* RT _Mention_ : _Mention_ Good morning to you too , Dr Gratton . -LRB- sips tea -RRB-"
-1705		"Good morning \* reaches for coffee \* RT _Mention_ : _Mention_ Good morning to you too , Dr Gratton . -LRB- sips tea -RRB-"
+1705	PER/Gratton;	"Good morning \* reaches for coffee \* RT _Mention_ : _Mention_ Good morning to you too , Dr Gratton . -LRB- sips tea -RRB-"
 1706	PER/Gratton;	"Good morning \* reaching for coffee \* RT _Mention_ : _Mention_ Good morning to you too , Dr Gratton . -LRB- sips tea -RRB-"
-1707		"Good morning . . \* sipping beer \* RT _Mention_ : _Mention_ Good morning to you too , Dr Gratton . -LRB- sips tea -RRB-"
-1708	ORG/ManU;ORG/Bir;LOC/liverpool;	Good show by ManU against Bir . . btw good comeback by the gunners and liverpool ...
-1709	MISC/Coney Island;	Good thing barbershop quartets do n't perform national anthems . There is always the constant threat of Coney Island Baby
+1707	PER/Gratton;	"Good morning . . \* sipping beer \* RT _Mention_ : _Mention_ Good morning to you too , Dr Gratton . -LRB- sips tea -RRB-"
+1708	ORG/ManU;ORG/Bir;ORG/the gunners;ORG/liverpool; Good show by ManU against Bir . . btw good comeback by the gunners and liverpool ...
+1709	LOC/Coney Island;	Good thing barbershop quartets do n't perform national anthems . There is always the constant threat of Coney Island Baby
 1710		"GOOOOO ! RT _Mention_ : come on #Bears , lets get this win ! "
 1711	ORG/GOP;PER/Obama;ORG/Republicans;	GOP lawmakers look for signs of new Obama approach - AP : MSNBCWASHINGTON - Republicans say they want to hear les ... _URL_
 1712		Got 5\/28 playing Mythical TV Musicians . Try to top that : _URL_ #sporcle 
 1713	PER/Caleb Haine;PER/Jay Cutler;	"got to give it to the kid Caleb Haine , he nearly pulled of the victory ... damn you Jay Cutler"
-1714	PER/Grant Bradley;	"Grant Bradley : Miners inhabit a deep , dark , dank world - National - NZ Herald News _URL_ via _Mention_"
+1714	PER/Grant Bradley;ORG/NZ Herald News;	"Grant Bradley : Miners inhabit a deep , dark , dank world - National - NZ Herald News _URL_ via _Mention_"
 1715	ORG/ESPN;	Great week to be a longhorn ! 300 million dollar deal with . ESPN and we just beat the number 2 team in the country .
 1716	LOC/Green bay;MISC/Superbowl;	Green bay to the Superbowl ... So I guess they 're dope ? Lol
 1717	ORG/Green Day;MISC/Reading Festival;	Green Day - We Are The Champions - Live at Reading Festival 2004 : _URL_
