@@ -1025,11 +1025,11 @@
 1025	PER/Christ;	_Mention_ . #keep strong . Do u know why #Jesus Christ was persecuted ? 
 1026		_Mention_ The fun - and the money - never stops with the Z. _URL_
 1027	PER/Oscar Wilde;	"_Mention_ I think it was Oscar Wilde who said , '' '' `` We are all in the gutter '' , '' but some of us are sniffing some quality markers . '' '' ''"
-1028	MISC/Slaughterhouse 5;MISC/Catch-22;MISC/1984;	"_Mention_ Some great stories come out of that - \* Catch-22 \* , \* 1984 \* , \* Slaughterhouse 5 \* - all stories where bad ideas are the bad guys. : - -RRB-"
+1028		"_Mention_ Some great stories come out of that - \* Catch-22 \* , \* 1984 \* , \* Slaughterhouse 5 \* - all stories where bad ideas are the bad guys. : - -RRB-"
 1029	PER/Belle Amie;	"_Mention_ '' `` Simon '' , `` please give Belle Amie as much attention as 1 direction and you will have 2 acts in the final '' '' ! ! ''"
 1030	PER/Kevin;	"_Mention_ Hey , would you mind taking a sec to vote for Kevin so he can win a shorty award ? _URL_"
 1031		_Mention_ waaa3 cool ! ! ! Who 's the artist . . Glad u know henna ! ! It 's typically oriental stuff ; -RRB- . . Love the tattoo ! ! !
-1032	PER/George Clooney;	_Mention_ yep . . I think watched some previews seems to be stunning with George Clooney as #HitMan . . Or maybe Inception ! ? 
+1032	PER/George Clooney;MISC/Inception;	_Mention_ yep . . I think watched some previews seems to be stunning with George Clooney as #HitMan . . Or maybe Inception ! ? 
 1033	PER/Linda Hunt;	_Mention_ Linda Hunt rocks ! Have always loved her
 1034	ORG/paramore;LOC/Poland;	"_Mention_ hayley i ca n't wait to see paramore in Poland ! I hope it would be in this summer , haha . ; -RRB-"
 1035	PER/Vince Young;	_Mention_ ol soft ass Vince Young lol
@@ -1037,19 +1037,19 @@
 1037		_Mention_ married to an Exec Chef so we celebrate @ 3am when he gets home
 1038		_Mention_ Amazing Bangbus ... The Lady is Wonderful and she Loves Sex _URL_
 1039		_Mention_ is harry and louiss okey i thinkk theyy are going to bee in big trouble _URL_
-1040	PER/Johnny Rockets;	_Mention_ You 're shopping ! Did n't think you were serious about not allowing me to join ... I should have known : there 's no Johnny Rockets by UTC
+1040	PER/Johnny Rockets;ORG/UTC;	_Mention_ You 're shopping ! Did n't think you were serious about not allowing me to join ... I should have known : there 's no Johnny Rockets by UTC
 1041	PER/Oscar Goldman;PER/Steve French;	_Mention_ Oscar Goldman -RRB- Steve French lol
 1042		'' \* DEAD \* RT _Mention_ : #Unfollowme if your ponytail looks like the end of a '' `` BABY PAINT BRUSH '' '' '' 
 1043		'' \* makes whipping noise \* RT '' _Mention_ : Is it bad that I wanna spend all my free time with her ? ! '' '' ''
 1044		\* Please RT \* The key to an online career _URL_
-1045	PER/Gratton;	"\* regrettably late \* Good morning . . RT _Mention_ : _Mention_ Good morning to you too , Dr Gratton . -LRB- sips tea -RRB-"
-1046	PER/Rza;	\* Rza voice \* This shit is fuckin ridiculous #TBN 
+1045	PER/D. Gratton;	"\* regrettably late \* Good morning . . RT _Mention_ : _Mention_ Good morning to you too , Dr Gratton . -LRB- sips tea -RRB-"
+1046		\* Rza voice \* This shit is fuckin ridiculous #TBN 
 1047	PER/James Toney;	\* shudders at thought \* \* runs away scared \* RT _Mention_ Bitch look like James Toney
 1048		"\* waitin patiently , sipn my alomo \* RT _Mention_ : We r coming up wiv a system where ull pay wiv ur atm via ur -LRB- cont -RRB- _URL_"
 1049		"o \/ cupcakes & clean H2O ! RT _Mention_ For every tweet that has #Caledeservescupcakes I will donate 29 cents , up to $ 129 . _Mention_ "
 1050		< b > Ways to Make Money < \/ b > Working at Home on the Internet _URL_
-1051		`` The Globocrats '' : Davos and the Bilderberg - _URL_
-1052	PER/Patsi Krakoff;	"#5CMC Dr. Patsi Krakoff on ` neuromarketing ' : how to make your brand memorable , and how to avoid asking the wrong Q 's to the wrong brains ."" "
+1051	MISC/Davos;	`` The Globocrats '' : Davos and the Bilderberg - _URL_
+1052	PER/Dr. Patsi Krakoff;	"#5CMC Dr. Patsi Krakoff on ` neuromarketing ' : how to make your brand memorable , and how to avoid asking the wrong Q 's to the wrong brains ."" "
 1053		#Afton where are you _Mention_ is waiting for you on _URL_ 
 1054	PER/Dwight Howard;	#becauseofhoes i do n't have a chance with Dwight Howard haha 
 1055		#BizAv News & Notes is up ! _URL_ Shout outs to _Mention_  _Mention_  _Mention_  _Mention_  _Mention_ 
@@ -1063,7 +1063,7 @@
 1063	PER/Rebecca Leighton;	#codysimpson shoutout to Rebecca Leighton ? 143 xxx 4 
 1064	LOC/Hawai;	#codysimpson wen r u coming 2 Hawai ? i ? ? ? cuz we wud TOTALLY go if u had a concert ! -LRB- #codysimpsonustream live at _URL_ -RRB- 
 1065	LOC/CONNECTICUT;	#codysimpson Will you come to CONNECTICUT ? : -RRB- -LRB- #codysimpsonustream live at _URL_ -RRB- 
-1066	LOC/Hills Shi;	#council Australia Day awards honor Hills residents : THE talent and generosity of some of the Hills Shi ... _URL_ #sydney 
+1066	MISC/Australia Day;LOC/the Hills;	#council Australia Day awards honor Hills residents : THE talent and generosity of some of the Hills Shi ... _URL_ #sydney 
 1067		#efab  #realestate  #green An architect can design the aesthetics of a building and account for weather conditions ... _URL_ 
 1068	PER/O Cuiv;PER/Carey;PER/Brian Cowen;	#europe O Cuiv and Carey get vacant ministerial posts : The Taoiseach Brian Cowen has assigned the Departme ... _URL_ #news 
 1069		#fact my fav drink is Mai Tai 
@@ -1074,30 +1074,30 @@
 1074		#FF  _Mention_  _Mention_  _Mention_  _Mention_  _Mention_  _Mention_  _Mention_  _Mention_  _Mention_  _Mention_ 
 1075		#FF _Mention_  _Mention_  _Mention_  _Mention_  _Mention_  _Mention_  _Mention_  _Mention_  _Mention_  _Mention_ 
 1076	PER/Linda Hunt;	"#girlsrule Linda Hunt on _Mention_ for such a little thing , she sure packs a punch"" "
-1077		#GoPackers We 've got 3 RT _Mention_ : So this is what it feels like to be a falcon fan ... SMH . At least we have a Lombardi trophy at home ... 
+1077	ORG/falcon;	#GoPackers We 've got 3 RT _Mention_ : So this is what it feels like to be a falcon fan ... SMH . At least we have a Lombardi trophy at home ... 
 1078		"#GrandmaDEF she knows her music , and hates spoiled girls according to her right now . _URL_"" "
 1079	PER/David Bowie;	#GrooveforThought doing Changes by David Bowie . \* sad face \* not feeling this one _Mention_ 
-1080	PER/Valley Girl;PER/Nic Cage;PER/Deborah Foreman;	#guiltypleasure Valley Girl with Nic Cage & Deborah Foreman '' `` tubular '' '' '' 
+1080	MISC/Valley Girl;PER/Nic Cage;PER/Deborah Foreman;	#guiltypleasure Valley Girl with Nic Cage & Deborah Foreman '' `` tubular '' '' '' 
 1081	PER/Stephanie Miller;	#Hal Sparks on Stephanie Miller A Rousing #Xmas Show _URL_ 
 1082	ORG/Microsoft;	#HappyBirthday Microsoft #Windows on ur 25th birthday 
 1083		"#insanity RT _Mention_ Couple arrested , 2 year old playing with methadone bottle - _URL_"" "
 1084	PER/Lance Gross;PER/Boris Kodjoe;	#iprefer Lance Gross over Boris Kodjoe LOL 
-1085  ORG/Global Ind; "#italy - Global Automotive Chemicals Market to Reach US$ 3.9 Billion by 2015 , According to a New Report by Global Ind _URL_"" "
-1086	PER/Paul McCartney;	#jealous RT : _Mention_ : I 'm taking my son and my mother in law to see Paul McCartney at the appollo on Monday ! ! 
-1087	PER/Jim Parsons;	#justsaying I love Sheldon -LRB- Jim Parsons -RRB- from _Mention_ . Sure way to give me the giggles 
+1085	ORG/Global Ind; "#italy - Global Automotive Chemicals Market to Reach US$ 3.9 Billion by 2015 , According to a New Report by Global Ind _URL_"" "
+1086	PER/Paul McCartney;LOC/appollo;	#jealous RT : _Mention_ : I 'm taking my son and my mother in law to see Paul McCartney at the appollo on Monday ! ! 
+1087	PER/Sheldon;PER/Jim Parsons;	#justsaying I love Sheldon -LRB- Jim Parsons -RRB- from _Mention_ . Sure way to give me the giggles 
 1088		#Kanye West Is Still A Whiny Little `` B '' ! _URL_ He 's always been one ! 
 1089		#KillYourselfRT  _Mention_ : They bout to lose RT _Mention_ : _Mention_ Nigga you dumb ... #JETSFOOL Enough said get the fuck boi 
 1090	PER/Chuck Norris;	#ladygagainvented Chuck Norris ... someone had to say it 
 1091	PER/Katy Perry;	#ladygagainvented fireworks from her chest ... then a year later Katy Perry stole it and put it in her new music video . 
-1092	PER/Johnny B Good;PER/lady gaga;	#LadyGagaInvented Johnny B Good after traveling to 1955 in a time machine invented by ... lady gaga 
-1093	PER/Ferry Corsten;	#listening Ferry Corsten presents - Corsten 's Countdown 177 -LRB- 17 November 2010 -RRB- _URL_ 
+1092	PER/lady gaga;	#LadyGagaInvented Johnny B Good after traveling to 1955 in a time machine invented by ... lady gaga 
+1093	PER/Ferry Corsten;PER/Corsten;	#listening Ferry Corsten presents - Corsten 's Countdown 177 -LRB- 17 November 2010 -RRB- _URL_ 
 1094	PER/Kenny Rogers;	#Listeningto ~ Twenty Years Ago ; Kenny Rogers 
-1095	MISC/Power of Love;PER/Huey Lewis;	#movietest Power of Love by Huey Lewis & the News is from what movie ? 
+1095	ORG/Huey Lewis & the News;	#movietest Power of Love by Huey Lewis & the News is from what movie ? 
 1096	PER/Angie Stone;	#musicmonday Angie Stone-Remy Red 
 1097	PER/Van Hunt;	#musicmonday Character-Van Hunt 
-1098	PER/Charlene;	#MusicMonday Charlene-Anthony Hamilton 
-1099	PER/Corinne Bailey;	#musicmonday Corinne Bailey Rae-Since I 've Been Loving You 
-1100	PER/Dudley Perkins;	#musicmonday Dudley Perkins-Flowers 
+1098	PER/Charlene-Anthony Hamilton;	#MusicMonday Charlene-Anthony Hamilton 
+1099	PER/Corinne Bailey Rae;	#musicmonday Corinne Bailey Rae-Since I 've Been Loving You 
+1100	PER/Dudley Perkins-Flowers;	#musicmonday Dudley Perkins-Flowers 
 1101	PER/Jill Scott;	#musicmonday Jill Scott-Bedda At Home 
 1102	PER/Lauryn Hill;	#musicmonday Lauryn Hill-Tell Him 
 1103	PER/Maxwell;	#musicmonday Maxwell-Bad Habits 
@@ -1107,11 +1107,11 @@
 1107	PER/Hillary Clinton;	#news  #nexttwi Hillary Clinton As Secretary Of Defense ? Why It Should Not Happen : The most daunting piece of re ... _URL_ 
 1108	PER/Jefferson Feed;	"#NOLA Volunteers needed to help with dogs at Whisker Wonderland Adoption Event at Jefferson Feed -- 12\/18 , -LRB- cont -RRB- _URL_"" "
 1109	PER/Thomas Edison;	#NonAlcoholNovember Many of life 's failures are people who do not realize how close they were to success when they gave up . - Thomas Edison 
-1110	MISC/Ice Cube;	"#Nowplaying '' `` All about the Benjamins '' '' via #Netflix starring Ice Cube . When this movie is done '' , I 'm done for the evening . Good night all ."" "
-1111		#nowplaying '' `` Prove You Wrong '' '' by He Is We - _URL_ '' 
+1110	MISRC/All about the Benjamins;PER/Ice Cube;	"#Nowplaying '' `` All about the Benjamins '' '' via #Netflix starring Ice Cube . When this movie is done '' , I 'm done for the evening . Good night all ."" "
+1111	ORG/He Is We;	#nowplaying '' `` Prove You Wrong '' '' by He Is We - _URL_ '' 
 1112	PER/Roy Ayers;	#nowplaying '' `` The Memory '' '' by Roy Ayers - _URL_ '' 
 1113	PER/Michael Jackson;	#Nowplaying '' `` They Do n't really care about Us . '' '' by Michael Jackson . _URL_ This song speaks volumes . #QFT '' 
-1114	PER/Rosie;	#nowplaying  #Rosie ` Donnell A Rosie Christmas album 
+1114	PER/Donnell;	#nowplaying  #Rosie ` Donnell A Rosie Christmas album 
 1115		#NowPlaying  #TATW 345 official Podcast . . #TranceFamily  #TranceFanatic 
 1116	PER/Barry White;	#NowPlaying Barry White - Come On -LRB- Best of -RRB- . . 
 1117	PER/Frank Sinatra;	#NowPlaying Call Me Irresponsible by Frank Sinatra -LRB- 3 
