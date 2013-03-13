@@ -422,7 +422,7 @@
 422	PER/Mike Bloomberg;PER/Cathie Black;	"_Mention_ Mike Bloomberg 's Approval Rating Lowest in 5 Yrs , Following Cathie Black Appt _URL_"
 423	PER/Monfils;PER/Federer;MISC/Paris Masters;	"_Mention_ Monfils beats top-seeded Federer to reach Paris Masters final : On the brink of defeat , courtesy of five mat ... _URL_"
 424	PER/Michelle;PER/Sasha;PER/Malia	"_Mention_ Mr. President : Would you send Michelle\/Sasha\/Malia through TSA screening ? Naked photos or invasive genital groping , you choose ."
-425	LOC/China;MISC/Koreas;	_Mention_ My latest blog on Monday is going to be a blockbuster . Be sure to read my analysis of China 's role in the tale of 2 Koreas .
+425	LOC/China;LOC/Koreas;	_Mention_ My latest blog on Monday is going to be a blockbuster . Be sure to read my analysis of China 's role in the tale of 2 Koreas .
 426	PER/Nadal;MISC/ATP tournament;LOC/LONDON;ORG/AP;	"_Mention_ Nadal displays rare fit of rage at ATP tournament : LONDON -LRB- AP -RRB- -- Incensed and even a little indignant , Raf ... _URL_"
 427	MISC/MMA;ORG/CNN;	_Mention_ Octagon Blog : MMA on CNN
 428	MISC/MMA;ORG/CNN International;	_Mention_ Octagon Blog : MMA on CNN International
