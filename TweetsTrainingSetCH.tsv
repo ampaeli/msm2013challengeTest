@@ -416,7 +416,7 @@
 416	ORG/CNN;	"_Mention_ Give the figure CNN cited , that means approximately one in six Americans is food insecure . Figure sounds accurate ."
 417	ORG/GOP;	_Mention_ GOP to unemployed-too bad _URL_
 418	PER/Sarah;LOC/Alaska;	_Mention_ I wonder if Sarah is doing this 4 political gain or promoting Alaska ?
-419	PER/Jon Wertheim;PER/Federer;ORG/Paris Masters;PER/Federer;	_Mention_ Jon Wertheim : Federer 's match-point woes continue at Paris Masters : Should Federer 's mental game be questio ... _URL_
+419	PER/Jon Wertheim;PER/Federer;MISC/Paris Masters;PER/Federer;	_Mention_ Jon Wertheim : Federer 's match-point woes continue at Paris Masters : Should Federer 's mental game be questio ... _URL_
 420	PER/Edward Nigro;	_Mention_ Look for the latest blog on Monday from Edward Nigro is _Mention_ _URL_
 421	LOC/Michigan 's Lansing Community College;	_Mention_ Michigan 's Lansing Community College downtown campus gets bomb scare ... _URL_
 422	PER/Mike Bloomberg;PER/Cathie Black;	"_Mention_ Mike Bloomberg 's Approval Rating Lowest in 5 Yrs , Following Cathie Black Appt _URL_"
