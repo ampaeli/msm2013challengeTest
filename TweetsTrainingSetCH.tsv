@@ -1017,7 +1017,7 @@
 1017	PER/Madoff;	_Mention_ guy Madoff is only one person ...
 1018	PER/Richard Branson;	_Mention_  _Mention_  #Recovery PROMOTES #jobs  _Mention_ Richard Branson talks about his new high-speed rail project _URL_ 
 1019	PER/Richard Branson;	_Mention_ tell _Mention_  #Recovery PROMOTES #jobs  _Mention_ Richard Branson talks his new high-speed rail project _URL_ 
-1020	PER/Cutler;LOC/Chicago;PER/Cutler;	_Mention_ Not only did Cutler quit on the team he quit on the city of Chicago . Cutler can never show his face again .
+1020	PER/Cutler;LOC/the city of Chicago;PER/Cutler;	_Mention_ Not only did Cutler quit on the team he quit on the city of Chicago . Cutler can never show his face again .
 1021	PER/Kathleen Kennedy Townsend;PER/Palin;	"_Mention_ No worries , Kathleen Kennedy Townsend . Everyone knows Palin 's an idiot who 's wrong about everything . wapo . st\/eu4DfN"
 1022	PER/Kathleen Kennedy Townsend;PER/Palin;	"_Mention_ No worries , Kathleen Kennedy Townsend . Everyone knows Palin 's an ignorant idiot who 's wrong about everything ."
 1023	PER/Mark;LOC/Wolverhampton;	_Mention_ keep it up Mark Wolverhampton loves you so far ! .
@@ -1520,7 +1520,7 @@
 1520		Damn my own niggas do n't believe me RT _Mention_ : _Mention_ nah I used 2 give u Da benefit of the Doubt but nah ! U dat Nigga blacc
 1521		Damn this nigga just backed into this bitch car at the gas station
 1522	PER/Barack obama;	Damn ... Never seen Barack Barack obama like this hahah _URL_ Hotnas Brothers
-1523	ORG/NBC;PER/William;PER/Kate;	Dateline NBC is showing William & Kate A Royal Love Story ! #engrossed 
+1523	MISC/Dateline NBC;PER/William;PER/Kate;	Dateline NBC is showing William & Kate A Royal Love Story ! #engrossed 
 1524	PER/David Hasselhoof;	"David Hasselhoof on _Mention_  _Mention_ tomorrow , why , he 's a has-been , he is freakin creepy & a Narcissist"
 1525	PER/David Hasselhoof;	"David Hasselhoof on #TheViewTV tomorrow , why , he 's a has-been , he is freakin creepy & a Narcissist "
 1526	PER/David Suzuki;	David Suzuki makes more sense on the economy
@@ -1706,7 +1706,7 @@
 1706	PER/Gratton;	"Good morning \* reaching for coffee \* RT _Mention_ : _Mention_ Good morning to you too , Dr Gratton . -LRB- sips tea -RRB-"
 1707	PER/Gratton;	"Good morning . . \* sipping beer \* RT _Mention_ : _Mention_ Good morning to you too , Dr Gratton . -LRB- sips tea -RRB-"
 1708	ORG/ManU;ORG/Bir;ORG/the gunners;ORG/liverpool;	Good show by ManU against Bir . . btw good comeback by the gunners and liverpool ...
-1709	LOC/Coney Island;	Good thing barbershop quartets do n't perform national anthems . There is always the constant threat of Coney Island Baby
+1709    Good thing barbershop quartets do n't perform national anthems . There is always the constant threat of Coney Island Baby
 1710		"GOOOOO ! RT _Mention_ : come on #Bears , lets get this win ! "
 1711	ORG/GOP;PER/Obama;ORG/Republicans;	GOP lawmakers look for signs of new Obama approach - AP : MSNBCWASHINGTON - Republicans say they want to hear les ... _URL_
 1712		Got 5\/28 playing Mythical TV Musicians . Try to top that : _URL_ #sporcle 
@@ -2368,7 +2368,7 @@
 2368	ORG/Myspace;ORG/myspace;	Myspace : What is the code to put a border around the white thing in your myspace profile . ? _URL_
 2369	PER/Nafizwan Adnan;PER/Alan Clyne;	Nafizwan Adnan and Alan Clyne are scrapping it out in the other semi as we speak .
 2370	PER/Beady Eye;	nah i know you did thou ! . RT _Mention_ : _Mention_ Did you manage to get tickets for Beady Eye ?
-2371	MISC/NASCAR;	NASCAR 2011 The Game ` Car Setups ' video game trailer - PS3 X360 Wii _URL_
+2371    NASCAR 2011 The Game ` Car Setups ' video game trailer - PS3 X360 Wii _URL_
 2372	PER/Natalie Portman;	Natalie Portman : Her Evolution From Eerily Mature Child Star to Girlish Grown-Up - The Moviefone Blog : _URL_ via _Mention_
 2373	ORG/Nature Sounds;	Nature Sounds Music #Nature Pro Sound Effects Rain Sound Sounds Of Rain Pro Sound Effects _URL_ 
 2374		Need 2 put music on my ipod b4 I get on this plane tomorrow
@@ -2513,7 +2513,7 @@
 2513	PER/Penelope Cruz;	Penelope Cruz looks so fine in this perfume commercial
 2514	MISC/Scarface;	People always tryin to take credit that rightfully belongs to me ... but it 's OK \* Scarface voice \*
 2515	PER/Tim Ferriss;	People are smarter than you think . Give them a chance to prove themselves . ~ Tim Ferriss
-2516	LOC/Trafford;MISC/WW2;	"People died , you prick RT _Mention_ : Whichever German dropped the bomb that hit Old Trafford in WW2 is a true legend . #mufc "
+2516	LOC/Old Trafford;MISC/WW2;	"People died , you prick RT _Mention_ : Whichever German dropped the bomb that hit Old Trafford in WW2 is a true legend . #mufc "
 2517	PER/Napoleon Hill;	Persistence is to the character of man as carbon is to steel . ~ Napoleon Hill
 2518	PER/peter kay;	peter kay live from the top of the tower is such an amazing dvd ! .
 2519	PER/Mark Wahlberg;ORG/PGA;	PGA Star Punches Mark Wahlberg - _URL_ via _Mention_
@@ -2608,7 +2608,7 @@
 2608	PER/Debra Zimmer;	"Remember , their called ? Action Heroes ? , not ? sit-on-your-butt-and-dream-about-it ? heroes . Debra Zimmer"
 2609	PER/David Allen;	"Remember , you 're the one who creates speed , because you 're the one who allows stuff to enter your life . ~ David Allen"
 2610	PER/Dale Carnegie;	Remember happiness does n't depend upon who you are or what you have ; it depends solely on what you think ~ Dale Carnegie
-2611	PER/Pence;PER/Bush;	Rep. Pence Inadvertently Admits Bush Tax Cuts Did Not Work _URL_
+2611	PER/Pence;	Rep. Pence Inadvertently Admits Bush Tax Cuts Did Not Work _URL_
 2612	PER/Rebecca Okoro;	Replacing it with a piece of hers . Thank God that I found you at the right time . Love you so much #Esosa Rebecca Okoro . 
 2613		Report : ` Cooler ' version of iPhone 4 coming soon _URL_
 2614		`` Reports and <NEWLINE> Articles : Reports and <NEWLINE> Articles _URL_ ''
@@ -2664,7 +2664,7 @@
 2664		"RT _Mention_ RT _Mention_ : #Cancer females are motherly , caring , and comforting that personify the word w-o-m-a-n . "
 2665	LOC/Dunwoody Prep;LOC/Mt. Vernon;	RT _Mention_ : Man Shot In Front Of Dunwoody Prep ; Police looking for silver Dodge Minivan with no tag last seen WB on Mt. Vernon #new ... 
 2666	PER/Christina Applegate;	RT _Mention_ : Spreading the word about Christina Applegate 's auction for Breast Cancer Awareness . Will benefit her org _URL_ ...
-2667	PER/Graham Norton;ORG/BBC1;ORG/bbc;	"RT _Mention_ : Was on the Graham Norton show on BBC1 last night so if you were out partying and want to see it today , check bbc ip ..."
+2667	MISC/the Graham Norton show;ORG/BBC1;ORG/bbc;	"RT _Mention_ : Was on the Graham Norton show on BBC1 last night so if you were out partying and want to see it today , check bbc ip ..."
 2668	MISC/Austin Powers;	"RT _Mention_ : Hang on , did _Mention_ just say _Mention_ reminds her of Austin Powers on _Mention_ ? #Slapyourself situation ... "
 2669	PER/Charles Woodson;	RT _Mention_ : Really Charles Woodson ? #CmonSon -- > They did n't even try on that one . 
 2670	PER/Sacha Goldberger;	RT _Mention_ : Sacha Goldberger used photography to help his grandmother with her depression : _URL_
@@ -2691,7 +2691,7 @@
 2691	PER/Julian Assange;ORG/Time magazine;	RT _Mention_ : HOLY FUCK ! Julian Assange removed from Time magazine 's man of the year award -LRB- he was at no. 1 -RRB- _URL_ #wi ... 
 2692	PER/Alicia Keys;	RT _Mention_ : Congrats to Alicia Keys on her baby boy - do n't know her but had a few sherries and feeling sentimental
 2693	PER/Elton John;	RT _Mention_ : Elton John is editting the independent tomorrow for Worlds AIDS day lets tweet him our support _Mention_ - go on - do it ! !
-2694	PER/Alan Titchmarsh;	RT _Mention_ : Doing The Alan Titchmarsh show today ! ! I 'm Super duper excited ! ! Performing the Silence ! Make sure you all tune in ! ! xx
+2694	PER/The Alan Titchmarsh show;	RT _Mention_ : Doing The Alan Titchmarsh show today ! ! I 'm Super duper excited ! ! Performing the Silence ! Make sure you all tune in ! ! xx
 2695		RT _Mention_ : RT _Mention_ : Come and check out my new blog ! _URL_ \/ \/ Love it . . esp the pics of your family . Beautiful ! \/ \/ Thanks
 2696	PER/Patti Smith;MISC/National Book Award;	"RT _Mention_ : The _Mention_ has unlocked a 2002 profile of Patti Smith from the archives , in honor of her National Book Award win ..."
 2697	PER/Sananda Maitreya;	`` RT _Mention_ : listening to '' `` Who is Sananda ? - Interview 2005 - Sananda Maitreya '' '' ? _URL_ ''
@@ -2785,7 +2785,7 @@
 2785	ORG/Rolls;	RT _Mention_ : Engine fault to hit Rolls profits _URL_
 2786	PER/Berlanga;	RT _Mention_ : Film-maker Berlanga dies aged 89 _URL_
 2787	PER/Suu Ky;	RT _Mention_ : Freed Suu Kyi addresses followers _URL_
-2788		RT _Mention_ : French cabinet quits ahead of reshuffle _URL_
+2788	ORG/French cabinet;	RT _Mention_ : French cabinet quits ahead of reshuffle _URL_
 2789		RT _Mention_ : German Interior Minister : heightened threat of terror attack
 2790	PER/Haye;PER/Harrison;	RT _Mention_ : Haye stops Harrison to keep title _URL_
 2791	PER/Haye;	RT _Mention_ : Haye unfazed by weight difference _URL_
