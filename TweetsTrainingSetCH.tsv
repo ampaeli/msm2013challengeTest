@@ -69,8 +69,8 @@
 69		=- _Mention_ : Mysteries of the deep sea _Mention_ _URL_
 70	ORG/Google;ORG/Groupon;	=- What a Google\/Groupon deal means for newspapers !_URL_ via _Mention_
 71	LOC/west coast;	-- dude is a 100 % product of the west coast .
-72	PER/Lady Gaga;LOC/Helsinki;	-- Lady Gaga - ` Speechless ' live @ Helsinki 10/13/2010 _URL_ _Mention_ also talks about her Grampa who died recently
-73	PER/Lady Gaga;LOC/Helsinki;	-- Lady Gaga - Speechless live @ Helsinki 10/13/2010 _URL_ _Mention_ talks about her Grampa who died recently
+72  PER/Lady Gaga;LOC/Helsinki; MISC/Speechless;	-- Lady Gaga - ` Speechless ' live @ Helsinki 10/13/2010 _URL_ _Mention_ also talks about her Grampa who died recently
+73	PER/Lady Gaga;LOC/Helsinki;	MISC/Speechless; -- Lady Gaga - Speechless live @ Helsinki 10/13/2010 _URL_ _Mention_ talks about her Grampa who died recently
 74	PER/Aretha Franklin;	: - -LRB- Aretha Franklin Has Pancreatic Cancer _URL_
 75	PER/Lady Gaga;	": - -RRB- x RT _Mention_ : _Mention_ for some reason , Lady Gaga 's webcam followers want that shiny disco ball from me now :"
 76	ORG/McDonald 's;	! ! ! RT _Mention_ : 2 McDonald 's Apple Pies for the extra low price of 1 smack-a-roo is a f \* ckin STEAL ! ! ! ! ! Name a better bargain ? ? ?
